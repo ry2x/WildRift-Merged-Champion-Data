@@ -1,0 +1,3789 @@
+[
+  {
+    "id": "Aatrox",
+    "key": 266,
+    "name": "Aatrox",
+    "title": "Darkin Kılıcı",
+    "describe": "Bir zamanlar Shurima'yı Hiçlik'e karşı savunan onurlu savaşçılar olan Aatrox'la kardeşleri zamanla Runeterra için çok daha büyük bir tehdit haline geldiler ve sonunda ölümlülerin kurnazca büyülerine yenildiler. Fakat yüzyıllar boyu hapis kalan Aatrox...",
+    "roles": [
+      "Fighter"
+    ],
+    "type": "Kan Kuyusu",
+    "hero_id": 10002,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 3,
+    "utility": 2
+  },
+  {
+    "id": "Ahri",
+    "key": 103,
+    "name": "Ahri",
+    "title": "Dokuz Kuyruklu Tilki",
+    "describe": "Ruhlar âleminin sihrine doğuştan bağlı olan Ahri, avının duygularını yönlendirebilen ve özünü tüketebilen tilki görünümlü bir vastaya. Tükettiği her ruhtan parça parça hatıralar ve bilgiler edinen Ahri, bir zamanlar güçlü ancak dikbaşlı bir avcıydı...",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10038,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Akali",
+    "key": 84,
+    "name": "Akali",
+    "title": "Efendisiz Suikastçı",
+    "describe": "Kinkou Tarikatı'nı ve Gölgenin Yumruğu unvanını terk eden Akali artık halkının ihtiyaç duyduğu ölümcül silah olmaya hazır. Saldırılarını tek başına yapıyor. Ustası Shen'den öğrendiklerine sıkı sıkı sarılmış olsa da Ionia'yı düşmanlarının canlarını teker...",
+    "roles": [
+      "Assassin"
+    ],
+    "type": "Enerji",
+    "hero_id": 10031,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Akshan",
+    "key": 166,
+    "name": "Akshan",
+    "title": "Efendisiz Muhafız",
+    "describe": "Tehlike karşısında gülümseyen erdemli intikamcı Akshan, baş döndüren karizmasıyla kötülüğe karşı savaşıyor. Ayrıca bunu yaparken asla bir gömlek giymemesi de cabası. Gizlenerek dövüşme sanatında son derece yetenekli savaşçı, ansızın gölgelere...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10100,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Alistar",
+    "key": 12,
+    "name": "Alistar",
+    "title": "Minotor",
+    "describe": "Korkunç bir üne sahip güçlü bir savaşçı olan Alistar, kabilesinin Noxus İmparatorluğu tarafından katledilmesinin intikamını almaya çalışıyor. Esir alınıp gladyatörlük hayatına mahkûm olsa da kırılmaz iradesi sayesinde gerçek bir canavara dönüşmekten...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10081,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 3,
+    "utility": 2
+  },
+  {
+    "id": "Ambessa",
+    "key": 799,
+    "name": "Ambessa",
+    "title": "Savaş Maderşahı",
+    "describe": "Medarda adını duyan herkes bu ailenin lideri olan Ambessa'ya saygı duyar ve ondan korkar. Noxus'lu bir general olan Ambessa, çatışmada acımasız bir güç ve pervasız bir kararlılığın ölümcül bir birleşimine dönüşür. Maderşah rolünde de aynı kimliği...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Enerji",
+    "hero_id": 10082,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": true,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Amumu",
+    "key": 32,
+    "name": "Amumu",
+    "title": "Hüzünlü Mumya",
+    "describe": "Efsaneye göre Amumu bir arkadaş bulabilmek ümidiyle dünyayı karış karış dolaşan, Shurima'nın geçmişinden melankolik bir ruh. Etkisi altında olduğu kadim lanet yüzünden dokunduğu, sevdiği her şeyin felaketi olduğundan, sonsuza dek yapayalnız kalmaya...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10004,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Support",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Anivia",
+    "key": 34,
+    "name": "Anivia",
+    "title": "Buz Ankası",
+    "describe": "Anivia Freljord'u korumak için sonsuz yaşam, ölüm ve yeniden doğuş döngüsüne katlanan, kendini iyiliğe adamış, kanatlı bir ruh. İnsafsız buz ve keskin rüzgârların dünyaya getirdiği bu yarı ilah emrindeki element güçlerini, yurduna gölge düşürmeye cüret...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Annie",
+    "key": 1,
+    "name": "Annie",
+    "title": "Şeytan Çekici",
+    "describe": "Çok bilmişliğinin verdiği sevimlilikten belli olmasa da Annie sınırsız ateş güçlerine sahip, son derece tehlikeli bir çocuk büyücü. Noxus'un kuzeyindeki dağların karanlık gölgeleri bile bu gücü gizleyemiyor. Ateşe olan doğal yatkınlığı çok küçük...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10036,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Aphelios",
+    "key": 523,
+    "name": "Aphelios",
+    "title": "İtikatın Silahı",
+    "describe": "Ellerinde silahlarıyla ay ışığının gölgelerinden beliren Aphelios, inancına düşman olanları kasvetli bir sessizlik içinde ortadan kaldırır. Kendisini sadece keskin nişancılığı ve silahlarının sesiyle ifade eder. Onu dilsiz kılan bir zehirden güç...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Ashe",
+    "key": 22,
+    "name": "Ashe",
+    "title": "Ayaz Okçu",
+    "describe": "Avarosa Kabilesi'nin Buzdoğan savaş anası Ashe, kuzeyin en kalabalık güruhuna komutanlık ediyor. Metanetli, zeki, idealist ama liderlik vazifesinden de bir o kadar rahatsız olan Ayaz Okçu, soyunun atadan kalma büyülerini kullanarak Gerçek Buz'dan bir...",
+    "roles": [
+      "Marksman",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10079,
+    "is_wr": true,
+    "lanes": [
+      "AD",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "AurelionSol",
+    "key": 136,
+    "name": "Aurelion Sol",
+    "title": "Yıldızların Hâkimi",
+    "describe": "Aurelion Sol, bir zamanlar kozmosun engin boşluğunu kendi eseri olan gökyüzü harikalarıyla donatmasıyla tanınır. Şimdilerdeyse muhteşem gücü, kendisini kandırıp köleleştiren uzay kâşifi bir imparatorluğun boyunduruğunda. Yıldızları işlediği günlere...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10023,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Aurora",
+    "key": 893,
+    "name": "Aurora",
+    "title": "Dünyalar Arasındaki Cadı",
+    "describe": "Aurora maddi âlemle ruhlar âlemi arasında geçiş yapabilmesini sağlayan özgün bir güçle hayata geldi. Ruhlar âleminin sakinleri hakkında daha çok şey öğrenmekte kararlı olan Aurora, araştırmasında ilerlemek için memleketinden ayrıldı. Zamana yenik düşmüş...",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Azir",
+    "key": 268,
+    "name": "Azir",
+    "title": "Kumların İmparatoru",
+    "describe": "Ölümsüzlüğün eşiğine yaklaşmış gururlu bir adam olan Azir, çok eski zamanlarda Shurima'nın ölümlü bir imparatoruydu. Zaferlerin en büyüğünü yaşarken kibri yüzünden ihanete uğradı ve öldürüldü. Şimdiyse aradan geçen bin yılın ardından Yükseliş'e ermiş...",
+    "roles": [
+      "Mage",
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Bard",
+    "key": 432,
+    "name": "Bard",
+    "title": "Kozmik Koruyucu",
+    "describe": "Yıldızların ötesinden gelen seyyah Bard; yaşamın, kargaşanın umursamazlığına direnebileceği denge için mücadele eden bir sükunet temsilcisi. Çoğu Rüneterra'lı onun sıra dışı tabiatını sorgulayan çeşit çeşit türküler söylese de hepsi, muazzam büyü gücü...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Belveth",
+    "key": 200,
+    "name": "Bel'Veth",
+    "title": "Hiçlik'in İmparatoriçesi",
+    "describe": "Ele geçirilmiş bir şehrin hammaddesinden meydana gelen gaddar imparatoriçe Bel'Veth, Runeterra'nın sonunu getirmeyi... ve kendi tasarladığı dehşet verici gerçekliği başlatmayı arzuluyor. Yeryüzündeki dünyada asırlar boyunca birikmiş tarihi, bilgileri ve...",
+    "roles": [
+      "Fighter"
+    ],
+    "type": "",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Blitzcrank",
+    "key": 53,
+    "name": "Blitzcrank",
+    "title": "Büyük Buharlı Golem",
+    "describe": "Blitzcrank devasa, yok edilmesi neredeyse imkânsız, Zaun'lu bir robot. Aslında zararlı atıkları temizlemek için tasarlanmıştı ama temel amacını fazla sınırlayıcı buldu ve Zaun'un hassas ahalisine daha iyi hizmet edebilmek adına kendi biçimini değiştirdi...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10033,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Brand",
+    "key": 63,
+    "name": "Brand",
+    "title": "İntikam Ateşi",
+    "describe": "Vaktiyle buzlarla kaplı Freljord'daki kabilesinde Kegan Rodhe adıyla yaşayan ama şimdilerde Brand olarak anılan yaratık, büyük gücün baştan çıkarıcılığının yaşayan ibreti. Kegan, Efsanevi Dünya Rünlerinden birini ararken dostlarına ihanet edip rünü...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10119,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Braum",
+    "key": 201,
+    "name": "Braum",
+    "title": "Freljord'un Yüreği",
+    "describe": "Heybetli karın kaslarına ve çok daha büyük bir yüreğe sahip olan Braum, Freljord'da hürmet gören bir kahraman. Buzkara'nın kuzeyindeki bütün hanlarda engin bir meşe ormanını tek gecede dümdüz, koca bir dağı yumruklarıyla yerle yeksan ettiği anlatılır ve...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10021,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 1,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Briar",
+    "key": 233,
+    "name": "Briar",
+    "title": "Bastırılmış Açlık",
+    "describe": "Kara Gül'ün başarısız bir deneyinin sonucu olan Briar, kontrol edilemez açlığını ancak özel bir boyunduruk yardımıyla bastırabiliyor. Bu canlı silah, yıllar süren esaretinin ardından dizginlerinden kurtuldu ve özgürlüğüne kavuştu. Artık kimsenin...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Öfke",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Caitlyn",
+    "key": 51,
+    "name": "Caitlyn",
+    "title": "Piltover Şerifi",
+    "describe": "Barış gücünün en iyisi sayılan Caitlyn Kiramman, Piltover'ın en iyi nişancısı olarak şehri kurnaz suçlulardan arındırma konusunda rakip tanımıyor. Genellikle Vi ile birlikte göreve çıkıp ortağının fevri doğasını dengeliyor. Türünün tek örneği olan bir...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10112,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Camille",
+    "key": 164,
+    "name": "Camille",
+    "title": "Çelik Gölge",
+    "describe": "Kanunun sınırları dışında hareket edebilmek için tepeden tırnağa bir silaha dönüşen Camille, Ferros Hanesi'nin baş istihbaratçısı ve Piltover ile arka bahçesi Zaun'daki ticari işlerin pürüzsüz bir şekilde yürüdüğünden emin olmakla görevli, zarif ve...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10055,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Cassiopeia",
+    "key": 69,
+    "name": "Cassiopeia",
+    "title": "Yılanın Şefkati",
+    "describe": "Cassiopeia, başkalarını kötücül iradesine diz çöktürmeyi amaçlayan, ölümcül bir varlık. Noxus'lu asil Du Couteau Ailesi'nin en küçük ve güzel kızı olduğu günlerde, kadim güç arayışıyla Shurima'nın altındaki mahzen mezarlara girmişti. Burada karşılaştığı...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Chogath",
+    "key": 31,
+    "name": "Cho'Gath",
+    "title": "Hiçlik'in Dehşeti",
+    "describe": "Cho'Gath Runeterra'nın acımasız güneşine çıktığından beri açlığın en saf ve doyumsuz halinin güdümünde hareket ediyor. Hiçlik'in bütün canlıları tüketme arzusunun ideal bir yansıması olan Cho'Gath'ın karmaşık biyolojisi, maddeyi vücudunda büyümeye...",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Corki",
+    "key": 42,
+    "name": "Corki",
+    "title": "Gözüpek Bombacı",
+    "describe": "Yordle pilotu Corki'nin hiçbir şeyle değişmeyeceği iki şey var: Uçmak ve ihtişamlı bıyığı. Gerçi hangisini daha çok sevdiği tartışılır. Bandle Şehri'nden ayrıldıktan sonra Piltover'a yerleşti ve burada bulduğu harikulade tertibatlara gönlünü kaptırdı...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10060,
+    "is_wr": true,
+    "lanes": [
+      "AD",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Darius",
+    "key": 122,
+    "name": "Darius",
+    "title": "Noxus'un Eli",
+    "describe": "Noxus ordusunun, savaşta bilenmiş en korkunç komutanı olan Darius'tan daha yüce bir sembolü yok. Mütevazı geçmişinin üzerinde yükselip Noxus'un Eli mertebesine ulaşan bu savaşçı, birçoğu da Noxus'lu olan imparatorluğun düşmanlarını gözünü kırpmadan...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10071,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Diana",
+    "key": 131,
+    "name": "Diana",
+    "title": "Ay'ın Hiddeti",
+    "describe": "Diana, elindeki hilâl şeklindeki Ay bıçağıyla, Targon Dağı ve civarında yasaklanmış bir inanç olan Lunari'nin savaşçısı olarak mücadele ediyor. Karın, soğuk kış geceleri aldığı renkteki ışıl ışıl zırhıyla adeta gümüş Ay'ın gücünün vücut bulmuş hali...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10013,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Draven",
+    "key": 119,
+    "name": "Draven",
+    "title": "Görkemli Cellat",
+    "describe": "Noxus'ta Hükümcüler adıyla anılan savaşçılar, kanın oluk oluk aktığı ve gücün sınandığı arenalarda karşı karşıya gelir ama hiçbiri Draven kadar rağbet görmez. Bu eski savaşçı, seyirci kitlelerinin abartıya olan doğal yeteneğini ve elbette dönen...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10077,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "DrMundo",
+    "key": 36,
+    "name": "Dr. Mundo",
+    "title": "Zaun'un Delisi",
+    "describe": "Kafayı sıyırmış, feci şekilde cinayete meyilli ve korkutucu biçimde mor biri olan Dr. Mundo, Zaun halkının büyük bir bölümünü özellikle de karanlık gecelerde eve kapanmaya zorlayan şeylerden biri. Kendini bir doktor olarak gören canavar, bir zamanlar...",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "type": "Yok",
+    "hero_id": 10062,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Ekko",
+    "key": 245,
+    "name": "Ekko",
+    "title": "Zamanı Kıran Çocuk",
+    "describe": "Zaun sokaklarından gelme bir dâhi olan Ekko, zamana yön vererek her durumu kendi lehine çevirebiliyor. Gerçekliğin binlerce ihtimalini keşfetmek için kendi icadı olan Z-Kapsülü'nü kullanıyor ve neredeyse imkânsız görünen şeyleri her zaman ilk seferinde...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10011,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Elise",
+    "key": 60,
+    "name": "Elise",
+    "title": "Örümcek Kraliçe",
+    "describe": "Noxus'un en eski şehrinin derinliklerinde, her yanı sürgülenmiş, ışıksız bir sarayda yaşayan Elise, acımasız ve yırtıcı bir canavar. Vaktiyle güçlü bir ailenin hanımı olan Elise, bir yarı tanrı tarafından ısırılmadan önce ölümlüydü. Bu ısırık onu...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Evelynn",
+    "key": 28,
+    "name": "Evelynn",
+    "title": "Azabın Kucağı",
+    "describe": "Runeterra'nın karanlık köşelerinde gizlenen iblis Evelynn yeni kurbanını arıyor. Avını kendine, dişi bir insanın dolgun hatlı vücuduna benzettiği görünümüyle çekiyor. Fakat avı cazibesine kapılır kapılmaz Evelynn gerçek yüzünü gösteriyor. Kurbanına...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10029,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Ezreal",
+    "key": 81,
+    "name": "Ezreal",
+    "title": "Dahi Kâşif",
+    "describe": "Gözüpek bir maceracı olan Ezreal, fark etmese de savaş sanatları konusunda çok yetenekli. Bin yıllardır kayıp olan yeraltı mezarlarına dalıyor, kadim lanetlerden kurtuluyor ve aşılması imkânsız görünen zorlukları kolayca aşıyor. Ataklığı ve cesareti...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10098,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": true,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Fiddlesticks",
+    "key": 9,
+    "name": "Fiddlesticks",
+    "title": "Kadim Dehşet",
+    "describe": "Runeterra'da bir şey uyandı. Kadim bir şey. Korkunç bir şey. Fiddlesticks adıyla bilinen korkunç yaratık, ölümlülerin toplumunun sınırlarında gezinerek paranoyanın yoğunlaştığı bölgelere çekiliyor ve dehşet içindeki kurbanlarla besleniyor. Tırtıklı bir...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10133,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Fiora",
+    "key": 114,
+    "name": "Fiora",
+    "title": "Büyük Düellocu",
+    "describe": "Valoran'ın en korkulan silahşoru olan Fiora mavi çelikten kılıcının hızı kadar, acımasızlığı ve keskin zekâsıyla da tanınır. Demacia Krallığı'ndan Laurent Ailesi'nin üyesi olan Fiora, neredeyse sonlarını getiren bir skandalın ardından kontrolü babasının...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10032,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": true,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Fizz",
+    "key": 105,
+    "name": "Fizz",
+    "title": "Dalgaların Dümencisi",
+    "describe": "Fizz, Bilgewater çevresindeki resiflerde yaşayan amfibi bir yordle. Arada sırada batıl inançlı kaptanların denize bıraktığı adakları bulup getirse de en gedikli denizciler bile onunla ters düşmemeleri gerektiğini, onun hilebaz karakterini hafife...",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10086,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Galio",
+    "key": 3,
+    "name": "Galio",
+    "title": "Heybetli Muhafız",
+    "describe": "Taştan dev Galio, ışıltılı Demacia şehrinin kapılarında hiç yorulmaksızın nöbet tutar. Düşman büyücüleri durdurması için inşa edilmiş Galio'nun bazen yıllarca hareketsiz şekilde beklediği olur; ta ki güçlü büyüler onu uyandırana dek. Harekete geçtiği...",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10099,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Gangplank",
+    "key": 41,
+    "name": "Gangplank",
+    "title": "Okyanus Şeytanı",
+    "describe": "Ne kadar acımasızsa sağı solu da bir o kadar belirsiz olan, yağmacı-talancıların tahtından indirilmiş kralı Gangplank, yedi denize dehşet salıyor. Vakti zamanında liman şehri Bilgewater'ı yönetiyordu ama hükümdarlığı sona erdikten sonra çok daha...",
+    "roles": [
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Garen",
+    "key": 86,
+    "name": "Garen",
+    "title": "Demacia'nın Kudreti",
+    "describe": "Soylu ve gururlu bir savaşçı olan Garen, Yılmaz Öncülerin bir üyesi olarak savaş veriyor. O, dostları tarafından sevilen ve düşmanları tarafından saygı duyulan biri; Demacia ve ideallerini korumakla görevli Crownguard ailesine mensup olmasının da bunda...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Yok",
+    "hero_id": 10001,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Gnar",
+    "key": 150,
+    "name": "Gnar",
+    "title": "Kayıp Halka",
+    "describe": "Bazen neşeli ve oyuncu, bazense sinir krizleriyle gözü yıkımdan başka bir şey görmeyen dev bir canavar olabilen Gnar, ilkel bir yordle. Bu tuhaf yaratık bin yıl boyunca Gerçek Buz içinde donmuş halde hapis kaldıktan sonra nihayet özgür kalmış ve...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Hiddet",
+    "hero_id": 10078,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Gragas",
+    "key": 79,
+    "name": "Gragas",
+    "title": "Kavgacı Ayyaş",
+    "describe": "Neşesi azametiyle yarışan Gragas, mükemmel birayı arayan, kavgacı bir harman ustası. Bilinmeyen diyarlardan kalkıp gelmiş ve şimdilerde Freljord'un el değmemiş steplerinde nadir malzemeler ararken bir yandan da her geçtiği yerde yeni tarifler deniyor...",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10089,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Graves",
+    "key": 104,
+    "name": "Graves",
+    "title": "Kanun Kaçağı",
+    "describe": "Malcolm Graves ziyaret ettiği her şehrin ve imparatorluğun güvenlik güçleri tarafından aranan, tanınmış bir paralı asker, kumarbaz ve hırsız. Her an patlamaya hazır bir mizaca sahip olsa da sıkı bir kanun kaçağı onuruna sahip ve bunu sık sık çift...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10072,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Gwen",
+    "key": 887,
+    "name": "Gwen",
+    "title": "Kutlu Terzi",
+    "describe": "Eskiden oyuncak bebek olan ve sihirle canlanan Gwen, kendisini yapmakta kullanılan araçları şimdi silah olarak kullanıyor. Her adımında, kendisini yapan sahibinin sevgisini taşıyor. Her şeyin kıymetini biliyor. Gwen makasını, iğnelerini ve dikiş...",
+    "roles": [
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10054,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Hecarim",
+    "key": 120,
+    "name": "Hecarim",
+    "title": "Savaşın Gölgesi",
+    "describe": "İnsanla hayvanın korkunç bir birleşimi olan Hecarim, sonsuza dek yaşayanların ruhlarının peşine düşmekle lanetlenmiş. Kutlu Adalar gölgelere yenik düştüğünde bu gururlu şövalye, emrindeki süvariler ve atlarıyla birlikte Afet'in yıkıcı enerjisi...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10019,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Heimerdinger",
+    "key": 74,
+    "name": "Heimerdinger",
+    "title": "Saygın Mucit",
+    "describe": "Tuhaf bilim adamı Profesör Cecil B. Heimerdinger, dünyanın gelmiş geçmiş en yenilikçi ve saygın mucitlerinden. Piltover Konseyi'nin en uzun süre hizmet veren üyesi olan Heimerdinger, bu şehrin dinmeyen ilerleme arzusunun en iyi ve kötü örneklerine şahit...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10127,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Hwei",
+    "key": 910,
+    "name": "Hwei",
+    "title": "Vizyoner",
+    "describe": "Gizemli bir ressam olan Hwei, hem Ionia'nın suçlularıyla yüzleşmek hem de onların kurbanlarını teselli etmek için müthiş sanat eserleri ortaya koyuyor. Hayal gücünün ürettiği canlı sahneler ve tapınağındaki katliamın korkunç hatıraları, melankolik ruh...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Illaoi",
+    "key": 420,
+    "name": "Illaoi",
+    "title": "Ruhani Rehber",
+    "describe": "Illaoi'nin cüssesini gölgede bırakabilecek bir şey varsa, o da sarsılmaz inancıdır. Büyük Kraken'in elçisi olarak kullandığı devasa, altın idolle rakiplerinin ruhlarını bedenlerinden koparıp alır ve gerçeklik algılarını yerle bir eder. ''Nagakabouros'un...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Irelia",
+    "key": 39,
+    "name": "Irelia",
+    "title": "Bıçakların Dansı",
+    "describe": "Noxus'un Ionia'yı işgal etmesi ortaya birçok kahraman çıkarsa da bunların hiçbiri Navorili genç Irelia kadar beklenmedik değildi. Bölgesinin kadim dansları üzerine eğitim alan Irelia, sanatını savaşa uyarlayarak zarif ve dikkatlice çalışılmış...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10094,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Ivern",
+    "key": 427,
+    "name": "Ivern",
+    "title": "Doğasever Baba",
+    "describe": "Birçoklarının Doğasever Baba adıyla tanıdığı Ivern Dikenayak bir yandan Runeterra ormanlarını arşınlarken bir yandan da adım attığı her yerde yaşam filizlendiren, tuhaf mı tuhaf bir yarı ağaç, yarı insan. Tabiatın bütün sırlarına vakıf olan Doğasever...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Janna",
+    "key": 40,
+    "name": "Janna",
+    "title": "Fırtınanın Hiddeti",
+    "describe": "Gücünü Runeterra rüzgârlarından alan Janna; Zaun'un düşkünlerini koruyan, gizemli bir elemental rüzgâr ruhu. Bazıları, onun azgın dalgalarla boğuşup haşin fırtınalara göğüs germeye çalışırken tatlı esintiler için dua eden Runeterra'lı denizcilerin...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10075,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "JarvanIV",
+    "key": 59,
+    "name": "Jarvan IV",
+    "title": "Demacia'nın Simgesi",
+    "describe": "Lightshield Hanedanı'ndan Prens Jarvan, Demacia tahtının veliahdı. Ülkesinin en yüce değerlerinin kusursuz bir örneği olmak üzere yetiştirilen veliaht prens, sırtına yüklenen büyük beklentiler ile cephede savaşma arzusu arasında bir denge kurmak zorunda...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10056,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Jax",
+    "key": 24,
+    "name": "Jax",
+    "title": "Silah Ustası",
+    "describe": "Özgün silahlardaki ustalığına ve sivri diline kimselerin yaklaşamadığı Jax, Icathia'nın bilinen son silah ustası. Memleketi, Hiçlik'i serbest bırakarak kendi gururunun kurbanı olduktan sonra Jax ve türü, ülkelerinden geriye kalanları korumaya yemin etti...",
+    "roles": [
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10040,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Jayce",
+    "key": 126,
+    "name": "Jayce",
+    "title": "Yarınların Koruyucusu",
+    "describe": "Jayce Talis, hextech alanında arkadaşı Viktor'la birlikte ilk büyük keşifleri yapan parlak zekâlı bir mucit. Kendisine Piltover genelinde methiyeler düzülen Jayce, ''Gelişimin Öncüsü'' unvanının hakkını vermeye çalışıyor fakat beklentileri karşılamakta...",
+    "roles": [
+      "Marksman",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10101,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Jhin",
+    "key": 202,
+    "name": "Jhin",
+    "title": "Virtüöz",
+    "describe": "Jhin cinayetin sanat olduğuna inanan, titiz mi titiz, cani bir psikopat. Bir zamanlar Ionia hapishanelerinde çürürken bir anda Ionia'yı yöneten meclisteki karanlık odaklar tarafından serbest bırakılan bu seri katil, şimdilerde kendisini serbest bırakan...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10022,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Jinx",
+    "key": 222,
+    "name": "Jinx",
+    "title": "Delifişek",
+    "describe": "Altşehirden dengesiz ve fevri bir suçlu olan Jinx, geçmişinin sonuçlarını asla aklından çıkaramıyor. Yine de bu, onun kaotik hengâmesini Piltover ve Zaun'a getirmesine engel olmuyor. Kendi ürettiği silahları ortalığı yakıp yıkmak için kullanarak etrafa...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10018,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Kaisa",
+    "key": 145,
+    "name": "Kai'Sa",
+    "title": "Hiçlik'in Kızı",
+    "describe": "Henüz bir çocukken Hiçlik'in pençesine düşen Kai'Sa, sadece iradesinin gücü ve azmi sayesinde hayatta kalmayı başardı. Yaşadıkları onu ölümcül bir avcıya dönüştürürken, bazıları için dünya gözüyle görmek istemeyecekleri bir geleceğin habercisi haline...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10026,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Kalista",
+    "key": 429,
+    "name": "Kalista",
+    "title": "İntikam Mızrağı",
+    "describe": "Öç hırsı ve öfkeyle dolu bir varlık olan Kalista, çağrıldığında hain ve hilekârları avlamak için Gölge Adalar'dan çıkıp gelen ölümsüz, intikamcı bir ruh. İhanete uğrayan kişi kanlar içinde feryat ediyor bile olsa, Kalista yalnızca kendisine ruhlarıyla...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10134,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Karma",
+    "key": 43,
+    "name": "Karma",
+    "title": "Bilgelik Ateşi",
+    "describe": "Hiçbir fani Ionia'nın ruhani geleneklerini Karma'dan daha iyi temsil edemez. Karma, sayısız defalar hayata dönen ve her yaşamındaki anılarını bir sonrakine taşıyan kadim bir ruhun vücut bulmuş son hali. Bu birikimle halkı için ruhani bir meşale görevi...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10007,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Karthus",
+    "key": 30,
+    "name": "Karthus",
+    "title": "Ölümşakıyan",
+    "describe": "Dehşet veren repertuvarı ve kâbuslardan fırlamış görünümüyle ecelin haberciliğini yapan Karthus, ölmeyen bir ruh. Hayattakiler ebedi hortlaklığın düşüncesiyle bile korkuya kapılırken, Karthus onda sadece güzellik, saflık ve ölümle yaşamın mükemmel...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Kassadin",
+    "key": 38,
+    "name": "Kassadin",
+    "title": "Hiçlik Gezgini",
+    "describe": "Dünyanın en karanlık yerlerini, alevli bir tırpan misali biçerek ilerleyen Kassadin, günlerinin sayılı olduğunun farkında. Çok gezip görmüş Shurima'lı bir rehber ve maceracı olduğu günlerde, ailesiyle güneyli barışçıl kabilelerin arasında yaşamayı...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10103,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Katarina",
+    "key": 55,
+    "name": "Katarina",
+    "title": "Sinsi Bıçak",
+    "describe": "Hükmü kesin, saldırısı ölümcül Katarina, üst düzey bir Noxus suikastçısı. Efsanevi General Du Couteau'nun en büyük kızı olarak hiçbir şeyden haberi olmayan hasımlarını bir solukta katletmesi sayesinde yeteneklerini duymayan kalmamış. Doymak bilmez hırsı...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Yok",
+    "hero_id": 10095,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Kayle",
+    "key": 10,
+    "name": "Kayle",
+    "title": "Adaletin Kılıcı",
+    "describe": "Rün Savaşlarının en şiddetli döneminde doğan ve Adaletin Sureti'nin kızı olan Kayle, ilahi ışıktan kanatlarıyla adaleti sağlayarak annesinin mirasını yaşattı. Kayle, ikiz kardeşi Morgana ile birlikte uzun yıllar boyunca Demacia'nın muhafızı oldu; fakat...",
+    "roles": [
+      "Mage",
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10041,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Kayn",
+    "key": 141,
+    "name": "Kayn",
+    "title": "Gölge Cellat",
+    "describe": "Gölge büyüsünün rakipsiz bir kullanıcısı olan Shieda Kayn, bir gün Gölge Tarikatı'nın başına geçerek Ionia'yı yeni bir egemenlik çağına ulaştırmak için var gücüyle savaşıyor. Kendi benliğine sahip bir darkin silahı olan Rhaast'ı taşırken; silahın...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10005,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Kennen",
+    "key": 85,
+    "name": "Kennen",
+    "title": "Fırtınanın Kalbi",
+    "describe": "Ionia'da dengenin şimşek hızındaki fedaisinden fazlası olan Kennen, aynı zamanda Kinkou'nun yegane yordle üyesi. Minik ve tüylü duruşuna rağmen her tür tehdidi, bir shuriken fırtınası ve sınırsız bir azimle alaşağı etmeye hazır. Kennen, ustası Shen'le...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Enerji",
+    "hero_id": 10061,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Khazix",
+    "key": 121,
+    "name": "Kha'Zix",
+    "title": "Hiçlik Yağmacısı",
+    "describe": "Hiçlik büyür ve Hiçlik uyum sağlar; bu gerçekler hiçbir Hiçlik yaratığında Kha'Zix için oldukları kadar belirgin değil. Tamamen evrim üzerine kurulu ve sürekli değişen bu dehşet verici yaratık, hayatta kalmak ve güçlü rakipleri katletmek için doğmuş. Bu...",
+    "roles": [
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10017,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Kindred",
+    "key": 203,
+    "name": "Kindred",
+    "title": "Madalyonun İki Yüzü",
+    "describe": "Kendi içinde ayrışan ama hiç ayrı düşmeyen Kindred, ölümün ikiz özlerini temsil ediyor. Kuzu'nun yayı, kaderini kabul edenleri fani dünyadan tez elden azat ediyor. Kurt ise kaderinden kaçanları avlayıp, sivri dişleriyle son anlarını azaba dönüştürüyor...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10073,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Kled",
+    "key": 240,
+    "name": "Kled",
+    "title": "Deli Bozuk Süvari",
+    "describe": "Korkusuz olduğu kadar aksi yordle Kled, Noxus'un vahşi cesaretinin vücut bulmuş hali. İmparatorluk askerlerinin gıptayla andığı bir simge olsa da subaylar ona temkinli yaklaşır, asiller ise nefretle bakar. Birçok askere göre Kled, lejyonların çıktığı...",
+    "roles": [
+      "Fighter"
+    ],
+    "type": "Cesaret",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "KogMaw",
+    "key": 96,
+    "name": "Kog'Maw",
+    "title": "Cehennemin Dişleri",
+    "describe": "Çorak Icathia topraklarının derinliklerinde, çürüyen bir Hiçlik akıntısından çıkagelen Kog'Maw, vıcık vıcık, dipsiz ağzıyla dikkat çeken, meraklı ve bir o kadar da iğrenç bir varlık. Bu kendine has Hiçlik yaratığı, kemirip salyaya boğmadığı hiçbir şeyi...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "KSante",
+    "key": 897,
+    "name": "K'Sante",
+    "title": "Nazumah'nın Gururu",
+    "describe": "Cesur K'Sante, Shurima'nın kumlarındaki zenginlikleriyle düşmanları imrendiren bir vaha ve yuvası olan Nazumah'yı korumak için devasa canavarlara ve acımasız Yükselmişlere meydan okuyor. Eski yoldaşıyla arası açılınca şehrini yönetmeye layık bir savaşçı...",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Leblanc",
+    "key": 7,
+    "name": "LeBlanc",
+    "title": "Hilekâr",
+    "describe": "LeBlanc, Noxus'un ilk günlerinden beri insanları ve olayları kurnazlıkla parmağında oynatan, soluk tenli kadının sayısız adından sadece biri. Kara Gül birliğinin diğer mensuplarının bile akıl erdiremediği, gücüyle kendini kopyalayan bu büyücü her yerde...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "LeeSin",
+    "key": 64,
+    "name": "Lee Sin",
+    "title": "Kör Keşiş",
+    "describe": "Ionia'nın kadim dövüş sanatı ustalarından Lee Sin, her tür zorluğu ejderha ruhunun özüyle aşan, ilkeli bir dövüşçü. Yıllar önce görüş yeteneğini kaybetmesine rağmen bu savaşçı keşiş; hayatını, topraklarının kutsal dengesini bozmaya yeltenenlere karşı...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Enerji",
+    "hero_id": 10059,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Leona",
+    "key": 89,
+    "name": "Leona",
+    "title": "Seher Işığı",
+    "describe": "Güneş'in ateşiyle bütünleşen Leona, kutsal savaşçı Solari şövalyelerinden biri. Targon Dağı'nı, Ufuk Kılıcı ve Şafak Kalkanı'yla koruyor. Gözleri, içindeki semavi Suret'in gücüyle ışıldarken; teni yıldız ateşiyle parıldıyor. Altın zırhı ve omuzlarındaki...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10044,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Lillia",
+    "key": 876,
+    "name": "Lillia",
+    "title": "Narin Gonca",
+    "describe": "Aşırı derecede utangaç olan peri geyik yavrusu Lillia, ürkek ürkek Ionia'nın ormanlarını dolaşıyor. Uzun zamandır gizemli doğalarından etkilenen ama artık korkan Lillia fanilerden saklanıyor ve onların düşlerinin artık neden Düşler Ağacı'na...",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10135,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Lissandra",
+    "key": 127,
+    "name": "Lissandra",
+    "title": "Buz Cadısı",
+    "describe": "Lissandra'nın büyüsü, buzun saf gücünü karanlık ve korkunç bir şeye dönüştürüyor. Kara buzunun kuvvetiyle kendisine karşı çıkanları sadece dondurmakla kalmıyor; onları deşip paramparça ediyor. Kuzeyin dehşet içindeki ahalisi onu sadece ''Buz Cadısı''...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10109,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Lucian",
+    "key": 236,
+    "name": "Lucian",
+    "title": "İnfazcı",
+    "describe": "Bir Işık Muhafızı olan Lucian, hayaletlerin ve hortlakların peşindeki acımasız bir avcı. Peşlerine düşüp yakaladığı yerde onları kadim çifte tabancalarıyla yok ediyor. Hortlak Thresh eşini öldürdükten sonra Lucian intikam yoluna baş koydu. Ama eşi...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10042,
+    "is_wr": true,
+    "lanes": [
+      "AD",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Lulu",
+    "key": 117,
+    "name": "Lulu",
+    "title": "Peri Sihirbaz",
+    "describe": "Yordle büyücü Lulu, peri yoldaşı Pix'le birlikte Runeterra'da dolaşırken rüyalarda görülecek cinsten göz aldatmacaları ve göz alıcı yaratıklar ortaya çıkarmasıyla ünlü. Lulu bir çırpıda gerçekliği yeniden biçimlendirip dünyanın temel taşlarına ve bu...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10048,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Lux",
+    "key": 99,
+    "name": "Lux",
+    "title": "Işık Leydisi",
+    "describe": "Luxanna Crownguard, büyü yeteneklerine korku ve şüpheyle yaklaşılan ve içine kapalı bir ülke olan Demacia'dan geliyor. Işığı kendi iradesiyle şekillendirebilen Lux, fark edilmekten ve sürgüne gönderilmekten korkarak büyüdü ve ailesinin soylu statüsünü...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10003,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Malphite",
+    "key": 54,
+    "name": "Malphite",
+    "title": "Yektaş'tan Kopan Parça",
+    "describe": "Yaşayan taştan devasa yaratık Malphite, karmaşanın hâkim olduğu bir dünyaya kutlu düzen getirmek için mücadele veriyor. Yektaş adı verilen uhrevi anıtın hizmetinde bir taş parçası olarak dünyaya gelen bu varlık, olağanüstü element gücünü atasını korumak...",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10083,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Top",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Malzahar",
+    "key": 90,
+    "name": "Malzahar",
+    "title": "Hiçlik'in Habercisi",
+    "describe": "Kendisini tüm yaşamların bütünleşmesine körü körüne adayan kâhin Malzahar, yeni ortaya çıkan Hiçlik'in, Runeterra'nın kurtuluşuna çıkan yol olduğuna inanıyor. Shurima'nın uçsuz çöllerinde bilincini kâinata açtığında ona karşılık veren fısıltıların...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Maokai",
+    "key": 57,
+    "name": "Maokai",
+    "title": "Çarpık Treant",
+    "describe": "Maokai, Gölge Adalar'ın korkunç doğadışı yaratıklarına karşı savaşan öfke dolu, dev bir treanttır. Büyülü bir felaketin evini yerle bir etmesiyle çarpık bir intikam kuvvetine dönüşmüş, yaşayan ölüler kervanına katılmasını ise özüne kadar işlemiş Can...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10074,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "MasterYi",
+    "key": 11,
+    "name": "Master Yi",
+    "title": "Wuju Üstadı",
+    "describe": "Master Yi düşünceleri ve hareketleri neredeyse tek bir varlığa dönüşebilsin diye vücudunu geliştirip zihnini keskinleştirdi. Şiddete yalnızca en son çare olarak başvursa da kılıcının zarafeti ve hızı çözüme her zaman seri şekilde ulaşmasını sağlıyor...",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10070,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Mel",
+    "key": 800,
+    "name": "Mel",
+    "title": "Ruhun Yansıması",
+    "describe": "Mel Medarda, bir zamanlar Noxus'un en güçlü ailelerinden biri olan Medarda ailesinin vârisi olarak kabul ediliyor. Görünürde zarif bir aristokrat olsa da bu maskenin altında tanıştığı herkes hakkında her şeyi bilmeyi görev edinmiş becerikli bir...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Milio",
+    "key": 902,
+    "name": "Milio",
+    "title": "Alevin Şefkati",
+    "describe": "Milio genç yaşına rağmen ateş aksiyomunda ustalaşarak nazik alevi keşfeden, Ixtal'lı cana yakın bir delikanlı. Bulduğu bu yeni güçle ninesinin izinden giderek Yun Tallara katılmayı ve bu sayede ailesini sürgünden kurtarmayı planlıyor. Ixtal ormanlarını...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10108,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 1,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "MissFortune",
+    "key": 21,
+    "name": "Miss Fortune",
+    "title": "Ödül Avcısı",
+    "describe": "Güzelliğiyle gözlere bayram ettiren, acımasızlığıyla yüreklere dehşet salan Bilgewater'lı kaptan Sarah Fortune, yaşadığı liman şehrinin pişkin suçlularıyla tezat bir tablo çiziyor. Çocukluğunda yağmacı kral Gangplank'in ailesini katlettiğine tanık oldu...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10066,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "MonkeyKing",
+    "key": 62,
+    "name": "Wukong",
+    "title": "Maymun Kral",
+    "describe": "Wukong gücünü, çevikliğini ve zekâsını rakiplerini şaşırtarak kendine avantaj sağlamak için kullanan bir vastaya düzenbazı. Master Yi adlı savaşçıyla ömür boyu sürecek bir arkadaşlık kurmasının ardından, Wuju olarak bilinen kadim dövüş sanatının son...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10009,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Mordekaiser",
+    "key": 82,
+    "name": "Mordekaiser",
+    "title": "Demir Hortlak",
+    "describe": "İki kere öldürülüp üç kere doğan Mordekaiser, unutulmuş çağlardan kalma acımasız bir savaşçı kral. Ölüm büyüleriyle ruhları kendine bağlayıp sonsuz köleliğe mahkûm ediyor. Eski fetihlerini hatırlayan, güçlerinin gerçek sınırlarını bilen pek az kişi var;...",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "type": "Kalkan",
+    "hero_id": 10035,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Morgana",
+    "key": 25,
+    "name": "Morgana",
+    "title": "Istırabın Kanatları",
+    "describe": "Semavi ve fani yanlarının arasında kalan Morgana, insanlığı kucaklamak için kanatlarını zincire vurmuş. Acısını ve kinini, sahtekârlara ve namussuzlara hissettirerek onları cezalandırıyor. Adil olmadığını düşündüğü kanunlara ve geleneklere sırt çevirmiş...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10028,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Naafiri",
+    "key": 950,
+    "name": "Naafiri",
+    "title": "Yüz Çeneli Tazı",
+    "describe": "Shurima çöllerinin dört bucağında ulumalar yankılanır durur. Sürüler halinde dolaşan ve bu çorak topraklarda durmaksızın av peşinde koşan açgözlü yırtıcıların, çöl tazılarının çağrısıdır bu. Bu sürülerden bir tanesi köpek içgüdüleriyle değil, bir...",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Nami",
+    "key": 267,
+    "name": "Nami",
+    "title": "Dalga Çağıran",
+    "describe": "Denizlerden gelen inatçı ve genç bir vastaya olan Nami, Targon'lularla aralarındaki kadim aktin geçersiz kılınmasından beri dalgaları geride bırakarak kuru topraklara seyahat eden ilk Marai kabilesi üyesi. O, başka hiçbir seçeneği olmadığından halkının...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10091,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": true,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Nasus",
+    "key": 75,
+    "name": "Nasus",
+    "title": "Kumların Efendisi",
+    "describe": "Nasus, antik Shurima'dan gelen çakal başlı Yükselmiş bir varlık. Çöl halkları tarafından yarı tanrı olarak kabul edilen bir kahraman. Keskin zekâya sahip olan bu kahraman, bilginin muhafızı olmuştu ve eşi benzeri olmayan bir taktik ustasıydı. Onun bilge...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10065,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Nautilus",
+    "key": 111,
+    "name": "Nautilus",
+    "title": "Derinliklerin Devi",
+    "describe": "Bilgewater'da batan ilk rıhtımlar kadar eski ve yalnız bir efsane olan zırhlı dev Nautilus, Mavi Alev Adalarının kıyılarındaki karanlık sularda gezinir. Eylemlerinin arkasında unutulmuş bir ihanet yatan bu devasa yaratık, muazzam çıpasıyla bir anda...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10132,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 1,
+    "survive": 3,
+    "utility": 2
+  },
+  {
+    "id": "Neeko",
+    "key": 518,
+    "name": "Neeko",
+    "title": "Meraklı Bukalemun",
+    "describe": "Varlığı unutulmuş bir vastaya kabilesinden gelen Neeko, başka canlıların görünüşüne bürünerek her topluma ayak uyduruyor. Dostu düşmandan kolayca ayırmak için canlıların duygu halini bile benliğine katabiliyor. Neeko'nun nerede veya kim olduğuna dair...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Nidalee",
+    "key": 76,
+    "name": "Nidalee",
+    "title": "Yabani Avcı",
+    "describe": "Ormanların en derininde büyüyen Nidalee, dilediği an yabani bir pumaya dönüşebilen, usta bir iz sürücü. Ne tam anlamıyla insan ne de hayvan olan Nidalee, özenle yerleştirdiği kapanlar ve marifetli mızrak atışlarıyla bölgesini her tür işgalciden koruyor...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Nilah",
+    "key": 895,
+    "name": "Nilah",
+    "title": "Dizginsiz Mutluluk",
+    "describe": "Uzak diyarlardan gelen münzevi bir savaşçı olan Nilah, dünyadaki en ölümcül ve devasa rakiplere meydan okumak ve onları yok etmek istiyor. Gücünü uzun zamandır tutsak edilen neşe iblisiyle karşılaşması sırasında elde eden Nilah, iblisin bitmek bilmez...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10027,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Nocturne",
+    "key": 56,
+    "name": "Nocturne",
+    "title": "Ebedi Kâbus",
+    "describe": "Bilinç sahibi her şeye musallat olan kâbusların şeytani alaşımı. Nocturne adıyla bilinen varlık, saf kötülüğün en eski güçlerinden biri. Sureti akışkan bir kargaşa timsali. Korkunç bıçaklar kuşanmış ve yüz yerine sadece duygusuz gözlere sahip bir gölge...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Nunu",
+    "key": 20,
+    "name": "Nunu ve Willump",
+    "title": "Ayrılmaz İkili",
+    "describe": "Bir zamanlar bir çocuk varmış. Bu çocuk korkunç bir canavarı öldürerek kahramanlığını göstermek istiyormuş. Ama canavarın karşısına çıktığında, sihirli bir yeti olan bu yaratığın yapayalnız olduğunu ve sadece dostluğa ihtiyaç duyduğunu görmüş. Kadim bir...",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10008,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 1,
+    "survive": 3,
+    "utility": 2
+  },
+  {
+    "id": "Olaf",
+    "key": 2,
+    "name": "Olaf",
+    "title": "Başıbozuk",
+    "describe": "Durdurulamaz yıkım gücü, baltalı Olaf'ın tek istediği, savaşın ihtişamı içinde can vermek. Freljord'un acımasız Lokfar yarımadasından gelen bu savaşçı, bir keresinde huzur içinde can vereceğine dair bir kehanet aldı. Oysa bu korkaklara göre bir ölüm...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10106,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": true,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Orianna",
+    "key": 61,
+    "name": "Orianna",
+    "title": "Mekanik Kız",
+    "describe": "Bir zamanlar et ve kemikten oluşan, meraklı bir kız olan Orianna artık tamamen çarklardan kurulu bir teknoloji harikası. Zaun'un aşağı bölgelerindeki bir kazanın ardından ölümcül bir hastalığın pençesine düştü ve iflas eden bedeninin parça parça hassas...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10012,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Ornn",
+    "key": 516,
+    "name": "Ornn",
+    "title": "Dağın Kalbindeki Ateş",
+    "describe": "Ornn, Freljord'un demircilik ve zanaatkârlık ruhu. Ocak-Yuva adını verdiği volkanın altındaki lav mağaralarını çekiciyle döverek oluşturduğu devasa demirci atölyesinde bir başına yaşıyor. Bu atölyede, erimiş kayaları koca kazanlarda fokur fokur...",
+    "roles": [
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10136,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 1,
+    "survive": 3,
+    "utility": 2
+  },
+  {
+    "id": "Pantheon",
+    "key": 80,
+    "name": "Pantheon",
+    "title": "Eğilmez Mızrak",
+    "describe": "Bir zamanlar Savaşın Sureti'ni istemeyerek bedeninde taşıyan Atreus, bu semavi güç yıldızları gökten indirecek güçte bir darbeyle öldürüldüğünde hayattan kopmayı reddetti. Zaman içinde kendi faniliğine alıştı ve ölümlü olmanın verdiği inatçı azmi...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10030,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Poppy",
+    "key": 78,
+    "name": "Poppy",
+    "title": "Çekicin Muhafızı",
+    "describe": "Runeterra'da gözüpek şampiyon kıtlığı olduğunu kimse söyleyemese de bu şampiyonların pek azı Poppy kadar azimlidir. Kendisinin iki katı büyüklüğündeki efsanevi Orlon'un Çekici'ni taşıyan bu kararlı yordle, yıllardır silahının asıl sahibi olduğu söylenen...",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10076,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Pyke",
+    "key": 555,
+    "name": "Pyke",
+    "title": "Kanlırıhtım'ın Öcü",
+    "describe": "Bilgewater'daki Katliam Limanı'nın ünlü zıpkıncılarından Pyke, kendini devasa bir jaull balığının midesinde bulduğu gün hayatını kaybetmeliydi; fakat bir şekilde geri dönmeyi başardı. Şimdilerde eski memleketinin karanlık arka sokaklarında yeni...",
+    "roles": [
+      "Support",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10124,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Qiyana",
+    "key": 246,
+    "name": "Qiyana",
+    "title": "Elementlerin İmparatoriçesi",
+    "describe": "Ormanın derinliklerindeki devasa tek bir binadan oluşan Ixaocan şehrinde Qiyana, üyesi olduğu Yun Tal sınıfının başına geçmek için acımasız bir komplo kuruyor. Annesiyle babasının mevkiini devralmak için en son sırada olan Qiyana, yoluna çıkanların...",
+    "roles": [
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Quinn",
+    "key": 133,
+    "name": "Quinn",
+    "title": "Demacia'nın Kanatları ",
+    "describe": "Quinn, düşman bölgelerinin derinliklerinde tehlikeli görevler üstlenen seçkin bir kolcu-şövalye. O ve efsanevi kartalı Valor kopmaz bir bağ paylaşıyor ve düşmanları, daha krallığın en büyük kahramanlarından yalnızca birine değil aynı anda ikisine karşı...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Rakan",
+    "key": 497,
+    "name": "Rakan",
+    "title": "Gönülçelen",
+    "describe": "Çekiciliği kadar dengesizliğiyle de tanınan Rakan, ünlü bir vastaya baş belası ve Lhotlan kabilesinin tarihinde gördüğü en büyük savaş dansçısı. Ionia'nın dağlarında yaşayan insanlar içinse Rakan ismi, çılgın festivaller, vahşi partiler ve düzensiz...",
+    "roles": [
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10052,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 1,
+    "survive": 2,
+    "utility": 3
+  },
+  {
+    "id": "Rammus",
+    "key": 33,
+    "name": "Rammus",
+    "title": "Zırhlı Armadillo",
+    "describe": "Nicelerinin yerlere göklere sığdıramadığı, kimilerinin görmezden geldiği ama herkesin akıl erdirmeye çalıştığı tuhaf yaratık Rammus, tam anlamıyla bir muamma. Dikenli kabuğunun korumasında adım attığı her yerde, kökenine dair birbirinden ilginç...",
+    "roles": [
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10064,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "RekSai",
+    "key": 421,
+    "name": "Rek'Sai",
+    "title": "Yeraltındaki Dehşet",
+    "describe": "Üstün bir yırtıcı olan Rek'Sai, hiçbir şeyden haberi olmayan avını pusuya düşürüp mideye indirmek için yeraltında tüneller kazan, acımasız bir Hiçlik yaratığı. Dinmek bilmez açlığı, eskinin muhteşem Shurima İmparatorluğu'nda devasa bölgeleri harap etti...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Hiddet",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Rell",
+    "key": 526,
+    "name": "Rell",
+    "title": "Demir İrade",
+    "describe": "Kara Gül'ün yaptığı acımasız deneylerin ürünü olan Rell, Noxus'u yıkmaya karar vermiş, yaşayan bir silah. Çocukluğu, metali kontrol edebilen büyü gücü kusursuz bir silaha dönüşsün diye yapılan feci prosedürlerle geçti. Sonunda bir şiddet fırtınası...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Renata",
+    "key": 888,
+    "name": "Renata Glasc",
+    "title": "Kimya Baronesi",
+    "describe": "Renata Glasc, çocukluk evinin küllerinden doğduğunda ona kalan şeyler sadece soyadı ve ailesinin simya araştırmasıydı. O günden bu yana geçen zamanda Zaun'un en zengin kimya baronuna, herkesin çıkarını kendisine bağlayarak güce ulaşan bir kodamana...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Renekton",
+    "key": 58,
+    "name": "Renekton",
+    "title": "Kumların Kasabı",
+    "describe": "Renekton, Shurima'nın kavrulmuş çöllerinden gelen, Yükseliş'e ermiş korkunç ve hiddetli bir varlıktır. Bir zamanlar ülkesinin ordularını sayısız zafere taşımış, imparatorluğun el üstünde tutulan savaşçısıydı. İmparatorluğun çöküşünden sonra Renekton...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Öfke",
+    "hero_id": 10121,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Rengar",
+    "key": 107,
+    "name": "Rengar",
+    "title": "Gölge Avcı",
+    "describe": "Rengar tehlikeli yaratıkların izini sürüp onları öldürmenin hazzı için yaşayan vahşi bir vastaya ganimet avcısı. En tehlikeli canavarları, özellikle de gözünü oyan Hiçlik yaratığı Kha'Zix'i bulmak için dünyanın altını üstüne getiriyor. Rengar avlarının...",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "type": "Hırs",
+    "hero_id": 10006,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Riven",
+    "key": 92,
+    "name": "Riven",
+    "title": "Sürgün",
+    "describe": "Bir zamanlar Noxus ordularında kılıç ustası olan Riven, daha önce fethetmeye çalıştığı topraklarda artık bir sürgün. İnancının gücü ve muazzam etkililiği sayesinde rütbesini çabucak yükseltmesinin ardından efsanevi bir rün kılıcı ve kendi birliğiyle...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Yok",
+    "hero_id": 10092,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Rumble",
+    "key": 68,
+    "name": "Rumble",
+    "title": "Mekanize Bela",
+    "describe": "Rumble genç ve asabi bir mucit. Bu coşkulu yordle, ellerinden ve bir hurda yığınından başka hiçbir şey kullanmadan elektrikli zıpkınlara ve hedeflerini ateşe veren roketlere sahip devasa bir meka inşa etti. Başkaları onun hurdalık tasarımlarıyla alay...",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "type": "Isı",
+    "hero_id": 10140,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": true,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Ryze",
+    "key": 13,
+    "name": "Ryze",
+    "title": "Rün Büyücüsü",
+    "describe": "Nicelerinin Runeterra'daki en mahir büyücülerden biri saydığı Ryze, taşıması sıradan insanlar için imkânsız bir yükü omuzlamış, kadim ve inatçı bir rün büyücüsü. Muazzam sihir gücünü sınır tanımaz kararlılığıyla birleştirip kuşanan Ryze, dur durak...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10137,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Samira",
+    "key": 360,
+    "name": "Samira",
+    "title": "Çöl Gülü",
+    "describe": "Samira yıkılmaz özgüveniyle ölümün gözlerinin içine bakıyor ve nereye giderse gitsin, her zaman heyecan arıyor. Shurima'daki evi çocukken yıkılan Samira, hayattaki tutkusunu tehlikeli görevleri üstlenerek havalı ve korkusuz bir savaşçı olarak tanındığı...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10104,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Sejuani",
+    "key": 113,
+    "name": "Sejuani",
+    "title": "Kuzeyin Hiddeti",
+    "describe": "Sejuani, Freljord'un en korkunç kabilelerinden biri olan Kışın Pençesi'nin zalim ve merhametsiz Buzdoğan savaş anası. Halkının hayatta kalabilmesi için sürekli olarak doğa şartlarına karşı çaresizce mücadele etmesi gerekiyor ve çetin kış aylarında...",
+    "roles": [
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Senna",
+    "key": 235,
+    "name": "Senna",
+    "title": "Arındırıcı",
+    "describe": "Çocukluğunda Kara Sis'in lanetleyip musallat olduğu Senna, Işık Muhafızları adlı kutsal bir birliğe katılarak durumuna karşı koydu. Fakat çabaları ölümle sonuçlandı ve zalim hortlak Thresh onu fenerine hapsetti. Yine de umudunu yitirmeyen Senna, sisi...",
+    "roles": [
+      "Support",
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10123,
+    "is_wr": true,
+    "lanes": [
+      "AD",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Seraphine",
+    "key": 147,
+    "name": "Seraphine",
+    "title": "Yükselen Yıldız",
+    "describe": "Zaun'lu bir çiftin çocuğu olarak Piltover'da doğan Seraphine, diğerlerinin ruhlarını duyabiliyor. Dünya ona, o da dünyaya şarkı söylüyor. Tüm bu sesler küçükken onu yorsa da Seraphine artık onlardan ilham alıyor ve kaosu ahenge dönüştürüyor. İnsanlara...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10034,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Sett",
+    "key": 875,
+    "name": "Sett",
+    "title": "Patron",
+    "describe": "Ionia'nın yeni yeni oluşan suç dünyasının liderlerinden olan Sett, Noxus'la olan savaşın ardından ün yaptı. Hayata Navori arenalarında mütevazı bir dövüşçü olarak atılsa da vahşi gücü ve ne kadar dayak yerse yesin bana mısın dememesi sayesinde hemen ün...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "İnat",
+    "hero_id": 10068,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Shaco",
+    "key": 35,
+    "name": "Shaco",
+    "title": "İblis Soytarı",
+    "describe": "Uzun zaman önce yalnız bir prense oyuncak olsun diye yapılmış efsunlu kukla Shaco, artık ölüm ve kargaşadan haz duyuyor. Karanlık büyülerle yozlaşması ve biricik sahibini kaybetmesi, bir zamanların nazik kuklasını yalnızca eziyet ettiği zavallı...",
+    "roles": [
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Shen",
+    "key": 98,
+    "name": "Shen",
+    "title": "Alacakaranlığın Gözü",
+    "describe": "Shen, Kinkou'lar olarak bilinen gizemli Ionia savaşçılarına Alacakaranlığın Gözü unvanıyla liderlik eder. Duyguların, önyargıların veya kibrin yarattığı karmaşadan ırak kalma emeliyle yanıp tutuşarak ruh âlemi ve fiziksel dünya arasındaki yargının...",
+    "roles": [
+      "Tank"
+    ],
+    "type": "Enerji",
+    "hero_id": 10118,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 3,
+    "utility": 3
+  },
+  {
+    "id": "Shyvana",
+    "key": 102,
+    "name": "Shyvana",
+    "title": "Ejder Kanı",
+    "describe": "Shyvana, kalbinde yanan rün parçasının büyüsünü taşıyan bir yaratık. Sık sık insansı bir şekle bürünse de gerçek biçimi olan korkunç bir ejderhaya dönüşerek alevden nefesiyle düşmanlarını küle çevirebiliyor. Tahtın vârisi Jarvan IV'ün hayatını kurtaran...",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "type": "Öfke",
+    "hero_id": 10049,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Singed",
+    "key": 27,
+    "name": "Singed",
+    "title": "Deli Kimyager",
+    "describe": "Deneyleri en cani suçlunun bile midesini kaldırabilecek türden olan Singed, ahlaki değerler açısından tartışmalı olsa da son derece başarılı bir simyacı. Yeteneklerini en çok parayı ödeyenlere satan Singed, zehirli karışımlarının nasıl kullanıldığıyla...",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10096,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Sion",
+    "key": 14,
+    "name": "Sion",
+    "title": "Ölü Dev",
+    "describe": "Geçmiş çağlardan bir savaş kahramanı olan Sion, bir Demacia kralını elleriyle boğmasının ardından Noxus'ta büyük saygı duyulan biri haline geldi; ancak sonsuzluğa yelken açmasına izin verilmeyerek ölümünden sonra bile imparatorluğa hizmet etmesi için...",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10125,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Sivir",
+    "key": 15,
+    "name": "Sivir",
+    "title": "Savaş Hanımı",
+    "describe": "Sivir, zanaatını Shurima çöllerinde icra eden bir avcı ve paralı asker komutanı. Mücevherlerle kaplı, efsanevi dörtlü bıçağıyla giriştiği nice savaşta, dudak uçuklatan ücretini karşılayabilenler için kazandığı zaferlerin haddi hesabı yok. Hiçbir korkuya...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10107,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Skarner",
+    "key": 72,
+    "name": "Skarner",
+    "title": "Ezeli Hükümdar",
+    "describe": "Kadim ve devasa tözkabuk Skarner, yönetici sınıfı olan Yun Talların kurucu üyelerinden biri olarak Ixtal'da itibarlı bir konuma sahip. Varlığını ülkesini dış dünyadan korumaya adayan Skarner, Ixaocan'ın altındaki bir odada ikamet ediyor. Burada...",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Smolder",
+    "key": 901,
+    "name": "Smolder",
+    "title": "Yavru Alev",
+    "describe": "Noxus sınırlarının kayalıklı yamaçlarında gözden uzak ve annesinin himayesinde bir yaşam süren genç bir ejder, asil Camavor ejderhalarının vârisi olmanın ne anlama geldiğini öğreniyor. Oyunbaz ve büyümeye hevesli Smolder, yeni filizlenen yeteneklerini...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Sona",
+    "key": 37,
+    "name": "Sona",
+    "title": "Müzik Dehası",
+    "describe": "Sona, telli etwahl konusunda Demacia'nın en büyük virtüözü ve yalnızca zarif akorları ve renkli aryalarıyla kendini anlatıyor. Böylesine nazik halleri onu soyluların gözbebeği yapsa da bazı diğer insanlar büyülü melodilerinin gerçekten sihir yaydığından...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10047,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Soraka",
+    "key": 16,
+    "name": "Soraka",
+    "title": "Yıldız Çocuk",
+    "describe": "Targon Dağı'nın ötesindeki semavi boyutlardan gelen bir gezgin olan Soraka, ölümlü ırkları kendi şiddet içgüdülerinden korumak için ölümsüzlüğünü feda etti. Tanıştığı herkese insaf ve merhamet aşılamak en büyük isteği ve ona zarar vermeye çalışanları...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10097,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Swain",
+    "key": 50,
+    "name": "Swain",
+    "title": "Yüce Noxus Generali",
+    "describe": "Jericho Swain, yayılmacı ve sadece güce saygı duyan bir ulus olan Noxus'un ileri görüşlü yöneticisi. Ionia savaşları sırasında alt edildiği, sol kolu koptuğu ve sakat kaldığı halde imparatorluğun kontrolünü acımasız bir kararlılıkla... ve yeni edindiği...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10126,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Sylas",
+    "key": 517,
+    "name": "Sylas",
+    "title": "İsyanın Zinciri",
+    "describe": "Demacia'nın kenar mahallelerinden birinde büyüyen Tortudereli Sylas, bu görkemli şehrin karanlık yüzünün bir sembolü haline geldi. Çocukluğunda, gizli büyü gücünü görüp ortaya çıkarabilme özelliği nedeniyle ülkenin meşhur sihir avcılarının dikkatini...",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Syndra",
+    "key": 134,
+    "name": "Syndra",
+    "title": "Gücün Karanlık Yüzü",
+    "describe": "Syndra muazzam güçlere hükmeden, dehşetengiz bir kara büyücü. Ionia'daki çocukluğunda, akıllara durgunluk veren ama bir o kadar da pervasız büyü kullanımıyla köyün ihtiyarlarının huzurunu kaçırdı. Bunun üzerine katı bir eğitim almak üzere uzaklara...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10024,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "TahmKench",
+    "key": 223,
+    "name": "Tahm Kench",
+    "title": "Nehrin Kralı",
+    "describe": "Tarih boyunca birçok farklı adla anılan iblis Tahm Kench, Runeterra'nın nehirleri boyunca seyahat ederek bastırılamaz açlığını insanların sefaletiyle bastırıyor. Tuhaf şekilde çekici ve gururlu biri gibi görünse de fiziksel dünyada bir hovarda gibi...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Taliyah",
+    "key": 163,
+    "name": "Taliyah",
+    "title": "Taşların Dokuyucusu",
+    "describe": "Taliyah gençliğin merakı ve yetişkinliğin sorumlulukları arasında kısılıp kalmış, Shurima'lı göçebe bir büyücü. Giderek artan güçlerinin gerçek doğasını keşfedebilmek için çıktığı yolculukta Valoran'ı neredeyse bir uçtan öbür uca kat etse de kısa süre...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Talon",
+    "key": 91,
+    "name": "Talon",
+    "title": "Bıçağın Gölgesi",
+    "describe": "Karanlığın içindeki bıçak Talon, en beklenmedik anlarda saldıran ve daha alarm verilemeden ortadan kaybolan merhametsiz bir katil. Tehlikeli şöhretini, hayatta kalabilmek için dövüşmek, öldürmek ve çalmak zorunda kaldığı Noxus'un zorlu sokaklarında...",
+    "roles": [
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10128,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Taric",
+    "key": 44,
+    "name": "Taric",
+    "title": "Valoran'ın Koruyucusu",
+    "describe": "Muhafızın Sureti Taric, Runeterra'nın hayat, sevgi ve güzellik bekçisi olarak akıl almaz bir güce sahip. Vazifesini ihmal ettiği için şerefi lekelenen ve bu yüzden memleketi Demacia'dan sürgün edilen Taric, günahlarının kefaretini ödemek için Targon...",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Teemo",
+    "key": 17,
+    "name": "Teemo",
+    "title": "Çevik İzci",
+    "describe": "En tehlikeli ve tehditkâr engellerden bile gözü yılmayan Teemo, sonu gelmez bir heves ve neşeyle dünyayı arşınlıyor. Sarsılmaz ahlâk anlayışıyla bu yordle, Bandle İzci Andı'nı harfiyen uygulamasıyla gurur duyuyor. Bazen öyle şevke kapılıyor ki...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10046,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Thresh",
+    "key": 412,
+    "name": "Thresh",
+    "title": "Zincirli Gardiyan",
+    "describe": "Zalim ve kurnaz Thresh, Gölge Adalar'da varlığını sürdüren hırslı ve huzursuz bir ruh. Bir zamanlar sayısız büyülü sırrın koruyucusuyken yaşam ve ölümden bile daha büyük bir gücün peşine düşmüş ve artık insanlara yavaş ve dayanılmaz işkenceler ederek...",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10130,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": true,
+    "difficult": 3,
+    "damage": 1,
+    "survive": 2,
+    "utility": 3
+  },
+  {
+    "id": "Tristana",
+    "key": 18,
+    "name": "Tristana",
+    "title": "Yaman Topçu",
+    "describe": "Çoğu yordle enerjisini keşifler, icatlar veya sadece yaramazlık yapmak için kullansa da Tristana hep büyük savaşçıların maceralarında kendine ilham bulmuş biri. Runeterra'nın bölgeleri ve savaşları hakkında duyduğu onca şey, onu kendi türünün de efsane...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10045,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Trundle",
+    "key": 48,
+    "name": "Trundle",
+    "title": "Trol Kralı",
+    "describe": "Trundle çevresine korku salan devasa ve hilekâr bir trol; Freljord da dahil olmak üzere sopasıyla alt edemeyeceği hiçbir şey yok. Kendi bölgesini canla başla koruyor ve evine adım atacak kadar ahmak olan herkesi yakalayana kadar kovalıyor. Ardından...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Tryndamere",
+    "key": 23,
+    "name": "Tryndamere",
+    "title": "Barbar Kral",
+    "describe": "Gücünü dizginlenemeyen hiddeti ve öfkesinden alan Tryndamere, bir defasında kendini gelecekteki daha da karanlık günlere hazırlamak için Freljord'u bir ucundan diğerine arşınlayarak kuzeyin en büyük savaşçılarına açık açık meydan okudu. Bu gazap dolu...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Öfke",
+    "hero_id": 10015,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "TwistedFate",
+    "key": 4,
+    "name": "Twisted Fate",
+    "title": "İskambil Ustası",
+    "describe": "Twisted Fate; hem kumarda hem aşkta yakaladığı zaferlerle bilinen, dünyanın büyük kısmını gezip dolaşmış, zenginlerle ahmakların hem hayranlığını hem düşmanlığını kazanmış, iyisiyle kötüsüyle yaygın bir şöhret edinmiş bir kumarbaz ve dolandırıcıdır...",
+    "roles": [
+      "Mage",
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10025,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Twitch",
+    "key": 29,
+    "name": "Twitch",
+    "title": "Veba Getiren",
+    "describe": "Bir Zaun veba faresi olarak dünyaya gelen ve tutkulu bir pislik erbabı olan Twitch, pençelerini kirletmekten asla çekinmiyor. Kimya ile güçlendirilmiş arbaletini Piltover'ın ışıltılı kalbine doğrultan Veba Getiren, yukarıdaki şehirde yaşayan insanlara...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10053,
+    "is_wr": true,
+    "lanes": [
+      "AD",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Udyr",
+    "key": 77,
+    "name": "Udyr",
+    "title": "Ruh Gezgini",
+    "describe": "Yaşayan en güçlü ruh gezgini olan Udyr, Freljord'un bütün ruhlarıyla iletişime geçebiliyor. Bunu kimi zaman onlarla empati kurup ihtiyaçlarını anlayarak kimi zamansa ruhsal enerjilerini biçimlendirip kendi ilkel dövüş stiliyle birleştirerek yapıyor...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Urgot",
+    "key": 6,
+    "name": "Urgot",
+    "title": "Dehşet Makinesi",
+    "describe": "Bir zamanlar güçlü bir Noxus'lu cellat olan Urgot, uğruna pek çok can aldığı imparatorluk tarafından ihanete uğradı. Demir zincirlerle bağlanarak Zaun'un derinliklerindeki bir maden-hapishane olan Dehliz'e atıldığında, gücün gerçek anlamını öğrenmek...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10102,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Varus",
+    "key": 110,
+    "name": "Varus",
+    "title": "İntikam Oku",
+    "describe": "Kadim darkinlerden biri olan Varus, düşmanlarına işkence etmekten keyif alan ve öldürücü okunu fırlatmadan önce onları delirmenin eşiğine getiren korkunç bir katildi. Büyük Darkin Savaşı bittiğinde hapsedilmesine rağmen yüzyıllar sonra iki Ionia'lı...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10093,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Vayne",
+    "key": 67,
+    "name": "Vayne",
+    "title": "Gece Avcısı",
+    "describe": "Shauna Vayne, hayatını ailesini katleden iblisi bulup yok etmeye adamış ölümcül ve acımasız bir canavar avcısı. Bileklerindeki arbalet ve kalbindeki intikam aşkıyla Vayne, yalnızca gölgelerin içinden fırlattığı gümüş ok salvolarıyla karanlık güçlerin...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10010,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Veigar",
+    "key": 45,
+    "name": "Veigar",
+    "title": "Kötülüğün Minik Efendisi",
+    "describe": "Karanlık büyülerin hevesli efendisi Veigar, çok az faninin yaklaşmaya cüret edeceği güçlere kucak açmış biri. Bandle Şehri'nin özgürlüğüne düşkün bir sakini olarak uzun yıllar boyunca yordle büyülerinin sınırlamalarını aşmak istemiş ve binlerce yıl...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10122,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Velkoz",
+    "key": 161,
+    "name": "Vel'Koz",
+    "title": "Hiçlik'in Gözü",
+    "describe": "Vel'Koz'un Runeterra'da ortaya çıkan ilk Hiçlik yaratığı olup olmadığı belirsiz; ancak onunki kadar acımasız ve kurnaz bir bilincin asla görülmediği bir gerçek. Akrabaları çevrelerindeki her şeyi yutmak veya kirletmek istese de o, fiziksel âlemi ve...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Vex",
+    "key": 711,
+    "name": "Vex",
+    "title": "Kasvetperver",
+    "describe": "Gölge Adalar'ın kara kalbinde yalnız bir yordle, hayalet sisin kasvetli sefaletinden memnun bir şekilde ağır adımlarla yürüyor. Suratı sürekli asık olan ve kuvvetli bir gölgeye sahip Vex, ''banal'' kişilerin tiksindirici mutluluğundan uzakta, kendi...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10141,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Vi",
+    "key": 254,
+    "name": "Vi",
+    "title": "Piltover Fedaisi",
+    "describe": "Zamanında Zaun'un acımasız sokaklarında yetişen Vi tepesinin tası çabuk atan, fevri, çevresine korku salan ve otoriteye pek az saygı duyan bir kadın. Gençliğinde yukarı tarafta yarattığı kargaşaların ve Durgunsu Hapishanesi'nde haksız yere yıllarca...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10050,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Viego",
+    "key": 234,
+    "name": "Viego",
+    "title": "Mahvolmuş Kral",
+    "describe": "Viego bir zamanlar, artık çoktan unutulmuş bir ülkenin kralıydı. Bin yıldan uzun zaman önce, ölen eşini diriltmeye çalışırken Afet olarak bilinen ve kendi sonunu da getiren büyülü felaketi tetikledi. Yüzyıllar önce ölmüş kraliçesine duyduğu saplantılı...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Yok",
+    "hero_id": 10057,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Viktor",
+    "key": 112,
+    "name": "Viktor",
+    "title": "Sihrin Elçisi",
+    "describe": "Eski benliğini biyomekanik yöntemlerle evrimleştiren Viktor, Evrimin İhtişamı'nı benimsedi ve takipçileri için neredeyse kutsal bir figür haline geldi. Viktor, duygularından arınmanın onu ıstıraptan da kurtaracağını düşünerek insanlığını feda etti. Her...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10144,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": true,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Vladimir",
+    "key": 8,
+    "name": "Vladimir",
+    "title": "Kızıl Ölüm",
+    "describe": "Fanilerin kanına susamış bir iblis olan Vladimir, Noxus'un iç işlerini imparatorluğun ilk günlerinden beri etkilemiş. Yaşamını doğadışı şekilde uzatmasının yanı sıra, kan büyüsü konusundaki ustalığı ona diğer insanların zihin ve bedenlerini sanki...",
+    "roles": [
+      "Mage",
+      "Fighter"
+    ],
+    "type": "Kızıl Akım",
+    "hero_id": 10090,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": true,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Volibear",
+    "key": 106,
+    "name": "Volibear",
+    "title": "Ebedi Fırtına",
+    "describe": "Volibear, ona hâlâ hürmet gösterenler için fırtınanın vücut bulmuş hali. Yıkıcı, vahşi ve son derece dirençli biri olan Volibear, faniler Freljord'un tundralarına gelmeden önce bile hep buradaydı. Yarı ilah halkıyla birlikte oluşturdukları bu toprakları...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10058,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Warwick",
+    "key": 19,
+    "name": "Warwick",
+    "title": "Zaun'un Kafes Kaçkını Belası",
+    "describe": "Warwick, Zaun'un gri sokaklarında avlanan bir canavar. Muazzam derecede acı veren deneyler sonucu değişim geçiren vücudu, damarlarını simyasal bir öfke ile dolduran karmaşık bir hazne ve pompa sistemi ile donatılmış. Gölgelerin arasından bir anda...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10131,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Xayah",
+    "key": 498,
+    "name": "Xayah",
+    "title": "Asi",
+    "describe": "Xayah, halkını kurtarmak için bireysel savaş veren ölümcül ve kusursuz bir vastaya devrimcisi. Hızını, kurnazlığını ve jilet gibi keskin tüy bıçaklarını kullanarak yoluna çıkan herkesi yok ediyor. Xayah, ortağı ve sevgilisi Rakan ile omuz omuza...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10051,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": true,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Xerath",
+    "key": 101,
+    "name": "Xerath",
+    "title": "Yüksek Büyücü",
+    "describe": "Antik Shurima'nın Yükselmiş Büyücüsü Xerath, parçalanmış bir lahit içinde titreşen büyü gücünden oluşur. Binlerce yıl boyunca, çöl kumullarının altında esir kalmıştı; ancak Shurima'nın yükselmesiyle birlikte özgür kaldı. Güç tutkusuyla aklını yitirmiş...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "XinZhao",
+    "key": 5,
+    "name": "Xin Zhao",
+    "title": "Demacia'nın Hizmetkârı",
+    "describe": "Xin Zhao, iktidar sahibi Lightshield hanedanına sadık, azimli bir savaşçı. Geçmişte Noxus'un dövüş çukurlarına mahkûm edilen Xin Zhao, sayısız gladyatör dövüşünden sağ çıktı ve Demacia güçlerince serbest bırakılmasının ardından hayatını ve sadakatini...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10016,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Yasuo",
+    "key": 157,
+    "name": "Yasuo",
+    "title": "Günahkâr Kılıç",
+    "describe": "Büyük azme sahip bir Ionia'lı olan Yasuo, havanın gücünü düşmanlarına karşı kullanan çevik bir savaşçı. Gençliğinin mağrur günlerinde haksız yere ustasını katletmekle suçlanmış ve masumiyetini kanıtlayamayınca kendisini korumak için ağabeyini öldürmek...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Akış",
+    "hero_id": 10037,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Yone",
+    "key": 777,
+    "name": "Yone",
+    "title": "Unutulmayan Kılıç",
+    "describe": "Yaşarken adı Yone'ydi. Yasuo'nun üvey ağabeyi ve köyündeki kılıç okulunun en başarılı öğrencisiydi. Ama kardeşinin elinde can verdikten sonra peşine ruhlar âleminin kötücül bir yaratığı takıldı. Yone bu yaratığı onun kendi kılıcıyla öldürmek zorunda...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Akış",
+    "hero_id": 10069,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Yorick",
+    "key": 83,
+    "name": "Yorick",
+    "title": "Ruhların Çobanı",
+    "describe": "Uzun zaman önce unutulmuş bir inanç nizamının hayatta kalan son üyesi Yorick, ölülerin gücüyle hem kutsanmış hem de lanetlenmiş biri. Gölge Adalar'a sıkışıp kalan Yorick'in çürüyen cesetler ve feryatlar içinde etrafında toplanan ruhlardan başka yoldaşı...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Yuumi",
+    "key": 350,
+    "name": "Yuumi",
+    "title": "Sihirli Kedi",
+    "describe": "Bandle Şehri'nden gelen sihirli bir kedi olan Yuumi, eskiden Norra adlı efsuncu bir yordle'ın evcil hayvanıydı. Sahibi gizemli bir şekilde kaybolduğunda, Yuumi Norra'nın canlı Geçitler Kitabı'nın koruyucusu oldu ve onu bulmak için kitabın sayfalarındaki...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10020,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Zac",
+    "key": 154,
+    "name": "Zac",
+    "title": "Gizli Silah",
+    "describe": "Zac kimyasal teknoloji borusundaki çatlaktan sızıp Zaun'un Kuyu denilen bölgesindeki, kuytu bir mağarada biriken zehirli akıntının eseri. Bu mütevazı kökenine rağmen Zac ilkel bir kitleden, şehrin boru şebekesinde yaşayan bilinçli bir varlığa dönüştü...",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "type": "Yok",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Zed",
+    "key": 238,
+    "name": "Zed",
+    "title": "Gölgelerin Efendisi",
+    "describe": "Son derece gaddar ve acımasız biri olan Zed, Ionia'nın büyü ve dövüş sanatı adetlerini bir silah haline getirerek Noxus'lu işgalcileri topraklarından atmak için kurduğu Gölge Tarikatı'nın lideri. Savaş sırasındaki çaresizliği, onu gölge biçimi olarak...",
+    "roles": [
+      "Assassin"
+    ],
+    "type": "Enerji",
+    "hero_id": 10039,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Zeri",
+    "key": 221,
+    "name": "Zeri",
+    "title": "Zaun'un Kıvılcımı",
+    "describe": "Zaun'lu işçi sınıfı bir aileden gelme, dikbaşlı ve heyecanlı bir genç kadın olan Zeri, sahip olduğu elektrik büyüsünü yoğunlaştırarak özel yapım silahını dolduruyor. Değişken güçleri duygularını, kıvılcımlarıysa hayata olan yıldırım hızında yaklaşımını...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10067,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Ziggs",
+    "key": 115,
+    "name": "Ziggs",
+    "title": "Sihirmayın Uzmanı",
+    "describe": "Büyük patlayıcıların ve kısa fitillerin âşığı olan yordle Ziggs, her an patlamaya hazır biri. Piltover'daki bir mucidin çırağı olarak çalışırken tekdüze hayatından sıkılıp Jinx adında manyak ve mavi saçlı bir bombacıyla arkadaş oldu. Şehirde...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10087,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Zilean",
+    "key": 26,
+    "name": "Zilean",
+    "title": "Zaman Bekçisi",
+    "describe": "Bir zamanlar güçlü bir Icathia büyücüsü olan Zilean, vatanının Hiçlik tarafından yok edilmesine tanık olmasının ardından zamanın geçişini takıntı haline getirdi. Bu muazzam kayba üzülmek için bir an bile bulamayan büyücü, bütün olası sonuçları öğrenmek...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Zoe",
+    "key": 142,
+    "name": "Zoe",
+    "title": "Alacakaranlığın Sureti",
+    "describe": "Muzırlığın, hayal gücünün ve değişimin beden bulmuş hali olan Zoe, Targon'un kozmik habercisi. Zoe, dünyalara yeniden şekil verecek kadar büyük ve önemli haberleri iletmekten sorumlu. Sadece varlığı bile gerçeklikleri yöneten büyülü matematiği...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10014,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Zyra",
+    "key": 143,
+    "name": "Zyra",
+    "title": "Dikenli Cazibe",
+    "describe": "Kadim ve büyülü bir felaketten doğan Zyra doğanın hiddetinin vücut bulmuş hali, bitki ile insanın çekici bir birleşimidir ve her adımda yeni canlılara hayat verir. Valoran'ın fanilerini yalnızca tohumlardan yetişen yavruları için birer kurban olarak...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10063,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  }
+]

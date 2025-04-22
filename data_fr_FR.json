@@ -1,0 +1,3789 @@
+[
+  {
+    "id": "Aatrox",
+    "key": 266,
+    "name": "Aatrox",
+    "title": "Épée des Darkin",
+    "describe": "Autrefois, Aatrox et ses frères étaient honorés pour avoir défendu Shurima contre le Néant. Mais ils finirent par devenir une menace plus grande encore pour Runeterra : la ruse et la sorcellerie furent employées pour les battre. Cependant, après des...",
+    "roles": [
+      "Fighter"
+    ],
+    "type": "Puits de sang",
+    "hero_id": 10002,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 3,
+    "utility": 2
+  },
+  {
+    "id": "Ahri",
+    "key": 103,
+    "name": "Ahri",
+    "title": "Renard à neuf queues",
+    "describe": "Connectée à la magie du royaume spirituel, Ahri est une mystérieuse Vastaya aux traits de renard qui peut manipuler les émotions de sa proie et consumer son essence, afin de recevoir des fragments de sa mémoire. Ahri fut un temps un terrifiant prédateur...",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10038,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Akali",
+    "key": 84,
+    "name": "Akali",
+    "title": "Assassin rebelle",
+    "describe": "Ayant abandonné l'Ordre Kinkou et le titre de Poing de l'ombre, Akali combat aujourd'hui seule, prête à devenir l'arme mortelle dont son peuple a besoin. Bien qu'elle n'oublie rien de tout ce que son maître Shen lui a enseigné, elle a juré de défendre...",
+    "roles": [
+      "Assassin"
+    ],
+    "type": "Énergie",
+    "hero_id": 10031,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Akshan",
+    "key": 166,
+    "name": "Akshan",
+    "title": "Sentinelle rebelle",
+    "describe": "Se jouant du danger, Akshan combat le mal sans jamais se départir de son charisme (il ne faut jamais sous-estimer l'importance de la cape) et de sa droiture. Il est passé maître dans l'art du combat furtif, ce qui lui permet d'échapper au regard de ses...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10100,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Alistar",
+    "key": 12,
+    "name": "Alistar",
+    "title": "Minotaure",
+    "describe": "Alistar est un guerrier redoutable cherchant à se venger de l'empire noxien qui a détruit son clan. Bien qu'il ait été réduit en esclavage et forcé de vivre une vie de gladiateur, sa volonté de fer lui a permis de ne pas succomber à la folie bestiale...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10081,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 3,
+    "utility": 2
+  },
+  {
+    "id": "Ambessa",
+    "key": 799,
+    "name": "Ambessa",
+    "title": "Matriarche de guerre",
+    "describe": "Tous ceux qui connaissent le nom de Medarda savent qu'il faut craindre et respecter sa matriarche, Ambessa. En tant que générale noxienne, elle incarne la force impitoyable et la détermination sans peur. Son rôle de matriarche n'est pas bien différent...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Énergie",
+    "hero_id": 10082,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": true,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Amumu",
+    "key": 32,
+    "name": "Amumu",
+    "title": "Momie mélancolique",
+    "describe": "La légende veut qu'Amumu soit une âme solitaire et mélancolique de la Shurima antique et qu'il parcoure le monde à la recherche d'un ami. Condamné par une malédiction à rester seul à jamais, il provoque la mort et la ruine à chaque geste d'affection...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10004,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Support",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Anivia",
+    "key": 34,
+    "name": "Anivia",
+    "title": "Cryophénix",
+    "describe": "Anivia est un esprit ailé bienveillant qui subit des cycles sans fin de vie, de mort et de renaissance pour protéger Freljord. Demi-déesse née de la glace la plus froide et des vents les plus coupants, elle utilise ses pouvoirs élémentaires contre...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Annie",
+    "key": 1,
+    "name": "Annie",
+    "title": "Enfant des ténèbres",
+    "describe": "Dangereuse, incroyablement précoce, Annie est une enfant mage dotée d'extraordinaires pouvoirs de pyrokinésie. Même à l'ombre des montagnes du nord de Noxus, sa magie est un cas unique. Son affinité naturelle avec le feu se manifesta dès sa prime...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10036,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Aphelios",
+    "key": 523,
+    "name": "Aphelios",
+    "title": "Arme des Lunaris",
+    "describe": "Émergeant des ombres au clair de lune, Aphelios abat ceux qui voudraient anéantir sa foi sans un mot ; ses armes et sa précision mortelle parlent pour lui. Un poison qui le rend muet coule dans ses veines, mais il est constamment guidé par sa sœur...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Ashe",
+    "key": 22,
+    "name": "Ashe",
+    "title": "Archère de givre",
+    "describe": "Chef de guerre sublimé de la tribu des Avarosans, Ashe est à la tête de la plus vaste horde des terres du nord. Stoïque, intelligente et idéaliste, mais mal à l'aise dans son rôle de leader, elle puise dans la magie ancestrale de sa lignée pour manier...",
+    "roles": [
+      "Marksman",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10079,
+    "is_wr": true,
+    "lanes": [
+      "AD",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "AurelionSol",
+    "key": 136,
+    "name": "Aurelion Sol",
+    "title": "Forgeur d'étoiles",
+    "describe": "Autrefois, Aurelion Sol façonnait des merveilles célestes dont il parsemait le vide infini du cosmos. À présent, il est forcé d'utiliser ses pouvoirs extraordinaires pour le compte d'un empire de l'espace qui s'est joué de lui et l'a réduit en esclavage...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10023,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Aurora",
+    "key": 893,
+    "name": "Aurora",
+    "title": "Sorcière d'entre les mondes",
+    "describe": "Depuis sa naissance, Aurora a toujours été capable de passer du royaume spirituel au royaume matériel. Déterminée à étudier les habitants du royaume spirituel, elle a quitté son foyer pour se consacrer à ses recherches. En chemin, elle est tombée sur un...",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Azir",
+    "key": 268,
+    "name": "Azir",
+    "title": "Empereur des sables",
+    "describe": "Azir fut l'empereur mortel de Shurima en des temps très lointains, un homme fier dressé au bord de l'immortalité. Son orgueil lui valut d'être trahi et assassiné à l'heure de son triomphe ; mais des millénaires se sont écoulés et il revient sous la...",
+    "roles": [
+      "Mage",
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Bard",
+    "key": 432,
+    "name": "Bard",
+    "title": "Gardien errant",
+    "describe": "Voyageur d'au-delà des étoiles, Bard est un messager des bons augures qui combat pour maintenir l'équilibre dont la vie a besoin pour prospérer dans l'indifférence du chaos. Dans tout Runeterra, sa mystérieuse nature inspire des chants qui ne sont...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Belveth",
+    "key": 200,
+    "name": "Bel'Veth",
+    "title": "Impératrice du Néant",
+    "describe": "Bel'Veth, impératrice cauchemardesque née d'une cité dévorée, représente la fin de Runeterra... et le début d'une monstrueuse réalité de sa propre conception. Mue par des siècles d'histoire, de connaissances et de souvenirs absorbés dans le monde du...",
+    "roles": [
+      "Fighter"
+    ],
+    "type": "",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Blitzcrank",
+    "key": 53,
+    "name": "Blitzcrank",
+    "title": "Golem de vapeur",
+    "describe": "Blitzcrank est un énorme automate de Zaun. Presque indestructible, il fut d'abord construit pour traiter des déchets toxiques, mais il trouva rapidement sa programmation initiale trop restrictive et il modifia sa propre forme pour mieux servir la...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10033,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Brand",
+    "key": 63,
+    "name": "Brand",
+    "title": "Vengeur flamboyant",
+    "describe": "Autrefois membre d'une tribu de Freljord, Kegan Rodhe est devenu l'être que l'on connaît sous le nom de Brand à force de convoiter des pouvoirs toujours plus grands. Alors qu'il recherchait l'une des légendaires Runes telluriques, Kegan trahit ses...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10119,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Braum",
+    "key": 201,
+    "name": "Braum",
+    "title": "Cœur de Freljord",
+    "describe": "Doté de biceps énormes, et d'un cœur plus grand encore, Braum est un héros admiré par tout Freljord. Lors de tous les banquets au nord de Frostheld, on rend hommage à sa force légendaire. On raconte qu'il a abattu une forêt entière de chênes en une...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10021,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 1,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Briar",
+    "key": 233,
+    "name": "Briar",
+    "title": "Faim insatiable",
+    "describe": "Née d'une expérience ratée menée par la Rose noire, Briar a besoin d'un pilori spécial pour contrôler son irrépressible soif de sang. Après des années d'enfermement, cette arme vivante s'est aujourd'hui défaite de ses entraves et parcourt le monde...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Fureur",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Caitlyn",
+    "key": 51,
+    "name": "Caitlyn",
+    "title": "Shérif de Piltover",
+    "describe": "Caitlyn Kiramman est la plus célèbre gardienne de la paix à Piltover, mais elle est aussi la plus apte à débarrasser la ville de ses criminels les plus insaisissables. Elle fait souvent équipe avec Vi, son calme faisant contrepoids à la fougue de sa...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10112,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Camille",
+    "key": 164,
+    "name": "Camille",
+    "title": "Ombre d'acier",
+    "describe": "Transformée en arme pour agir en dehors des limites de la loi, Camille est le principal défenseur du clan Ferros, un agent élégant et supérieur qui contribue à faire fonctionner correctement la machine de Piltover et son ombre zaunienne. Son...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10055,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Cassiopeia",
+    "key": 69,
+    "name": "Cassiopeia",
+    "title": "Étreinte du serpent",
+    "describe": "Cassiopeia est une créature meurtrière qui excelle dans l'art de la manipulation. Elle était la plus jeune et la plus belle des filles de la famille noxienne Du Couteau, mais le jour où elle s'aventura dans les cryptes de Shurima en quête d'un pouvoir...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Chogath",
+    "key": 31,
+    "name": "Cho'Gath",
+    "title": "Terreur noire",
+    "describe": "Lorsque Cho'Gath débarqua sous la lumière éclatante du soleil de Runeterra, il fut immédiatement pris d'une faim insatiable. Incarnation parfaite de la volonté du Néant de dévorer toute forme de vie, le corps complexe de Cho'Gath convertit rapidement la...",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Corki",
+    "key": 42,
+    "name": "Corki",
+    "title": "Artilleur téméraire",
+    "describe": "Il y a deux choses que Corki, le pilote yordle, aime plus que tout au monde : les sensations de vol et sa fantastique moustache... mais pas nécessairement dans cet ordre. Après avoir quitté Bandle, il s'installa à Piltover, où il tomba amoureux des...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10060,
+    "is_wr": true,
+    "lanes": [
+      "AD",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Darius",
+    "key": 122,
+    "name": "Darius",
+    "title": "Main de Noxus",
+    "describe": "Il n'est pas de plus grand symbole de la puissance de Noxus que Darius, le commandant le plus craint et le plus endurci de la nation. D'origine modeste, celui qui s'est élevé jusqu'à devenir la Main de Noxus pourfend aujourd'hui les ennemis de l'empire...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10071,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Diana",
+    "key": 131,
+    "name": "Diana",
+    "title": "Mépris de la lune",
+    "describe": "Armée de son croissant de lune, Diana combat dans les rangs des Lunaris, une foi qui a presque disparu des terres qui entourent le Mont Targon. Portant une armure étincelante évoquant les reflets de la nuit sur un paysage de neige, elle incarne la...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10013,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Draven",
+    "key": 119,
+    "name": "Draven",
+    "title": "Glorieux exécuteur",
+    "describe": "À Noxus, de puissants guerriers, les « arénaires », s'affrontent dans des jeux mortels pour divertir le public. Le sang y coule à foison et leurs forces y sont éprouvées, mais aucun d'entre eux n'a jamais été aussi célèbre que Draven. Cet ancien soldat...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10077,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "DrMundo",
+    "key": 36,
+    "name": "Dr. Mundo",
+    "title": "Dément de Zaun",
+    "describe": "Totalement fou, complètement porté sur l'homicide, horriblement violet, Dr. Mundo est la principale raison pour laquelle les citoyens de Zaun restent calfeutrés chez eux les nuits les plus sombres. Désormais médecin autoproclamé, il fut autrefois un...",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "type": "Aucune",
+    "hero_id": 10062,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Ekko",
+    "key": 245,
+    "name": "Ekko",
+    "title": "Fractureur du temps",
+    "describe": "Jeune prodige des rues mal famées de Zaun, Ekko est capable de manipuler le temps pour renverser toute situation dangereuse à son avantage. Il utilise sa propre invention, la clepsydre-zéro, pour explorer les différents possibles de la réalité...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10011,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Elise",
+    "key": 60,
+    "name": "Elise",
+    "title": "Reine araignée",
+    "describe": "Elise est un prédateur mortel qui vit dans un palais reclus et obscur, au plus profond de la plus vieille ville de Noxus. C'était autrefois une simple femme, maîtresse d'une Maison toute-puissante, mais la morsure d'un maléfique demi-dieu la transforma...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Evelynn",
+    "key": 28,
+    "name": "Evelynn",
+    "title": "Démon sadique",
+    "describe": "Dans les sombres failles de Runeterra, le démon nommé Evelynn cherche sa prochaine victime. Elle attire sa proie en se faisant passer pour une femme voluptueuse, et dès que sa cible succombe à ses charmes, Evelynn révèle sa véritable nature. Elle...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10029,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Ezreal",
+    "key": 81,
+    "name": "Ezreal",
+    "title": "Explorateur prodigue",
+    "describe": "Aventurier audacieux, doué sans le savoir pour les arts magiques, Ezreal poursuit ses expéditions dans les catacombes oubliées, se bat avec d'antiques malédictions et contourne avec aisance les obstacles les plus impossibles. Son courage et son panache...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10098,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": true,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Fiddlesticks",
+    "key": 9,
+    "name": "Fiddlesticks",
+    "title": "Effroi nocturne",
+    "describe": "Quelque chose s'est éveillé à Runeterra. Quelque chose d'ancien. Quelque chose de terrible. L'horreur intemporelle connue sous le nom de Fiddlesticks arpente les frontières des civilisations mortelles, attirée dans les régions en proie à la paranoïa, où...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10133,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Fiora",
+    "key": 114,
+    "name": "Fiora",
+    "title": "Sublime bretteuse",
+    "describe": "Fiora est la duelliste la plus redoutée de Valoran : elle est connue pour ses manières brusques et sa vivacité d'esprit autant que pour la rapidité de sa rapière d'acier bleu. Née au sein de la Maison Laurent du royaume de Demacia, Fiora a pris le...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10032,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": true,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Fizz",
+    "key": 105,
+    "name": "Fizz",
+    "title": "Filou des mers",
+    "describe": "Fizz est un yordle amphibie qui vit dans les récifs qui entourent Bilgewater. Il essaie souvent de récupérer et de rendre les tributs que lancent dans l'océan les capitaines superstitieux, mais même le plus dessalé des marins n'est pas assez arrogant...",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10086,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Galio",
+    "key": 3,
+    "name": "Galio",
+    "title": "Colosse",
+    "describe": "Près de la cité étincelante de Demacia, le colosse de pierre Galio monte une garde attentive. Érigé comme un rempart contre les mages ennemis, il reste souvent immobile pendant des décennies, jusqu'à ce que l'apparition de puissants flux magiques le...",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10099,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Gangplank",
+    "key": 41,
+    "name": "Gangplank",
+    "title": "Fléau des mers",
+    "describe": "Aussi imprévisible que brutal, le roi des pillards déchu connu sous le nom de Gangplank est partout redouté. Il régnait autrefois sur la ville portuaire de Bilgewater et, bien que ce temps soit révolu, certains pensent que cela l'a rendu plus dangereux...",
+    "roles": [
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Garen",
+    "key": 86,
+    "name": "Garen",
+    "title": "Force de Demacia",
+    "describe": "Garen est un guerrier fier et noble qui fait partie du Détachement hardi. Héritier des Crownguard, la famille chargée de défendre Demacia et ses idéaux, il est apprécié par ses compatriotes et respecté par ses ennemis. Équipé d'une armure résistante à...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Aucune",
+    "hero_id": 10001,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Gnar",
+    "key": 150,
+    "name": "Gnar",
+    "title": "Chaînon manquant",
+    "describe": "Gnar est un yordle primitif dont les manières joyeuses peuvent soudain faire place à une colère irrationnelle. Il se transforme alors en une bête colossale portée à la destruction. Gelé dans de la glace pure pendant des millénaires, la curieuse créature...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Rage",
+    "hero_id": 10078,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Gragas",
+    "key": 79,
+    "name": "Gragas",
+    "title": "Agitateur",
+    "describe": "Aussi imposant que jovial, Gragas est un brasseur à l'impressionnante carrure qui cherche la recette de la bière parfaite. Venu d'on ne sait où, il continue de chercher les ingrédients les plus rares dans les terres vierges de Freljord, essayant toutes...",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10089,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Graves",
+    "key": 104,
+    "name": "Graves",
+    "title": "Hors-la-loi",
+    "describe": "Malcolm Graves est un mercenaire, un parieur et un voleur recherché dans toutes les cités et tous les empires par lesquels il est passé. Malgré son tempérament explosif, il a un sens de l'honneur indéniable qu'il applique souvent avec son fusil à double...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10072,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Gwen",
+    "key": 887,
+    "name": "Gwen",
+    "title": "Couturière sacrée",
+    "describe": "Ancienne poupée à qui la magie a conféré la vie, Gwen est armée des outils qui l'ont créée. Elle emporte à chaque pas l'amour de sa créatrice et ne tient jamais rien pour acquis. Elle commande à la Brume sacrée, une ancienne magie de protection qui a...",
+    "roles": [
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10054,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Hecarim",
+    "key": 120,
+    "name": "Hecarim",
+    "title": "Ombre de la guerre",
+    "describe": "Fusion spectrale de l'homme et de la bête, Hecarim est condamné à pourchasser les âmes des vivants pour l'éternité. Lorsque les ombres ont envahi les Îles bénies, ce fier chevalier et sa horde de cavaliers ont été anéantis par les énergies destructrices...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10019,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Heimerdinger",
+    "key": 74,
+    "name": "Heimerdinger",
+    "title": "Inventeur réputé",
+    "describe": "L'excentrique professeur Cecil B. Heimerdinger est considéré comme l'un des inventeurs les plus innovants qu'ait connus le monde. En tant que plus ancien membre actif du Conseil de Piltover, il a été témoin du meilleur comme du pire que le désir de...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10127,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Hwei",
+    "key": 910,
+    "name": "Hwei",
+    "title": "Visionnaire",
+    "describe": "Hwei est un peintre dont les œuvres sont aussi flamboyantes que son humeur est morose. Il utilise son art pour faire face aux criminels d'Ionia et apporter du réconfort à leurs victimes. Sous sa mélancolie se débat un esprit déchiré et émotif, hanté à...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Illaoi",
+    "key": 420,
+    "name": "Illaoi",
+    "title": "Prêtresse du kraken",
+    "describe": "La stature colossale d'Illaoi n'a d'égale que sa foi implacable. Prophétesse du Grand Kraken, elle se sert d'une énorme idole dorée pour arracher les esprits de ses ennemis et faire voler en éclats leur perception de la réalité. Ceux qui défient...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Irelia",
+    "key": 39,
+    "name": "Irelia",
+    "title": "Danseuse des lames",
+    "describe": "Des nombreux héros qui naquirent de l'occupation noxienne, aucun n'est plus étonnant que la jeune Irelia de Navori. Formée aux danses ancestrales de sa province, elle adapta son art pour la guerre, se servant de ses mouvements gracieux et précis pour...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10094,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Ivern",
+    "key": 427,
+    "name": "Ivern",
+    "title": "Aîné de la forêt",
+    "describe": "Ivern Roncepied, que beaucoup connaissent sous le nom d'Aîné de la forêt, est un être étrange mi-homme mi-arbre, qui arpente les forêts de Runeterra en cultivant la vie partout où il va. Il connaît les secrets du monde naturel et entretient une profonde...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Janna",
+    "key": 40,
+    "name": "Janna",
+    "title": "Avatar de l'air",
+    "describe": "Armée de la puissance des grands vents de Runeterra, Janna est un mystérieux esprit élémentaire qui protège les parias de Zaun. Certains croient que la vie lui a été donnée par les suppliques des marins de Runeterra cherchant les bons vents des mers...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10075,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "JarvanIV",
+    "key": 59,
+    "name": "Jarvan IV",
+    "title": "Exemple demacien",
+    "describe": "Le prince Jarvan, héritier de la dynastie des Lightshield, doit un jour monter sur le trône de Demacia. Élevé de manière à incarner les plus hautes vertus de sa nation, il est contraint de trouver un équilibre entre les attentes placées en lui et son...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10056,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Jax",
+    "key": 24,
+    "name": "Jax",
+    "title": "Maître d'armes",
+    "describe": "Jax, dont nul ne peut égaler l'art du sarcasme et des armements inhabituels, est connu comme le dernier maître d'armes d'Icathia. Après la chute de sa terre natale, ravagée par le Néant qu'elle avait eu l'orgueil de déchaîner, Jax et ses compagnons...",
+    "roles": [
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10040,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Jayce",
+    "key": 126,
+    "name": "Jayce",
+    "title": "Protecteur du futur",
+    "describe": "Jayce Talis est un inventeur de génie qui, aux côtés de son ami Viktor, a fait les premières grandes découvertes dans le domaine de l'Hextech. Reconnu dans tout Piltover, il s'efforce d'être à la hauteur de sa réputation d'« Homme du progrès », mais les...",
+    "roles": [
+      "Marksman",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10101,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Jhin",
+    "key": 202,
+    "name": "Jhin",
+    "title": "Virtuose",
+    "describe": "Jhin est un psychopathe méticuleux pour qui le meurtre est une forme d'art. Autrefois prisonnier de Ionia, mais libéré par des conspirateurs opérant au sein du conseil dirigeant du pays, ce tueur en série a désormais mis ses talents d'assassin au...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10022,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Jinx",
+    "key": 222,
+    "name": "Jinx",
+    "title": "Gâchette folle",
+    "describe": "Criminelle dérangée et impulsive de la basse-ville, Jinx est hantée par les conséquences de son passé. Mais cela ne l'empêche jamais d'apporter sa touche de chaos à Piltover comme à Zaun. Elle utilise son arsenal d'armes bricolées de façon dévastatrice...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10018,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Kaisa",
+    "key": 145,
+    "name": "Kai'Sa",
+    "title": "Fille du Néant",
+    "describe": "Capturée par le Néant alors qu'elle n'était qu'une enfant, Kai'Sa parvint à survivre par la simple force de sa détermination et de sa ténacité. Si ses expériences ont fait d'elle une chasseuse meurtrière, certains voient en elle l'avant-goût d'un avenir...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10026,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Kalista",
+    "key": 429,
+    "name": "Kalista",
+    "title": "Lance de la vengeance",
+    "describe": "Spectre courroucé des Îles obscures, Kalista est l'esprit immortel de la vengeance, un cauchemar en armure que l'on invoque pour pourchasser les traîtres et les menteurs. Les victimes trahies peuvent réclamer vengeance, mais Kalista ne répond qu'à ceux...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10134,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Karma",
+    "key": 43,
+    "name": "Karma",
+    "title": "Sagesse incarnée",
+    "describe": "Aucun mortel n'incarne mieux que Karma les traditions spirituelles d'Ionia. Elle est l'hôte vivant d'une âme ancienne réincarnée à de multiples reprises. Elle contient tous les souvenirs accumulés au fil de ces vies et elle possède une puissance que peu...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10007,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Karthus",
+    "key": 30,
+    "name": "Karthus",
+    "title": "Liche",
+    "describe": "Héraut de l'oubli, Karthus est un esprit immortel dont les chants ensorcelants préludent à l'horreur de son apparition. Les vivants craignent l'existence éternelle des morts-vivants, mais Karthus n'y voit que beauté et pureté, une union parfaite de la...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Kassadin",
+    "key": 38,
+    "name": "Kassadin",
+    "title": "Chasseur du Néant",
+    "describe": "Kassadin se fraye un chemin brûlant dans les lieux les plus sombres du monde ; il sait que ses jours sont comptés. Guide et aventurier shurimien accompli, il avait choisi de fonder une famille parmi les tribus pacifiques du sud, jusqu'au jour où son...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10103,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Katarina",
+    "key": 55,
+    "name": "Katarina",
+    "title": "Lame sinistre",
+    "describe": "Aussi prompte dans ses décisions qu'elle est meurtrière en combat, Katarina figure parmi les assassins les plus prestigieux de Noxus. Fille aînée du légendaire général Du Couteau, elle révéla bien vite ses talents en éliminant ses ennemis avec la plus...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Aucune",
+    "hero_id": 10095,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Kayle",
+    "key": 10,
+    "name": "Kayle",
+    "title": "Vertueuse",
+    "describe": "Née d'une Manifestation targonienne au plus fort des Guerres runiques, Kayle honore l'héritage de sa mère en combattant pour la justice, portée par des ailes de feu divin. Elle et sa sœur jumelle Morgana ont longtemps été les protectrices de Demacia...",
+    "roles": [
+      "Mage",
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10041,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Kayn",
+    "key": 141,
+    "name": "Kayn",
+    "title": "Faucheur de l'ombre",
+    "describe": "Expert inégalé dans la pratique de la magie des ombres, Shieda Kayn combat pour accomplir sa véritable destinée : mener un jour l'Ordre de l'ombre vers une ère nouvelle où Ionia régnera en maître. Il manie Rhaast, une arme darkin douée de raison, sans...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10005,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Kennen",
+    "key": 85,
+    "name": "Kennen",
+    "title": "Cœur de la tempête",
+    "describe": "Vif comme l'éclair, Kennen est plus que le simple protecteur de l'équilibre ionien, c'est aussi le seul yordle membre du Kinkou. En dépit de son allure de boule de poils, il est prêt à affronter n'importe quelle menace dans un tourbillon de shurikens et...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Énergie",
+    "hero_id": 10061,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Khazix",
+    "key": 121,
+    "name": "Kha'Zix",
+    "title": "Faucheur du Néant",
+    "describe": "Le Néant grandit et le Néant s'adapte : parmi ses nombreuses engeances, nul n'incarne mieux cette vérité que Kha'Zix. Ce monstre est né pour survivre et pour tuer les plus forts. Quand il ne parvient pas à ses fins, il évolue et se crée de nouveaux...",
+    "roles": [
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10017,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Kindred",
+    "key": 203,
+    "name": "Kindred",
+    "title": "Chasseurs éternels",
+    "describe": "Kindred représente les essences jumelles de la mort, distinctes mais indissociables. La flèche d'Agneau offre une fin rapide à ceux qui acceptent leur destin. Loup pourchasse ceux qui fuient leur dernier soupir et leur arrache brutalement la vie à coups...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10073,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Kled",
+    "key": 240,
+    "name": "Kled",
+    "title": "Cavalier colérique",
+    "describe": "Guerrier aussi intrépide que grincheux, Kled est la plus pure incarnation de la fureur de Noxus. C'est un symbole que les soldats de l'empire adorent, dont les officiers se méfient et que la noblesse déteste. Beaucoup affirment que Kled a participé à...",
+    "roles": [
+      "Fighter"
+    ],
+    "type": "Courage",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "KogMaw",
+    "key": 96,
+    "name": "Kog'Maw",
+    "title": "Gueule des abysses",
+    "describe": "Émanant d'une brèche ouverte vers le Néant, c'est dans les ruines hantées d'Icathia que Kog'Maw, la putride créature à la gueule béante, et son insatiable curiosité firent leur apparition. Cette étrange bête du Néant doit mâchouiller tout ce qui se...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "KSante",
+    "key": 897,
+    "name": "K'Santé",
+    "title": "Fierté de Nazumah",
+    "describe": "Rebelle et courageux, K'Santé combat les bêtes colossales et les Transfigurés impitoyables qui menacent son foyer convoité de Nazumah, une oasis lovée au cœur des sables de Shurima. Après s'être séparé de son ancien partenaire, K'Santé comprend que pour...",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Leblanc",
+    "key": 7,
+    "name": "LeBlanc",
+    "title": "Manipulatrice",
+    "describe": "Mystérieuse, même aux yeux des autres membres de la Rose noire, LeBlanc n'est que l'un des nombreux noms de la femme pâle qui manipule le destin de Noxus depuis ses premiers jours. Utilisant sa magie pour se cloner, elle peut être partout, devant tout...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "LeeSin",
+    "key": 64,
+    "name": "Lee Sin",
+    "title": "Moine aveugle",
+    "describe": "Maître des antiques arts martiaux d'Ionia, Lee Sin est un combattant dévoué à de nobles principes qui canalise l'esprit du dragon pour affronter tous les défis. Bien qu'il ait perdu la vue il y a bien des années, le moine-guerrier a dédié sa vie à la...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Énergie",
+    "hero_id": 10059,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Leona",
+    "key": 89,
+    "name": "Leona",
+    "title": "Aube radieuse",
+    "describe": "Imprégnée de l'énergie du soleil, Leona est une guerrière sainte des Solaris qui défend le Mont Targon ; elle combat avec sa Lame du zénith et son Bouclier de l'aube. Sa peau brûle d'éclats ardents et ses yeux crépitent au rythme de la Manifestation...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10044,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Lillia",
+    "key": 876,
+    "name": "Lillia",
+    "title": "Fleur timide",
+    "describe": "Profondément timide, Lillia, le faon féérique, parcourt nerveusement les forêts d'Ionia. Échappant toujours au regard des mortels dont la nature a longtemps captivé et intimidé la jeune créature, Lillia espère découvrir la raison pour laquelle les rêves...",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10135,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Lissandra",
+    "key": 127,
+    "name": "Lissandra",
+    "title": "Sorcière de glace",
+    "describe": "La magie de Lissandra est capable de manipuler la pure puissance de la glace en quelque chose d'à la fois obscur et terrible. Avec la force de sa glace noire, elle fait bien plus que glacer... elle empale et écrase ceux qui osent s'opposer à elle. Les...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10109,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Lucian",
+    "key": 236,
+    "name": "Lucian",
+    "title": "Purificateur",
+    "describe": "Lucian, Sentinelle de la lumière, est un funeste chasseur de spectres. Les pourchassant sans relâche, il les abat de ses pistolets jumeaux. Lorsque sa femme fut tuée par le spectre Thresh, Lucian fit tout pour se venger. Aujourd'hui, Senna est revenue à...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10042,
+    "is_wr": true,
+    "lanes": [
+      "AD",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Lulu",
+    "key": 117,
+    "name": "Lulu",
+    "title": "Sorcière féérique",
+    "describe": "Magicienne yordle, Lulu aime conjurer des illusions oniriques et de drôles de créatures en explorant Runeterra avec Pix, sa fée de compagnie. Lulu forge la réalité selon ses désirs, modifiant à sa guise la structure du monde et ce qu'elle considère...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10048,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Lux",
+    "key": 99,
+    "name": "Lux",
+    "title": "Dame de lumière",
+    "describe": "Luxanna Crownguard est originaire de Demacia, un royaume isolationniste où la magie inspire la peur et la méfiance. Capable de plier la lumière à sa volonté, elle a grandi dans la crainte d'être un jour exilée et a été contrainte de dissimuler son...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10003,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Malphite",
+    "key": 54,
+    "name": "Malphite",
+    "title": "Éclat du monolithe",
+    "describe": "Massive créature de pierre vivante, Malphite lutte pour imposer un ordre sacré dans un monde chaotique. Né pour servir l'obélisque mystique que l'on nomme le Monolithe, il utilisa son incroyable force élémentaire pour protéger son créateur, mais n'y...",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10083,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Top",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Malzahar",
+    "key": 90,
+    "name": "Malzahar",
+    "title": "Prophète du Néant",
+    "describe": "Voyant fanatique ayant dédié son existence à l'unification de toute forme de vie, Malzahar croit fermement que le Néant est la voie du salut de Runeterra. Dans les étendues désertiques de Shurima, il suivit les voix qui murmuraient dans son esprit...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Maokai",
+    "key": 57,
+    "name": "Maokai",
+    "title": "Tréant torturé",
+    "describe": "Maokai est un immense tréant possédé par la colère, qui combat les horreurs impies des Îles obscures. Il est devenu l'incarnation de la vengeance après la destruction de ses terres par un cataclysme magique, n'échappant lui-même à l'état de mort-vivant...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10074,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "MasterYi",
+    "key": 11,
+    "name": "Maître Yi",
+    "title": "Fine lame Wuju",
+    "describe": "Maître Yi a renforcé son corps et affûté son esprit jusqu'à ce que réflexion et action ne fassent plus qu'un. Bien qu'il ne fasse appel à la violence qu'en dernier recours, la grâce et la vitesse avec lesquelles il manie son épée assurent une résolution...",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10070,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Mel",
+    "key": 800,
+    "name": "Mel",
+    "title": "Reflet de l'âme",
+    "describe": "Mel Medarda est l'héritière présumée de la famille Medarda, autrefois l'une des plus puissantes familles de Noxus. Aristocrate gracieuse en apparence, elle est en réalité une politicienne chevronnée, soucieuse de connaître les moindres détails de tous...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Milio",
+    "key": 902,
+    "name": "Milio",
+    "title": "Douce flamme",
+    "describe": "Milio est un garçon d'Ixtal chaleureux qui, malgré son jeune âge, maîtrise l'Axiome du feu et a découvert le feu guérisseur. Grâce à cette puissance nouvelle, il espère intégrer les Yun Tal, comme sa grand-mère avant lui, et annuler le jugement qui...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10108,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 1,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "MissFortune",
+    "key": 21,
+    "name": "Miss Fortune",
+    "title": "Chasseuse de primes",
+    "describe": "Capitaine de Bilgewater réputée pour sa beauté et crainte pour sa cruauté, Sarah Fortune est une personnalité qui détonne au milieu des criminels endurcis qui arpentent la cité portuaire. Enfant, elle assista au massacre de sa famille par Gangplank, le...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10066,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "MonkeyKing",
+    "key": 62,
+    "name": "Wukong",
+    "title": "Roi des singes",
+    "describe": "Wukong est un Vastaya qui utilise sa force, son agilité et son intelligence pour semer la confusion parmi ses adversaires et prendre sur eux l'avantage. Après s'être fait un ami en la personne d'un guerrier nommé Maître Yi, Wukong est devenu le dernier...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10009,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Mordekaiser",
+    "key": 82,
+    "name": "Mordekaiser",
+    "title": "Revenant de fer",
+    "describe": "Deux fois abattu et trois fois né, Mordekaiser est un chef de guerre brutal venu d'un lointain passé. Il utilise ses pouvoirs nécromantiques pour lier les âmes à une éternité de servitude. Il n'y a plus guère de gens pour se souvenir de ses anciennes...",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "type": "Bouclier",
+    "hero_id": 10035,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Morgana",
+    "key": 25,
+    "name": "Morgana",
+    "title": "Déchue",
+    "describe": "Déchirée entre ses origines célestes et mortelles, Morgana a enchaîné ses ailes pour appartenir pleinement à l'humanité et abattre sa peine et sa rancœur sur les corrompus et les malhonnêtes. Elle rejette les lois et les traditions qu'elle juge injustes...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10028,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Naafiri",
+    "key": 950,
+    "name": "Naafiri",
+    "title": "la meute de fer",
+    "describe": "À travers le désert de Shurima, un concert de hurlements retentit. C'est l'appel des chiens des sables, ces prédateurs voraces qui se déplacent en meutes et luttent pour la moindre source de nourriture de ces terres stériles. Parmi ces meutes, une se...",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Nami",
+    "key": 267,
+    "name": "Nami",
+    "title": "Aquamancienne",
+    "describe": "Jeune Vastaya des mers, Nami fut la première de la tribu des Marai à quitter les océans et à s'aventurer sur la terre ferme lorsque leur accord ancestral avec les Targoniens fut rompu. Convaincue qu'il n'y avait pas d'autre solution, elle a décidé de...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10091,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": true,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Nasus",
+    "key": 75,
+    "name": "Nasus",
+    "title": "Gardien des sables",
+    "describe": "Nasus est un imposant Transfiguré à tête de chacal, une figure héroïque que les peuples du désert considéraient comme un demi-dieu aux temps anciens de Shurima. Il était très intelligent ; son savoir encyclopédique et son extraordinaire sens stratégique...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10065,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Nautilus",
+    "key": 111,
+    "name": "Nautilus",
+    "title": "Titan des profondeurs",
+    "describe": "Nautilus, une légende plus ancienne encore que la première jetée de Bilgewater, est un titan en armure qui sillonne les eaux sombres au large des Îles de la Flamme Bleue. Trahi il y a bien longtemps de cela, il frappe désormais sans prévenir, se servant...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10132,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 1,
+    "survive": 3,
+    "utility": 2
+  },
+  {
+    "id": "Neeko",
+    "key": 518,
+    "name": "Neeko",
+    "title": "Caméléon curieux",
+    "describe": "Originaire d'une tribu disparue de Vastayas, Neeko est capable de se fondre dans n'importe quelle foule en empruntant l'apparence des autres, allant même jusqu'à absorber un soupçon de leur état émotionnel pour différencier un instant les amis des...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Nidalee",
+    "key": 76,
+    "name": "Nidalee",
+    "title": "Chasseresse bestiale",
+    "describe": "Élevée au plus profond de la jungle, Nidalee est une pisteuse d'exception qui peut se transformer à volonté en couguar. Ni totalement femme, ni totalement bête, elle défend férocement son territoire contre tous ceux qui veulent y pénétrer avec ses...",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Nilah",
+    "key": 895,
+    "name": "Nilah",
+    "title": "Joie incarnée",
+    "describe": "Nilah est une guerrière disciplinée originaire d'une contrée lointaine. Elle traque les monstres les plus gigantesques et les plus dangereux pour les affronter et les détruire. Elle a obtenu son pouvoir du démon de la joie, emprisonné il y a bien...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10027,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Nocturne",
+    "key": 56,
+    "name": "Nocturne",
+    "title": "Éternel cauchemar",
+    "describe": "Expression démoniaque des cauchemars qui hantent tous les êtres doués d'intelligence, la chose que l'on nomme Nocturne est devenue une force primordiale du mal. D'aspect liquide, c'est une ombre sans visage, au regard glacial, armée de lames effrayantes...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Nunu",
+    "key": 20,
+    "name": "Nunu et Willump",
+    "title": "Le Garçon et son yéti",
+    "describe": "Il était une fois un jeune garçon qui voulait prouver qu'il était un héros en tuant un monstre effrayant, mais il découvrit que la créature, un yéti solitaire, avait seulement besoin d'un ami. Rapprochés par une puissance ancienne et un amour partagé...",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10008,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 1,
+    "survive": 3,
+    "utility": 2
+  },
+  {
+    "id": "Olaf",
+    "key": 2,
+    "name": "Olaf",
+    "title": "Berzerker",
+    "describe": "Olaf, avec sa hache et son extraordinaire force de destruction, ne souhaite que mourir au combat. Venu de l'âpre péninsule freljordienne de Lokfar, il a été choqué par une prophétie qui lui prédisait une mort paisible : dans l'esprit de son peuple, une...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10106,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": true,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Orianna",
+    "key": 61,
+    "name": "Orianna",
+    "title": "Demoiselle mécanique",
+    "describe": "Autrefois une jeune fille curieuse, de chair et d'os, Orianna est aujourd'hui une merveille de technologie entièrement mécanisée. Elle est tombée gravement malade à la suite d'un accident dans les quartiers inférieurs de Zaun, et son corps défaillant a...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10012,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Ornn",
+    "key": 516,
+    "name": "Ornn",
+    "title": "Dieu de la forge volcanique",
+    "describe": "Ornn est le demi-dieu de la forge et de l'artisanat à Freljord. Avec comme seule compagne la solitude, il travaille dans sa forge enfouie au plus profond des cavernes de lave de l'Âtre-foyer. C'est là qu'il fond et purifie les métaux nécessaires à la...",
+    "roles": [
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10136,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 1,
+    "survive": 3,
+    "utility": 2
+  },
+  {
+    "id": "Pantheon",
+    "key": 80,
+    "name": "Pantheon",
+    "title": "Lance éternelle",
+    "describe": "Autrefois l'hôte réticent de la Manifestation de la Guerre, Atreus a survécu à la mort de la puissance céleste qui l'habitait, refusant de succomber au coup qui arracha les étoiles mêmes des cieux. Avec le temps, il apprit à accepter le pouvoir de sa...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10030,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Poppy",
+    "key": 78,
+    "name": "Poppy",
+    "title": "Gardienne du marteau",
+    "describe": "Runeterra ne manque pas de braves champions, mais peu peuvent se targuer d'être aussi tenaces que Poppy. Armée du légendaire marteau d'Orlon, faisant deux fois sa taille, cette yordle déterminée cherche depuis d'innombrables années le « héros de...",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10076,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Pyke",
+    "key": 555,
+    "name": "Pyke",
+    "title": "Éventreur des abysses",
+    "describe": "Harponneur renommé des quais-abattoirs de Bilgewater, Pyke aurait dû trouver la mort dans le ventre d'une énorme créature marine… et pourtant, il est revenu. À présent, il écume les ruelles sombres de son ancien port d'attache, utilisant ses dons...",
+    "roles": [
+      "Support",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10124,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Qiyana",
+    "key": 246,
+    "name": "Qiyana",
+    "title": "Impératrice des éléments",
+    "describe": "Dans la ville d'Ixaocan, perdue dans la jungle, Qiyana complote pour obtenir au prix du sang le siège révéré des Yun Tal. Dernière dans l'ordre de la succession, elle affronte ceux qui sont sur son chemin avec une absolue confiance en elle et une...",
+    "roles": [
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Quinn",
+    "key": 133,
+    "name": "Quinn",
+    "title": "Ailes de Demacia",
+    "describe": "Quinn est un chevalier-éclaireur d'élite de Demacia qui se spécialise dans les missions d'infiltration en territoire ennemi. Avec son aigle de légende, Valor, elle forme un duo inséparable dont les proies rendent souvent l'âme avant même de comprendre...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Rakan",
+    "key": 497,
+    "name": "Rakan",
+    "title": "Charmeur",
+    "describe": "Aussi lunatique qu'il est charmeur, Rakan est un trublion vastaya tristement célèbre, et le plus grand danseur guerrier de l'histoire de la tribu Lhotla. Pour les humains qui vivent dans les hautes terres d'Ionia, son nom est depuis longtemps synonyme...",
+    "roles": [
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10052,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 1,
+    "survive": 2,
+    "utility": 3
+  },
+  {
+    "id": "Rammus",
+    "key": 33,
+    "name": "Rammus",
+    "title": "Tatou blindé",
+    "describe": "Beaucoup l'idolâtrent, certains le méprisent, mais tous restent perplexes devant l'énigmatique Rammus. Protégé par une carapace cloutée, il inspire des théories de plus en plus variées sur ses origines : demi-dieu, oracle, simple bête transformée par la...",
+    "roles": [
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10064,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "RekSai",
+    "key": 421,
+    "name": "Rek'Sai",
+    "title": "Traqueuse du Néant",
+    "describe": "Rek'Sai est une créature prédatrice – la plus imposante et la plus féroce de son espèce – qui se déplace sous terre pour surprendre ses proies. Sa faim insatiable a ravagé des régions entières de Shurima à l'époque où cet empire était encore florissant...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Rage",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Rell",
+    "key": 526,
+    "name": "Rell",
+    "title": "Vierge de fer",
+    "describe": "Changée en arme vivante par les expériences brutales de l'académie de la Rose noire, Rell est aujourd'hui déterminée à détruire Noxus. Son enfance a été particulièrement horrible ; on lui a fait subir des choses atroces afin de perfectionner ses...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Renata",
+    "key": 888,
+    "name": "Renata Glasc",
+    "title": "Baronne de la chimie",
+    "describe": "Renata Glasc s'extirpa des cendres de sa maison natale avec son nom et les recherches alchimiques de ses parents pour seules possessions. Au cours des décennies suivantes, elle devint la Baronne de la chimie la plus riche de Zaun et un génie des...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Renekton",
+    "key": 58,
+    "name": "Renekton",
+    "title": "Dévoreur des sables",
+    "describe": "Originaire du désert brûlant de Shurima, Renekton est un Transfiguré terrifiant animé par la rage. Il était autrefois le guerrier le plus respecté de l'empire de Shurima, dont il avait mené les armées vers la victoire à maintes reprises. Cependant...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Fureur",
+    "hero_id": 10121,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Rengar",
+    "key": 107,
+    "name": "Rengar",
+    "title": "Fier traqueur",
+    "describe": "Rengar est un féroce Vastaya chasseur de trophées qui ne vit que pour le frisson de la traque et de l'élimination des proies les plus dangereuses. Il parcourt le monde à la recherche des bêtes les plus féroces, et surtout de Kha'Zix, la créature du...",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "type": "Férocité",
+    "hero_id": 10006,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Riven",
+    "key": 92,
+    "name": "Riven",
+    "title": "Exilée brisée",
+    "describe": "Autrefois soldat d'un régiment de Noxus, Riven est désormais expatriée dans un pays qu'elle avait elle-même tenté d'envahir. Elle s'est naguère élevée dans la hiérarchie grâce à sa force de conviction et à son efficacité brutale : sa récompense fut de...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Aucune",
+    "hero_id": 10092,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Rumble",
+    "key": 68,
+    "name": "Rumble",
+    "title": "Menace mécanisée",
+    "describe": "Rumble est un jeune inventeur soupe au lait. Ne disposant que de ses deux mains et d'une pile de ferraille, le yordle au tempérament de feu se fabriqua une colossale armure mécanique, dotée d'un arsenal de harpons électrifiés et de roquettes...",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "type": "Vapeur",
+    "hero_id": 10140,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": true,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Ryze",
+    "key": 13,
+    "name": "Ryze",
+    "title": "Mage runique",
+    "describe": "Largement considéré comme l'un des plus puissants sorciers de Runeterra, Ryze est un archimage endurci par les ans qui porte un fardeau incommensurable sur ses épaules. Armé d'une constitution à toute épreuve et d'un vaste arsenal de connaissances...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10137,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Samira",
+    "key": 360,
+    "name": "Samira",
+    "title": "Rose du désert",
+    "describe": "Toujours en quête de sensations fortes, Samira regarde la mort dans les yeux avec une confiance inébranlable. Après la destruction qui a frappé son foyer shurimien lorsqu'elle était enfant, Samira a trouvé sa véritable vocation à Noxus, où elle s'est...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10104,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Sejuani",
+    "key": 113,
+    "name": "Sejuani",
+    "title": "Fureur du nord",
+    "describe": "Sejuani est l'impitoyable chef de guerre sublimée de la Griffe hivernale, l'une des tribus les plus redoutées de Freljord. La survie de son peuple est une lutte constante et désespérée contre les éléments. Pour résister aux rigueurs de l'hiver, il doit...",
+    "roles": [
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Senna",
+    "key": 235,
+    "name": "Senna",
+    "title": "Rédemptrice",
+    "describe": "Condamnée à être poursuivie par la Brume noire dès l'enfance, Senna rejoignit l'ordre sacré des Sentinelles de la lumière. Elle combattit avec ferveur, mais elle fut tuée et son âme fut emprisonnée dans une lanterne par l'odieux spectre Thresh. Ne...",
+    "roles": [
+      "Support",
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10123,
+    "is_wr": true,
+    "lanes": [
+      "AD",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Seraphine",
+    "key": 147,
+    "name": "Séraphine",
+    "title": "Chanteuse rêveuse",
+    "describe": "Née à Piltover de parents zauniens, Séraphine peut entendre les âmes des autres. Le monde chante pour elle et elle chante pour le monde. Alors que ces sons l'accablaient dans sa jeunesse, elle s'en inspire aujourd'hui et transforme le chaos en symphonie...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10034,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Sett",
+    "key": 875,
+    "name": "Sett",
+    "title": "Patron",
+    "describe": "Sett s'est imposé en tant que chef du monde criminel florissant d'Ionia après la guerre contre Noxus. Bien qu'il ait fait ses débuts de manière modeste dans les arènes de combat de Navori, il s'est rapidement fait une réputation pour sa force sauvage et...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Agressivité",
+    "hero_id": 10068,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Shaco",
+    "key": 35,
+    "name": "Shaco",
+    "title": "Bouffon des ténèbres",
+    "describe": "Fabriqué il y a longtemps pour servir de jouet à un prince qui se sentait seul, Shaco est une marionnette enchantée qui se repaît désormais de meurtres et de chaos. Corrompu par la magie noire et la perte de sa chère mission, le pantin autrefois gentil...",
+    "roles": [
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Shen",
+    "key": 98,
+    "name": "Shen",
+    "title": "Œil du crépuscule",
+    "describe": "Shen, l'Œil du crépuscule, est le chef d'un groupe secret de guerriers ioniens connu sous le nom de Kinkou. Désireux d'échapper aux méfaits des émotions, des préjugés et de l'ego, il porte un regard désintéressé sur les choses en arpentant le chemin...",
+    "roles": [
+      "Tank"
+    ],
+    "type": "Énergie",
+    "hero_id": 10118,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 3,
+    "utility": 3
+  },
+  {
+    "id": "Shyvana",
+    "key": 102,
+    "name": "Shyvana",
+    "title": "Demi-dragon",
+    "describe": "Shyvana est une créature dont le cœur palpite au rythme brûlant d'un éclat de rune magique. Bien qu'elle paraisse souvent humanoïde, elle peut se transformer à volonté en un terrifiant dragon, crachant des flammes sur ses ennemis. Après avoir sauvé la...",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "type": "Fureur",
+    "hero_id": 10049,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Singed",
+    "key": 27,
+    "name": "Singed",
+    "title": "Chimiste fou",
+    "describe": "Singed est un alchimiste brillant à la moralité douteuse dont les expériences retourneraient l'estomac du plus cruel des criminels. Vendant son savoir-faire au plus offrant, il n'a que faire de la façon dont ses concoctions nocives sont utilisées. Il...",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10096,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Sion",
+    "key": 14,
+    "name": "Sion",
+    "title": "Colosse mort-vivant",
+    "describe": "Guerrier sanguinaire d'une époque révolue, Sion était célébré comme un héros à Noxus, pour avoir étouffé un roi de Demacia de ses mains nues. Il était l'objet d'une telle dévotion qu'on lui refusa le repos éternel, en le ramenant à la vie pour continuer...",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 10125,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Sivir",
+    "key": 15,
+    "name": "Sivir",
+    "title": "Vierge martiale",
+    "describe": "Sivir est une célèbre chasseuse de trésors et capitaine de mercenaires œuvrant dans le désert de Shurima. Armée de sa légendaire lame en croix, elle a triomphé d'innombrables batailles pour les clients prêts à honorer ses tarifs exorbitants. Connue pour...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10107,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Skarner",
+    "key": 72,
+    "name": "Skarner",
+    "title": "Souverain originel",
+    "describe": "L'antique Brackern Skarner est vénéré à Ixtal comme l'un des membres fondateurs de la caste dirigeante, les Yun Tal. Il protège farouchement sa nation du reste du monde en écoutant les vibrations de la terre pour détecter de potentielles menaces depuis...",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Smolder",
+    "key": 901,
+    "name": "Smolder",
+    "title": "Dragonnet flamboyant",
+    "describe": "Caché dans les falaises escarpées de la frontière noxienne et attentivement surveillé par sa mère, un jeune dragon apprend ce que signifie être l'héritier de la lignée impériale des dragons camavoriens. Joueur et impatient de grandir, Smolder est prêt à...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Sona",
+    "key": 37,
+    "name": "Sona",
+    "title": "Virtuose de la harpe",
+    "describe": "Sona est la plus grande virtuose de l'etwahl de Demacia, ne s'exprimant que par ses accords vibrants et gracieux. Ses manières distinguées lui valent d'être appréciée par l'aristocratie, bien que beaucoup soupçonnent ses mélodies envoûtantes de...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10047,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Soraka",
+    "key": 16,
+    "name": "Soraka",
+    "title": "Enfant des étoiles",
+    "describe": "Voyageuse originaire de dimensions célestes d'au-delà du Mont Targon, Soraka a abandonné son immortalité pour protéger les mortels de leurs instincts violents. Elle cherche à pousser tous ceux qu'elle rencontre à embrasser les vertus de la compassion et...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10097,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Swain",
+    "key": 50,
+    "name": "Swain",
+    "title": "Grand général noxien",
+    "describe": "Jericho Swain est le chef visionnaire de Noxus, une nation expansionniste qui ne respecte que la force. Bien que déchu et blessé pendant les guerres ioniennes, il a pris le contrôle de l'empire avec une féroce détermination… Et une nouvelle main...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10126,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Sylas",
+    "key": 517,
+    "name": "Sylas",
+    "title": "Révolutionnaire déchaîné",
+    "describe": "Élevé dans l'un des quartiers les plus pauvres de Demacia, Sylas de Liebourg est devenu le symbole du côté obscur de la Grande cité. Enfant, sa capacité à déceler la sorcellerie cachée attira l'attention des tristement célèbres traqueurs de mages, qui...",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Syndra",
+    "key": 134,
+    "name": "Syndra",
+    "title": "Souveraine obscure",
+    "describe": "Syndra est une effrayante magicienne originaire d'Ionia, aux pouvoirs impressionnants. Enfant, elle perturba les anciens de son village avec sa magie sauvage et incontrôlée. Elle fut confiée à un maître dans l'espoir qu'elle apprendrait à se contrôler...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10024,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "TahmKench",
+    "key": 223,
+    "name": "Tahm Kench",
+    "title": "Roi des rivières",
+    "describe": "Au fil du temps, on lui a donné de nombreux noms. Le démon Tahm Kench voyage dans les cours d'eau de Runeterra, nourrissant son insatiable appétit de la misère des autres. Bien qu'il puisse sembler particulièrement charmant et fier, il rôde dans le...",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Taliyah",
+    "key": 163,
+    "name": "Taliyah",
+    "title": "Tisseuse de pierres",
+    "describe": "Taliyah est une mage issue des tribus nomades de Shurima, déchirée entre l'émerveillement de la jeunesse et les responsabilités des adultes. Elle a déjà traversé pratiquement tout Valoran pour découvrir la véritable nature de ses pouvoirs toujours plus...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Talon",
+    "key": 91,
+    "name": "Talon",
+    "title": "Lame des ténèbres",
+    "describe": "Talon est la dague cachée dans l'ombre, un assassin impitoyable, capable de frapper sans prévenir et de fuir avant que l'alerte ne soit donnée. Il a acquis une dangereuse réputation dans les brutales rues de Noxus, où il a été contraint de se battre, de...",
+    "roles": [
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10128,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Taric",
+    "key": 44,
+    "name": "Taric",
+    "title": "Bouclier de Valoran",
+    "describe": "Taric est la Manifestation du Protecteur, doté d'un incroyable pouvoir en tant que gardien de la vie, de l'amour et de la beauté sur Runeterra. Couvert d'opprobre pour avoir abandonné son devoir et exilé de sa terre natale de Demacia, Taric a entrepris...",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Teemo",
+    "key": 17,
+    "name": "Teemo",
+    "title": "Éclaireur de Bandle",
+    "describe": "N'ayant pas peur de braver les obstacles les plus dangereux, Teemo explore le monde avec un enthousiasme débordant et une bonne humeur contagieuse. Yordle au sens moral inflexible, il suit fièrement les préceptes du Code des éclaireurs de Bandle...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10046,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Thresh",
+    "key": 412,
+    "name": "Thresh",
+    "title": "Garde aux chaînes",
+    "describe": "Sadique mais rusé, Thresh est un ambitieux spectre des Îles obscures. Autrefois le gardien d'innombrables secrets des arcanes, il fut terrassé par un pouvoir plus grand que la vie ou la mort, et il s'alimente maintenant des souffrances et des tourments...",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10130,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": true,
+    "difficult": 3,
+    "damage": 1,
+    "survive": 2,
+    "utility": 3
+  },
+  {
+    "id": "Tristana",
+    "key": 18,
+    "name": "Tristana",
+    "title": "Canonnière yordle",
+    "describe": "Si bon nombre d'autres yordles utilisent leur énergie débordante pour explorer, découvrir, inventer ou plus simplement jouer de mauvais tours, Tristana a toujours puisé son inspiration dans les récits des grands guerriers. Elle avait beaucoup entendu...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10045,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Trundle",
+    "key": 48,
+    "name": "Trundle",
+    "title": "Roi des trolls",
+    "describe": "Trundle est un troll massif, sournois et malicieux. Il n'y a rien qu'il ne puisse soumettre à sa volonté avec son gourdin, pas même Freljord. Extrêmement territorial, Trundle traque tous ceux qui sont assez fous pour pénétrer sur ses terres. Ensuite...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Tryndamere",
+    "key": 23,
+    "name": "Tryndamere",
+    "title": "Roi barbare",
+    "describe": "Poussé par une rage infinie, Tryndamere traverse Freljord et parfait sa maîtrise du combat en défiant les plus grands guerriers du nord, pour se préparer aux jours sombres qui s'annoncent. Longtemps dominé par sa haine, il cherchait à se venger de...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Fureur",
+    "hero_id": 10015,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "TwistedFate",
+    "key": 4,
+    "name": "Twisted Fate",
+    "title": "Maître des cartes",
+    "describe": "Twisted Fate est un virtuose des cartes à la réputation ambiguë qui a parcouru le monde entier pour l'éblouir de son charme et de ses talents, s'attirant l'admiration et la haine des riches comme des pigeons. Il prend rarement les choses au sérieux...",
+    "roles": [
+      "Mage",
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10025,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Twitch",
+    "key": 29,
+    "name": "Twitch",
+    "title": "Semeur de peste",
+    "describe": "Rat de Zaun, pesteux de naissance, connaisseur en saleté par passion, Twitch n'a pas peur de se salir les pattes. Armé d'une arbalète chimique qu'il pointe droit sur le cœur de Piltover, Twitch s'est juré de montrer aux gens de la surface à quel point...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10053,
+    "is_wr": true,
+    "lanes": [
+      "AD",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Udyr",
+    "key": 77,
+    "name": "Udyr",
+    "title": "Gardien des esprits",
+    "describe": "Udyr est le plus puissant des Gardiens des esprits, il communie avec l'ensemble des esprits qui habitent Freljord. Il comprend leurs besoins avec empathie et il est capable de canaliser et de transformer leur énergie éthérée pour alimenter son propre...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Urgot",
+    "key": 6,
+    "name": "Urgot",
+    "title": "Broyeur",
+    "describe": "Autrefois, Urgot était un puissant bourreau noxien. Il fut trahi par l'empire pour lequel il avait tant tué. Ceint de chaînes de fer, il fut contraint d'apprendre le vrai sens de la force dans les Oubliettes, une mine de forçats située dans les...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10102,
+    "is_wr": true,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Varus",
+    "key": 110,
+    "name": "Varus",
+    "title": "Flèche de la vengeance",
+    "describe": "Membre de la race antique des Darkin, Varus était en son temps un assassin cruel qui aimait torturer ses ennemis, les conduisant jusqu'aux portes de la folie avant de les achever d'une flèche. À la fin de la Guerre des Darkin, il fut emprisonné. Des...",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10093,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Vayne",
+    "key": 67,
+    "name": "Vayne",
+    "title": "Chasseresse nocturne",
+    "describe": "Shauna Vayne est une chasseuse de monstres mortelle et sans scrupule. Originaire de Demacia, elle voue sa vie à la destruction du démon qui a assassiné sa famille. Armée d'une arbalète montée sur son poignet et dotée d'un cœur rongé par le désir de...",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10010,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Veigar",
+    "key": 45,
+    "name": "Veigar",
+    "title": "Seigneur des maléfices",
+    "describe": "Maître enthousiaste de la magie noire, Veigar s'est approprié des pouvoirs que peu de mortels osent approcher. Habitant de Bandle à l'esprit libre, il veut repousser les limites de la magie yordle et se tourner vers les textes arcaniques qui sont restés...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10122,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 3,
+    "survive": 1,
+    "utility": 2
+  },
+  {
+    "id": "Velkoz",
+    "key": 161,
+    "name": "Vel'Koz",
+    "title": "Œil du Néant",
+    "describe": "On ne sait pas trop si Vel'Koz fut le premier monstre du Néant à émerger à Runeterra, mais il est certain qu'aucun autre n'a jamais égalé la froideur calculatrice de sa cruauté. Alors que ses semblables dévorent ou profanent tout ce qui les entoure, il...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Vex",
+    "key": 711,
+    "name": "Vex",
+    "title": "Ombre du désespoir",
+    "describe": "Au cœur des terribles Îles obscures et de leur brume spectrale, une yordle solitaire se complaît dans son malheur. Vex se protège de la gaieté, de l'excitation et des gens « normaux » dont le monde extérieur regorge grâce à une dose inépuisable...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10141,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 2,
+    "survive": 2,
+    "utility": 2
+  },
+  {
+    "id": "Vi",
+    "key": 254,
+    "name": "Vi",
+    "title": "Cogne de Piltover",
+    "describe": "Élevée dans les quartiers louches de Zaun, Vi est une femme sans peur, mais pas sans reproche, au tempérament bouillant, impulsif, qui n'a qu'un respect mesuré pour l'autorité. Elle a toujours été une survivante astucieuse, que ce soit lorsqu'elle...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 10050,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Viego",
+    "key": 234,
+    "name": "Viego",
+    "title": "Roi déchu",
+    "describe": "Autrefois souverain d'un royaume perdu depuis longtemps, Viego mourut il y a plus de mille ans lorsqu'il tenta de ramener sa femme d'entre les morts. Cela causa la catastrophe magique connue sous le nom de la Ruine. Devenu un puissant spectre torturé...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Aucune",
+    "hero_id": 10057,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Viktor",
+    "key": 112,
+    "name": "Viktor",
+    "title": "Héraut de l'arcane",
+    "describe": "Passant d'être humain maladif à un être entièrement biomécanique, Viktor a adopté sa glorieuse évolution et est devenu une sorte de messie pour ses adeptes. Il a sacrifié sa propre humanité, convaincu qu'éliminer ses émotions éliminerait ses souffrances...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10144,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": true,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Vladimir",
+    "key": 8,
+    "name": "Vladimir",
+    "title": "Saigneur pourpre",
+    "describe": "Assoiffé de sang humain, Vladimir influe sur la politique de Noxus depuis les premiers jours de l'empire. En plus d'allonger surnaturellement sa vie, sa maîtrise de l'hémomancie lui permet de contrôler les esprits et les corps des autres aussi aisément...",
+    "roles": [
+      "Mage",
+      "Fighter"
+    ],
+    "type": "Afflux sanguin",
+    "hero_id": 10090,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": true,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Volibear",
+    "key": 106,
+    "name": "Volibear",
+    "title": "Tempête impitoyable",
+    "describe": "Pour ceux qui le vénèrent encore, Volibear est l'incarnation de la tempête. Destructeur, sauvage et déterminé, il existait bien avant que les mortels n'arpentent la toundra de Freljord ; désormais, il défend férocement les terres qu'il a créées avec sa...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10058,
+    "is_wr": true,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 3,
+    "utility": 1
+  },
+  {
+    "id": "Warwick",
+    "key": 19,
+    "name": "Warwick",
+    "title": "Fureur déchaînée de Zaun",
+    "describe": "Warwick est un monstre qui chasse dans les allées grises de Zaun. Métamorphosé à l'issue d'expériences incroyablement douloureuses, son corps est désormais fusionné avec un système complexe de chambres et de pompes, une machinerie qui distille dans ses...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10131,
+    "is_wr": true,
+    "lanes": [
+      "Jungle",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Xayah",
+    "key": 498,
+    "name": "Xayah",
+    "title": "Rebelle",
+    "describe": "Précise et meurtrière, Xayah est une révolutionnaire vastaya menant une guerre personnelle dans le but de sauver son peuple. Elle se sert de sa célérité, de sa ruse et de ses plumes tranchantes comme des rasoirs pour terrasser tous ceux qui se dressent...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10051,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": true,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Xerath",
+    "key": 101,
+    "name": "Xerath",
+    "title": "Mage suprême",
+    "describe": "Xerath est un mage transfiguré de la Shurima antique, un être d'énergie arcanique habitant les fragments détruits d'un sarcophage magique. Pendant des millénaires, il est resté prisonnier des sables du désert, mais le retour de Shurima l'a libéré de sa...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "XinZhao",
+    "key": 5,
+    "name": "Xin Zhao",
+    "title": "Sénéchal de Demacia",
+    "describe": "Xin Zhao est un guerrier résolu qui sert fidèlement la dynastie régnante des Lightshield. Naguère condamné à se battre dans les arènes de combat de Noxus, il survécut à d'innombrables rencontres de gladiateurs. Mais après avoir été libéré par les forces...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 10016,
+    "is_wr": true,
+    "lanes": [
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 2,
+    "survive": 2,
+    "utility": 1
+  },
+  {
+    "id": "Yasuo",
+    "key": 157,
+    "name": "Yasuo",
+    "title": "Disgracié",
+    "describe": "L'Ionien Yasuo est un épéiste agile et résolu, capable de déchaîner contre ses ennemis la puissance de l'air. Alors qu'il était encore un jeune homme fier, il fut accusé à tort d'avoir assassiné son maître. Incapable de prouver son innocence, il dut...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Impulsion",
+    "hero_id": 10037,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Yone",
+    "key": 777,
+    "name": "Yone",
+    "title": "Inoublié",
+    "describe": "Au cours de sa vie, Yone fut le demi-frère de Yasuo et un disciple renommé de l'école d'armes de son village. Mais après avoir été tué par son propre frère, il se retrouva hanté par une entité malveillante dans le royaume spirituel. Il dut la tuer avec...",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "type": "Impulsion",
+    "hero_id": 10069,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Yorick",
+    "key": 83,
+    "name": "Yorick",
+    "title": "Berger des âmes",
+    "describe": "Yorick est le dernier survivant d'un ordre religieux disparu depuis longtemps et son pouvoir sur les morts est à la fois une bénédiction et une malédiction. Prisonnier des Îles obscures, il n'a pour compagnons que les cadavres pourrissants et les...",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Yuumi",
+    "key": 350,
+    "name": "Yuumi",
+    "title": "Gardienne du Grimoire",
+    "describe": "Originaire de Bandle, Yuumi est un familier magique dont la maîtresse, une enchanteresse yordle du nom de Norra, a mystérieusement disparu. Yuumi est désormais la gardienne du Grimoire des Seuils que possédait Norra, un livre permettant de franchir des...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10020,
+    "is_wr": true,
+    "lanes": [
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 1,
+    "damage": 1,
+    "survive": 1,
+    "utility": 3
+  },
+  {
+    "id": "Zac",
+    "key": 154,
+    "name": "Zac",
+    "title": "Arme secrète",
+    "describe": "Zac est le produit d'une fuite toxique qui, dégoulinant par une veine techno-chimique, se transforma en bassin dans une profonde caverne du Puisard de Zaun. En dépit de ses humbles origines, Zac a évolué pour passer du stade de dépôt primordial à celui...",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "type": "Aucune",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Zed",
+    "key": 238,
+    "name": "Zed",
+    "title": "Maître des ombres",
+    "describe": "L'impitoyable Zed est le maître de l'Ordre de l'ombre, une organisation qu'il a créée dans l'intention de militariser la tradition des arts martiaux d'Ionia et de chasser enfin les envahisseurs noxiens. Pendant la guerre, le désespoir le conduisit à...",
+    "roles": [
+      "Assassin"
+    ],
+    "type": "Énergie",
+    "hero_id": 10039,
+    "is_wr": true,
+    "lanes": [
+      "Mid",
+      "Top",
+      "Jungle"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Zeri",
+    "key": 221,
+    "name": "Zeri",
+    "title": "Étincelle de Zaun",
+    "describe": "Zeri est une jeune femme vive et téméraire originaire des quartiers défavorisés de Zaun. Elle canalise son électricité intérieure afin de la charger dans un fusil conçu spécialement pour elle. Son pouvoir magique est le reflet de ses émotions, et ses...",
+    "roles": [
+      "Marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 10067,
+    "is_wr": true,
+    "lanes": [
+      "AD"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Ziggs",
+    "key": 115,
+    "name": "Ziggs",
+    "title": "Expert des Hexplosifs",
+    "describe": "Amoureux des grosses bombes et des mèches courtes, le yordle Ziggs est une force de la nature explosive. Assistant d'un inventeur de Piltover, il finit par se lasser de sa vie routinière et devint l'ami d'une jeune fille imprévisible et portée sur les...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10087,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Zilean",
+    "key": 26,
+    "name": "Zilean",
+    "title": "Gardien du Temps",
+    "describe": "Naguère puissant mage d'Icathia, Zilean devint obsédé par le passage du temps après avoir assisté à la destruction de sa terre natale par le Néant. Refusant de perdre une minute à pleurer sur les décombres, il fit appel à une antique force magique...",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [
+      "Mid",
+      "Support"
+    ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Zoe",
+    "key": 142,
+    "name": "Zoé",
+    "title": "Manifestation du Crépuscule",
+    "describe": "Incarnation de l'espièglerie, de l'imagination et de l'inconstance, Zoé est une messagère cosmique de Targon, annonciatrice des grands événements qui chamboulent les mondes. Sa simple présence distord les règles mathématiques qui gouvernent dans l'ombre...",
+    "roles": [
+      "Mage"
+    ],
+    "type": "Mana",
+    "hero_id": 10014,
+    "is_wr": true,
+    "lanes": [
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  },
+  {
+    "id": "Zyra",
+    "key": 143,
+    "name": "Zyra",
+    "title": "Dame aux ronces",
+    "describe": "Née au cours d'une ancienne catastrophe magique, Zyra est la colère de la nature incarnée : mélange de plante et d'humain, faisant émerger de nouvelles pousses à chaque pas. Elle considère les nombreux mortels de Valoran comme de simples proies pour sa...",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "type": "Mana",
+    "hero_id": 10063,
+    "is_wr": true,
+    "lanes": [
+      "Support",
+      "Mid"
+    ],
+    "is_free": false,
+    "difficult": 2,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
+  }
+]
