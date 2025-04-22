@@ -1,7 +1,6 @@
 {
-  "name": "wildrift-data",
+  "name": "wildrift-merged-champion-data",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "main": "node ./dist/main.js",
@@ -11,7 +10,7 @@
     "prettier": "prettier --write src"
   },
   "author": "ry2x",
-  "license": "ISC",
+  "license": "MIT",
   "packageManager": "pnpm@10.8.0",
   "devDependencies": {
     "@eslint/js": "^9.25.0",
