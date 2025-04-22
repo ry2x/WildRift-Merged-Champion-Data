@@ -93,7 +93,7 @@ function mapNonWildRiftChampion(champion) {
         ...createBaseChampion(champion),
         hero_id: 0,
         is_wr: false,
-        lanes: [],
+        lanes: constant_js_1.NO_WR_LANE[champion.id] ?? [],
         is_free: false,
         difficult: 0,
         damage: 0,
