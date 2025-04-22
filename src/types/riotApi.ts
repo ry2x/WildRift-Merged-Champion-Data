@@ -15,6 +15,9 @@ export interface ChampionData {
   data: Record<string, Champion>;
 }
 
+/**
+ * The type of data returned by the DataDragon for a champion.
+ */
 export interface Champion {
   version: string;
   id: string;

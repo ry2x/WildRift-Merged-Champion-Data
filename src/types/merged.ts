@@ -1,3 +1,6 @@
+/**
+ * This file contains the types for the merged champion data.
+ */
 export interface MergedChamp {
   id: string;
   hero_id: number;
@@ -16,5 +19,12 @@ export interface MergedChamp {
   utility: number;
 }
 
+/**
+ * Literal types for the lanes in RiotAPI.
+ */
 export type Lanes = 'Mid' | 'Jungle' | 'Top' | 'Support' | 'AD';
+
+/**
+ * Literal types for the roles in RiotAPI.
+ */
 export type Roles = 'Fighter' | 'Mage' | 'Assassin' | 'Marksman' | 'Support' | 'Tank';

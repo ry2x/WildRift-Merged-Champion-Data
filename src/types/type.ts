@@ -1,3 +1,6 @@
+/**
+ *  Config file interface
+ */
 export interface Config {
   DD_VERSION_API: string;
   DD_CHAMPION_API: string;
@@ -9,6 +12,9 @@ export interface Config {
   MESSAGE_SUCCESS: MessageSet;
 }
 
+/**
+ * MessageSet interface
+ */
 export interface MessageSet {
   FOLDER_CREATE: string;
   DATA_FETCH?: string;
