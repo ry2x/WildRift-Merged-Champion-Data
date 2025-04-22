@@ -1,0 +1,36 @@
+{
+  "DD_VERSION_API": "https://ddragon.leagueoflegends.com/api/versions.json",
+  "DD_CHAMPION_API": "https://ddragon.leagueoflegends.com/cdn/{version}/data/{lang}/champion.json",
+  "CN_CHAMPION_API": "https://game.gtimg.cn/images/lgamem/act/lrlib/js/heroList/hero_list.js",
+  "OUTPUT_FOLDER_NAME": "public",
+  "OUTPUT_FILE_NAME": "data_{lang}.json",
+  "TARGET_LANGUAGES": [
+    "en_US",
+    "zh_TW",
+    "zh_CN",
+    "es_ES",
+    "fr_FR",
+    "de_DE",
+    "it_IT",
+    "ja_JP",
+    "ko_KR",
+    "pl_PL",
+    "pt_BR",
+    "ru_RU",
+    "tr_TR",
+    "th_TH",
+    "vi_VN"
+  ],
+  "MESSAGE_ERROR": {
+    "FOLDER_CREATE": "Failed to create output folder❌",
+    "DATA_FETCH": "Failed to fetch data❌",
+    "JSON_WRITE": "Failed to write JSON file lang: {lang}❌",
+    "DATA_EXPORT": "Failed to export data❌",
+    "PROCESS_ERROR": "An error occurred during processing❌"
+  },
+  "MESSAGE_SUCCESS": {
+    "FOLDER_CREATE": "Successfully created output folder✨",
+    "JSON_WRITE": "Successfully wrote JSON file lang: {lang}✨",
+    "PROCESS_COMPLETE": "All processes completed successfully!🎉"
+  }
+}
