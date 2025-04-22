@@ -1,7 +1,7 @@
 import axios, { AxiosResponse } from 'axios';
 import { mkdirSync, readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
-import { LANE_MAPPING } from './constant.js';
+import { LANE_MAPPING, NO_WR_LANE } from './constant.js';
 import { EditedHero, HeroData } from './types/cnApi.js';
 import { Lanes, MergedChamp } from './types/merged.js';
 import { ChampionData, DDPatchList } from './types/riotApi';
@@ -162,7 +162,7 @@ function mapNonWildRiftChampion(champion: ChampionData['data'][string]): MergedC
     ...createBaseChampion(champion),
     hero_id: 0,
     is_wr: false,
-    lanes: [],
+    lanes: NO_WR_LANE[champion.id] ?? [],
     is_free: false,
     difficult: 0,
     damage: 0,
