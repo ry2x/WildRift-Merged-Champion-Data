@@ -1,5 +1,7 @@
 # WildRift Merged Champion Data API
 
+> English version is from [here](https://github.com/ry2x/WildRift-Merged-Champion-Data/blob/master/readme.md)
+
 League of Legends: Wild RiftとLeague of Legendsのチャンピオンデータを統合したAPIです。
 毎日自動的にデータが更新され、複数の言語をサポートしています✨
 
@@ -100,9 +102,10 @@ fetch('https://ry2x.github.io/WildRift-Merged-Champion-Data/data_ja_JP.json')
 3. **ファイルの生成**
 
    - 各言語ごとにJSONファイルを生成
-   - `/public`フォルダに`data_{lang}.json`として保存
+   - [gh-pages](https://github.com/ry2x/WildRift-Merged-Champion-Data/tree/gh-pages)ブランチへ`data_{lang}.json`として保存
 
 4. **デプロイ**
+
    - GitHub Pagesに自動デプロイ
    - 更新されたデータが即座に反映
 
