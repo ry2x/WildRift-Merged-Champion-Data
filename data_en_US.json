@@ -12,8 +12,8 @@
     "hero_id": 10002,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -35,7 +35,7 @@
     "hero_id": 10038,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
@@ -56,8 +56,8 @@
     "hero_id": 10031,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Top"
+      "mid",
+      "top"
     ],
     "is_free": false,
     "difficult": 3,
@@ -79,7 +79,7 @@
     "hero_id": 10100,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 3,
@@ -101,7 +101,7 @@
     "hero_id": 10081,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 1,
@@ -123,8 +123,8 @@
     "hero_id": 10082,
     "is_wr": true,
     "lanes": [
-      "Jungle",
-      "Top"
+      "jungle",
+      "top"
     ],
     "is_free": true,
     "difficult": 3,
@@ -146,9 +146,9 @@
     "hero_id": 10004,
     "is_wr": true,
     "lanes": [
-      "Jungle",
-      "Support",
-      "Top"
+      "jungle",
+      "support",
+      "top"
     ],
     "is_free": false,
     "difficult": 1,
@@ -169,7 +169,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 0,
@@ -191,7 +191,7 @@
     "hero_id": 10036,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 1,
@@ -212,7 +212,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 0,
@@ -234,8 +234,8 @@
     "hero_id": 10079,
     "is_wr": true,
     "lanes": [
-      "AD",
-      "Support"
+      "ad",
+      "support"
     ],
     "is_free": false,
     "difficult": 1,
@@ -256,7 +256,7 @@
     "hero_id": 10023,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 3,
@@ -278,8 +278,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Top"
+      "mid",
+      "top"
     ],
     "is_free": false,
     "difficult": 0,
@@ -301,7 +301,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 0,
@@ -323,7 +323,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 0,
@@ -344,7 +344,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -366,7 +366,7 @@
     "hero_id": 10033,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 1,
@@ -388,8 +388,8 @@
     "hero_id": 10119,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Support"
+      "mid",
+      "support"
     ],
     "is_free": false,
     "difficult": 2,
@@ -411,7 +411,7 @@
     "hero_id": 10021,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 2,
@@ -433,8 +433,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Jungle"
+      "mid",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -455,7 +455,7 @@
     "hero_id": 10112,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 1,
@@ -477,8 +477,8 @@
     "hero_id": 10055,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 3,
@@ -499,8 +499,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Top"
+      "mid",
+      "top"
     ],
     "is_free": false,
     "difficult": 0,
@@ -522,8 +522,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Top"
+      "mid",
+      "top"
     ],
     "is_free": false,
     "difficult": 0,
@@ -545,8 +545,8 @@
     "hero_id": 10060,
     "is_wr": true,
     "lanes": [
-      "AD",
-      "Mid"
+      "ad",
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
@@ -568,8 +568,8 @@
     "hero_id": 10071,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -591,9 +591,9 @@
     "hero_id": 10013,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Top",
-      "Jungle"
+      "mid",
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 1,
@@ -614,7 +614,7 @@
     "hero_id": 10077,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 3,
@@ -636,8 +636,8 @@
     "hero_id": 10062,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 1,
@@ -659,9 +659,9 @@
     "hero_id": 10011,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Jungle",
-      "Top"
+      "mid",
+      "jungle",
+      "top"
     ],
     "is_free": false,
     "difficult": 3,
@@ -683,7 +683,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -705,7 +705,7 @@
     "hero_id": 10029,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -727,7 +727,7 @@
     "hero_id": 10098,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": true,
     "difficult": 2,
@@ -749,7 +749,7 @@
     "hero_id": 10133,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -771,7 +771,7 @@
     "hero_id": 10032,
     "is_wr": true,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": true,
     "difficult": 3,
@@ -793,9 +793,9 @@
     "hero_id": 10086,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Top",
-      "Jungle"
+      "mid",
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -817,8 +817,8 @@
     "hero_id": 10099,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Support"
+      "mid",
+      "support"
     ],
     "is_free": false,
     "difficult": 2,
@@ -839,8 +839,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Top"
+      "mid",
+      "top"
     ],
     "is_free": false,
     "difficult": 0,
@@ -862,7 +862,7 @@
     "hero_id": 10001,
     "is_wr": true,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": false,
     "difficult": 1,
@@ -884,7 +884,7 @@
     "hero_id": 10078,
     "is_wr": true,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": false,
     "difficult": 3,
@@ -906,8 +906,8 @@
     "hero_id": 10089,
     "is_wr": true,
     "lanes": [
-      "Jungle",
-      "Top"
+      "jungle",
+      "top"
     ],
     "is_free": false,
     "difficult": 2,
@@ -928,8 +928,8 @@
     "hero_id": 10072,
     "is_wr": true,
     "lanes": [
-      "Jungle",
-      "Top"
+      "jungle",
+      "top"
     ],
     "is_free": false,
     "difficult": 2,
@@ -950,8 +950,8 @@
     "hero_id": 10054,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -973,7 +973,7 @@
     "hero_id": 10019,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -995,7 +995,7 @@
     "hero_id": 10127,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1017,8 +1017,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Support"
+      "mid",
+      "support"
     ],
     "is_free": false,
     "difficult": 0,
@@ -1040,7 +1040,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": false,
     "difficult": 0,
@@ -1062,8 +1062,8 @@
     "hero_id": 10094,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Top"
+      "mid",
+      "top"
     ],
     "is_free": false,
     "difficult": 3,
@@ -1085,7 +1085,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -1107,7 +1107,7 @@
     "hero_id": 10075,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 1,
@@ -1129,8 +1129,8 @@
     "hero_id": 10056,
     "is_wr": true,
     "lanes": [
-      "Jungle",
-      "Top"
+      "jungle",
+      "top"
     ],
     "is_free": false,
     "difficult": 1,
@@ -1151,8 +1151,8 @@
     "hero_id": 10040,
     "is_wr": true,
     "lanes": [
-      "Jungle",
-      "Top"
+      "jungle",
+      "top"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1174,8 +1174,8 @@
     "hero_id": 10101,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Mid"
+      "top",
+      "mid"
     ],
     "is_free": false,
     "difficult": 3,
@@ -1197,7 +1197,7 @@
     "hero_id": 10022,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1218,7 +1218,7 @@
     "hero_id": 10018,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1240,7 +1240,7 @@
     "hero_id": 10026,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1261,7 +1261,7 @@
     "hero_id": 10134,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 3,
@@ -1283,8 +1283,8 @@
     "hero_id": 10007,
     "is_wr": true,
     "lanes": [
-      "Support",
-      "Mid"
+      "support",
+      "mid"
     ],
     "is_free": false,
     "difficult": 1,
@@ -1305,8 +1305,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Jungle"
+      "mid",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -1328,8 +1328,8 @@
     "hero_id": 10103,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Top"
+      "mid",
+      "top"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1351,7 +1351,7 @@
     "hero_id": 10095,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 3,
@@ -1373,8 +1373,8 @@
     "hero_id": 10041,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Mid"
+      "top",
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1396,7 +1396,7 @@
     "hero_id": 10005,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1417,8 +1417,8 @@
     "hero_id": 10061,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Mid"
+      "top",
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1439,7 +1439,7 @@
     "hero_id": 10017,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1460,7 +1460,7 @@
     "hero_id": 10073,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 3,
@@ -1481,7 +1481,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": false,
     "difficult": 0,
@@ -1503,7 +1503,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 0,
@@ -1525,7 +1525,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": false,
     "difficult": 0,
@@ -1547,7 +1547,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 0,
@@ -1569,7 +1569,7 @@
     "hero_id": 10059,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 3,
@@ -1591,7 +1591,7 @@
     "hero_id": 10044,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 1,
@@ -1613,7 +1613,7 @@
     "hero_id": 10135,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 3,
@@ -1634,7 +1634,7 @@
     "hero_id": 10109,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1656,8 +1656,8 @@
     "hero_id": 10042,
     "is_wr": true,
     "lanes": [
-      "AD",
-      "Mid"
+      "ad",
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1679,7 +1679,7 @@
     "hero_id": 10048,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1701,8 +1701,8 @@
     "hero_id": 10003,
     "is_wr": true,
     "lanes": [
-      "Support",
-      "Mid"
+      "support",
+      "mid"
     ],
     "is_free": false,
     "difficult": 1,
@@ -1724,9 +1724,9 @@
     "hero_id": 10083,
     "is_wr": true,
     "lanes": [
-      "Support",
-      "Top",
-      "Mid"
+      "support",
+      "top",
+      "mid"
     ],
     "is_free": false,
     "difficult": 1,
@@ -1747,7 +1747,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 0,
@@ -1769,9 +1769,9 @@
     "hero_id": 10074,
     "is_wr": true,
     "lanes": [
-      "Jungle",
-      "Top",
-      "Support"
+      "jungle",
+      "top",
+      "support"
     ],
     "is_free": false,
     "difficult": 1,
@@ -1793,7 +1793,7 @@
     "hero_id": 10070,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 1,
@@ -1815,7 +1815,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 0,
@@ -1837,7 +1837,7 @@
     "hero_id": 10108,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1859,7 +1859,7 @@
     "hero_id": 10066,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 1,
@@ -1881,8 +1881,8 @@
     "hero_id": 10009,
     "is_wr": true,
     "lanes": [
-      "Jungle",
-      "Top"
+      "jungle",
+      "top"
     ],
     "is_free": false,
     "difficult": 1,
@@ -1904,8 +1904,8 @@
     "hero_id": 10035,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -1927,9 +1927,9 @@
     "hero_id": 10028,
     "is_wr": true,
     "lanes": [
-      "Support",
-      "Mid",
-      "Jungle"
+      "support",
+      "mid",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 1,
@@ -1951,8 +1951,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Jungle"
+      "mid",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -1974,7 +1974,7 @@
     "hero_id": 10091,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": true,
     "difficult": 2,
@@ -1996,7 +1996,7 @@
     "hero_id": 10065,
     "is_wr": true,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": false,
     "difficult": 1,
@@ -2018,9 +2018,9 @@
     "hero_id": 10132,
     "is_wr": true,
     "lanes": [
-      "Support",
-      "Top",
-      "Jungle"
+      "support",
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2042,8 +2042,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Support"
+      "mid",
+      "support"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2065,8 +2065,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Jungle"
+      "mid",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2088,7 +2088,7 @@
     "hero_id": 10027,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 3,
@@ -2110,7 +2110,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2132,7 +2132,7 @@
     "hero_id": 10008,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2154,8 +2154,8 @@
     "hero_id": 10106,
     "is_wr": true,
     "lanes": [
-      "Jungle",
-      "Top"
+      "jungle",
+      "top"
     ],
     "is_free": true,
     "difficult": 2,
@@ -2177,7 +2177,7 @@
     "hero_id": 10012,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2198,7 +2198,7 @@
     "hero_id": 10136,
     "is_wr": true,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2220,9 +2220,9 @@
     "hero_id": 10030,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Jungle",
-      "Mid"
+      "top",
+      "jungle",
+      "mid"
     ],
     "is_free": false,
     "difficult": 1,
@@ -2244,8 +2244,8 @@
     "hero_id": 10076,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2267,7 +2267,7 @@
     "hero_id": 10124,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2288,8 +2288,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Jungle"
+      "mid",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2311,8 +2311,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Top",
-      "AD"
+      "top",
+      "ad"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2333,7 +2333,7 @@
     "hero_id": 10052,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2354,7 +2354,7 @@
     "hero_id": 10064,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 1,
@@ -2376,7 +2376,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2398,7 +2398,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2420,7 +2420,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2442,7 +2442,7 @@
     "hero_id": 10121,
     "is_wr": true,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": false,
     "difficult": 1,
@@ -2464,7 +2464,7 @@
     "hero_id": 10006,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2486,8 +2486,8 @@
     "hero_id": 10092,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2509,7 +2509,7 @@
     "hero_id": 10140,
     "is_wr": true,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": true,
     "difficult": 3,
@@ -2530,7 +2530,7 @@
     "hero_id": 10137,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2552,7 +2552,7 @@
     "hero_id": 10104,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2573,7 +2573,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2595,8 +2595,8 @@
     "hero_id": 10123,
     "is_wr": true,
     "lanes": [
-      "AD",
-      "Support"
+      "ad",
+      "support"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2618,8 +2618,8 @@
     "hero_id": 10034,
     "is_wr": true,
     "lanes": [
-      "Support",
-      "Mid"
+      "support",
+      "mid"
     ],
     "is_free": false,
     "difficult": 1,
@@ -2641,7 +2641,7 @@
     "hero_id": 10068,
     "is_wr": true,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2662,9 +2662,9 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Top",
-      "Jungle"
+      "mid",
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2685,8 +2685,8 @@
     "hero_id": 10118,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2708,7 +2708,7 @@
     "hero_id": 10049,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 1,
@@ -2730,7 +2730,7 @@
     "hero_id": 10096,
     "is_wr": true,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2752,8 +2752,8 @@
     "hero_id": 10125,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 1,
@@ -2774,7 +2774,7 @@
     "hero_id": 10107,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2796,7 +2796,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2818,8 +2818,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Top",
-      "AD"
+      "top",
+      "ad"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2841,7 +2841,7 @@
     "hero_id": 10047,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 1,
@@ -2863,7 +2863,7 @@
     "hero_id": 10097,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 1,
@@ -2885,8 +2885,8 @@
     "hero_id": 10126,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Support"
+      "mid",
+      "support"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2908,7 +2908,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2929,7 +2929,7 @@
     "hero_id": 10024,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
@@ -2951,8 +2951,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Top",
-      "Support"
+      "top",
+      "support"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2974,7 +2974,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 0,
@@ -2995,8 +2995,8 @@
     "hero_id": 10128,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Jungle"
+      "mid",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -3018,8 +3018,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Top",
-      "Support"
+      "top",
+      "support"
     ],
     "is_free": false,
     "difficult": 0,
@@ -3041,8 +3041,8 @@
     "hero_id": 10046,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Mid"
+      "top",
+      "mid"
     ],
     "is_free": false,
     "difficult": 1,
@@ -3064,7 +3064,7 @@
     "hero_id": 10130,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": true,
     "difficult": 3,
@@ -3086,7 +3086,7 @@
     "hero_id": 10045,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 1,
@@ -3108,8 +3108,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -3131,8 +3131,8 @@
     "hero_id": 10015,
     "is_wr": true,
     "lanes": [
-      "Jungle",
-      "Top"
+      "jungle",
+      "top"
     ],
     "is_free": false,
     "difficult": 1,
@@ -3154,7 +3154,7 @@
     "hero_id": 10025,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
@@ -3176,8 +3176,8 @@
     "hero_id": 10053,
     "is_wr": true,
     "lanes": [
-      "AD",
-      "Jungle"
+      "ad",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 2,
@@ -3199,8 +3199,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -3222,7 +3222,7 @@
     "hero_id": 10102,
     "is_wr": true,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": false,
     "difficult": 2,
@@ -3244,7 +3244,7 @@
     "hero_id": 10093,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 2,
@@ -3266,7 +3266,7 @@
     "hero_id": 10010,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 2,
@@ -3287,8 +3287,8 @@
     "hero_id": 10122,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Support"
+      "mid",
+      "support"
     ],
     "is_free": false,
     "difficult": 1,
@@ -3310,8 +3310,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Support"
+      "mid",
+      "support"
     ],
     "is_free": false,
     "difficult": 0,
@@ -3332,7 +3332,7 @@
     "hero_id": 10141,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
@@ -3354,7 +3354,7 @@
     "hero_id": 10050,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 1,
@@ -3376,8 +3376,8 @@
     "hero_id": 10057,
     "is_wr": true,
     "lanes": [
-      "Jungle",
-      "Top"
+      "jungle",
+      "top"
     ],
     "is_free": false,
     "difficult": 3,
@@ -3398,7 +3398,7 @@
     "hero_id": 10144,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": true,
     "difficult": 3,
@@ -3420,8 +3420,8 @@
     "hero_id": 10090,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Top"
+      "mid",
+      "top"
     ],
     "is_free": true,
     "difficult": 2,
@@ -3443,8 +3443,8 @@
     "hero_id": 10058,
     "is_wr": true,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 1,
@@ -3466,8 +3466,8 @@
     "hero_id": 10131,
     "is_wr": true,
     "lanes": [
-      "Jungle",
-      "Top"
+      "jungle",
+      "top"
     ],
     "is_free": false,
     "difficult": 1,
@@ -3488,7 +3488,7 @@
     "hero_id": 10051,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": true,
     "difficult": 2,
@@ -3510,8 +3510,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Support"
+      "mid",
+      "support"
     ],
     "is_free": false,
     "difficult": 0,
@@ -3533,7 +3533,7 @@
     "hero_id": 10016,
     "is_wr": true,
     "lanes": [
-      "Jungle"
+      "jungle"
     ],
     "is_free": false,
     "difficult": 1,
@@ -3555,8 +3555,8 @@
     "hero_id": 10037,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Top"
+      "mid",
+      "top"
     ],
     "is_free": false,
     "difficult": 3,
@@ -3578,8 +3578,8 @@
     "hero_id": 10069,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Top"
+      "mid",
+      "top"
     ],
     "is_free": false,
     "difficult": 2,
@@ -3601,7 +3601,7 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Top"
+      "top"
     ],
     "is_free": false,
     "difficult": 0,
@@ -3623,7 +3623,7 @@
     "hero_id": 10020,
     "is_wr": true,
     "lanes": [
-      "Support"
+      "support"
     ],
     "is_free": false,
     "difficult": 1,
@@ -3645,8 +3645,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Top",
-      "Jungle"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 0,
@@ -3667,9 +3667,9 @@
     "hero_id": 10039,
     "is_wr": true,
     "lanes": [
-      "Mid",
-      "Top",
-      "Jungle"
+      "mid",
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 3,
@@ -3690,7 +3690,7 @@
     "hero_id": 10067,
     "is_wr": true,
     "lanes": [
-      "AD"
+      "ad"
     ],
     "is_free": false,
     "difficult": 2,
@@ -3711,7 +3711,7 @@
     "hero_id": 10087,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
@@ -3733,8 +3733,8 @@
     "hero_id": 0,
     "is_wr": false,
     "lanes": [
-      "Mid",
-      "Support"
+      "mid",
+      "support"
     ],
     "is_free": false,
     "difficult": 0,
@@ -3755,7 +3755,7 @@
     "hero_id": 10014,
     "is_wr": true,
     "lanes": [
-      "Mid"
+      "mid"
     ],
     "is_free": false,
     "difficult": 3,
@@ -3777,8 +3777,8 @@
     "hero_id": 10063,
     "is_wr": true,
     "lanes": [
-      "Support",
-      "Mid"
+      "support",
+      "mid"
     ],
     "is_free": false,
     "difficult": 2,
