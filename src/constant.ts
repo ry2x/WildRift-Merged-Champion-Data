@@ -12,18 +12,6 @@ export const LANE_MAPPING: Record<string, Lanes> = {
 } as const;
 
 /**
- * The mapping of tags(roles) in Riot API.
- */
-export const TAG_WORDS = {
-  fighter: 'fighter',
-  mage: 'mage',
-  assassin: 'assassin',
-  marksman: 'marksman',
-  support: 'support',
-  tank: 'tank',
-} as const;
-
-/**
  * The mapping of lanes for champions that are not available in Wild Rift.
  */
 export const NO_WR_LANE: Record<string, Lanes[]> = {
