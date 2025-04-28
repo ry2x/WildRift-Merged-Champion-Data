@@ -71,7 +71,7 @@ function createBaseChampion(champion) {
         name: champion.name,
         title: champion.title,
         describe: champion.blurb,
-        roles: champion.tags,
+        roles: champion.tags.map((tag) => tag.toLowerCase()),
         type: champion.partype,
     };
 }

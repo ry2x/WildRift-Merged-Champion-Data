@@ -1,20 +1,12 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.NO_WR_LANE = exports.TAG_WORDS = exports.LANE_MAPPING = void 0;
+exports.NO_WR_LANE = exports.LANE_MAPPING = void 0;
 exports.LANE_MAPPING = {
     中路: 'mid',
     打野: 'jungle',
     单人路: 'top',
     辅助: 'support',
     射手: 'ad',
-};
-exports.TAG_WORDS = {
-    fighter: 'fighter',
-    mage: 'mage',
-    assassin: 'assassin',
-    marksman: 'marksman',
-    support: 'support',
-    tank: 'tank',
 };
 exports.NO_WR_LANE = {
     Anivia: ['mid'],
