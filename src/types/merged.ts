@@ -22,9 +22,9 @@ export interface MergedChamp {
 /**
  * Literal types for the lanes in RiotAPI.
  */
-export type Lanes = 'Mid' | 'Jungle' | 'Top' | 'Support' | 'AD';
+export type Lanes = 'mid' | 'jungle' | 'top' | 'support' | 'ad';
 
 /**
  * Literal types for the roles in RiotAPI.
  */
-export type Roles = 'Fighter' | 'Mage' | 'Assassin' | 'Marksman' | 'Support' | 'Tank';
+export type Roles = 'fighter' | 'mage' | 'assassin' | 'marksman' | 'support' | 'tank';
