@@ -6,7 +6,7 @@
     "title": "Ostrze Darkinów",
     "describe": "Aatrox i jego pobratymcy, kiedyś szanowani obrońcy Shurimy przed Pustką, ostatecznie stali się jeszcze większym zagrożeniem dla Runeterry niż sama Pustka i zostali pokonani tylko dzięki przebiegłym czarom śmiertelników. Lecz po latach spędzonych w...",
     "roles": [
-      "Fighter"
+      "fighter"
     ],
     "type": "Studnia Krwi",
     "hero_id": 10002,
@@ -28,8 +28,8 @@
     "title": "Lisica o Dziewięciu Ogonach",
     "describe": "Ahri, z natury związana z magią duchowego świata, to tajemnicza, lisia Vastajanka, która jest w stanie manipulować emocjami swojej ofiary i pożreć jej esencję, otrzymując w ten sposób przebłyski wspomnień, w tym wiedzę płynącą z każdej pochłoniętej...",
     "roles": [
-      "Mage",
-      "Assassin"
+      "mage",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10038,
@@ -50,7 +50,7 @@
     "title": "Skryta Zabójczyni",
     "describe": "Opuściwszy Zakon Kinkou i wyzbywszy się tytułu Pięści Cienia, Akali działa w pojedynkę, gotowa stać się śmiercionośną bronią, której jej lud tak bardzo potrzebował. Choć nie wyrzekła się wiedzy, którą przekazał jej mistrz Shen, poprzysięgła zabijać...",
     "roles": [
-      "Assassin"
+      "assassin"
     ],
     "type": "Energia",
     "hero_id": 10031,
@@ -72,8 +72,8 @@
     "title": "Zbuntowany Strażnik",
     "describe": "Ledwie unoszący brew w obliczu niebezpieczeństwa Akshan walczy ze złem, wykorzystując swoją oszałamiającą charyzmę, pragnienie dokonania słusznej zemsty i rzucający się w oczy brak jakiejkolwiek koszuli. Wyróżnia się niesamowitymi umiejętnościami...",
     "roles": [
-      "Marksman",
-      "Assassin"
+      "marksman",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10100,
@@ -94,8 +94,8 @@
     "title": "Minotaur",
     "describe": "Jako potężny wojownik z przerażającą reputacją, Alistar chce zemścić się za wytępienie jego klanu przez noxiańskie imperium. Pomimo że zniewolono go i zmuszono do walk na arenie, jego niezłomna wola powstrzymywała go od stania się bestią. Teraz, wolny...",
     "roles": [
-      "Tank",
-      "Support"
+      "tank",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10081,
@@ -116,8 +116,8 @@
     "title": "Matriarchini Wojny",
     "describe": "Każdy, kto słyszał nazwisko Medarda, czuje szacunek i lęk wobec przywódczyni tego rodu — Ambessy. Jako noxiańska generał jest uosobieniem śmiertelnie niebezpiecznego połączenia bezwzględnej siły i nieustraszonej determinacji w walce. Podobnie jej rola...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Energia",
     "hero_id": 10082,
@@ -139,8 +139,8 @@
     "title": "Smutna Mumia",
     "describe": "Legenda mówi, że Amumu to samotna i melancholijna istota z antycznej Shurimy, przemierzająca świat w poszukiwaniu przyjaciela. Na wieczną samotność skazała go starożytna klątwa, w wyniku której jego dotyk przynosi śmierć, a jego sympatia — zgubę. Ci...",
     "roles": [
-      "Tank",
-      "Support"
+      "tank",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10004,
@@ -163,7 +163,7 @@
     "title": "Kriofeniks",
     "describe": "Anivia to dobrotliwy, skrzydlaty duch, który stawia czoło niekończącym się cyklom życia, śmierci i odrodzenia, by chronić Freljord. Półbogini zrodzona z bezlitosnego lodu i wichrów, posiada moce żywiołów, które zatrzymają każdego, kto zakłóci spokój jej...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -184,8 +184,8 @@
     "title": "Dziecko Ciemności",
     "describe": "Niebezpieczna, lecz przedwcześnie dojrzała Annie, jest dzieckiem o nieprawdopodobnych zdolnościach związanych z piromanią. Nawet w cieniach gór na północ od Noxusu jest magicznym ewenementem. Jej naturalne zamiłowanie do ognia uzewnętrzniło się wcześnie...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10036,
@@ -206,7 +206,7 @@
     "title": "Broń Wiernych",
     "describe": "Wychodząc z bronią w ręce z cienia rzucanego przez księżyc, Aphelios zabija wrogów swojej wiary w złowrogiej ciszy — przemawia tylko poprzez niesamowitą celność i strzały z pistoletów. Choć napędza go trucizna czyniąca z niego niemowę, to kieruje nim...",
     "roles": [
-      "Marksman"
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -227,8 +227,8 @@
     "title": "Lodowa Łuczniczka",
     "describe": "Córa Lodu i wojmatka avarosańskiego plemienia, Ashe włada najliczniejszą hordą na całej północy. Stoicka, inteligentna i idealistyczna, lecz nie czująca się pewnie w swej roli przywódczyni, czerpie z magii przodków, by władać łukiem Prawdziwego Lodu...",
     "roles": [
-      "Marksman",
-      "Support"
+      "marksman",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10079,
@@ -250,7 +250,7 @@
     "title": "Architekt Gwiazd",
     "describe": "Aurelion Sol niegdyś ozdabiał nieprzebraną pustkę kosmosu astralnymi cudami swojego autorstwa. Teraz musi wykorzystywać swoją straszliwą moc, by usługiwać kosmicznemu imperium, które podstępem go zniewoliło. Pragnąc powrócić do czasów, gdy tworzył...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10023,
@@ -271,8 +271,8 @@
     "title": "Wiedźma spomiędzy Światów",
     "describe": "Od chwili swoich narodzin Aurora żyła z wyjątkową zdolnością przemieszczania się pomiędzy wymiarem duchowym a materialnym. Zdeterminowana, by dowiedzieć się więcej o mieszkańcach wymiaru duchowego, opuściła swój dom, by zgłębić swoje badania. Spotkała...",
     "roles": [
-      "Mage",
-      "Assassin"
+      "mage",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -294,8 +294,8 @@
     "title": "Imperator Pustyni",
     "describe": "Azir był śmiertelnym imperatorem Shurimy w dawnych czasach, dumnym mężczyzną, który był o krok od zyskania nieśmiertelności. Jego arogancka duma doprowadziła do tego, że zdradzono i zamordowano go w chwili największego triumfu. Jednak teraz, wiele...",
     "roles": [
-      "Mage",
-      "Marksman"
+      "mage",
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -316,8 +316,8 @@
     "title": "Wędrujący Opiekun",
     "describe": "Podróżnik spoza gwiazd, Bard, jest patronem szczęśliwych przypadków, walczącym, by zachować równowagę, dzięki której życie może przetrwać obojętność chaosu. Wielu mieszkańców Runeterry śpiewa piosenki, które wychwalają jego niecodzienny charakter, lecz...",
     "roles": [
-      "Support",
-      "Mage"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -338,7 +338,7 @@
     "title": "Cesarzowa Pustki",
     "describe": "Bel'Veth, koszmarna cesarzowa zrodzona z czystej esencji pochłoniętego w całości miasta, zwiastuje koniec obecnej Runeterry… i początek potwornej rzeczywistości, którą tworzy wedle własnego uznania. Milenia przeinaczania historii, wiedzy i wspomnień ze...",
     "roles": [
-      "Fighter"
+      "fighter"
     ],
     "type": "",
     "hero_id": 0,
@@ -359,8 +359,8 @@
     "title": "Wielki Golem Parowy",
     "describe": "Blitzcrank to ogromny, prawie niezniszczalny automat z Zaun, zbudowany w celu pozbywania się radioaktywnych odpadów. Pewnego dnia stwierdził, że jego zadanie nadto go ogranicza, więc zmodyfikował się, by lepiej służyć delikatnym ludziom ze Slumsów...",
     "roles": [
-      "Tank",
-      "Support"
+      "tank",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10033,
@@ -381,8 +381,8 @@
     "title": "Płomień Zemsty",
     "describe": "Kiedyś członek plemienia lodowego Freljordu, imieniem Kegan Rodhe, istota znana jako Brand jest lekcją na temat pokus większej mocy. Podczas poszukiwania jednej z legendarnych Run Świata, Kegan zdradził swoich towarzyszy i zgarnął ją dla siebie — po...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10119,
@@ -404,8 +404,8 @@
     "title": "Serce Freljordu",
     "describe": "Dzięki potężnym bicepsom i jeszcze większemu sercu Braum jest ukochanym bohaterem Freljordu. Cały miód pitny na północ od Mroźnej Przystani jest wypijany za jego legendarną siłę, o której mówi się, że jest zdolna do powalenia całego dębowego lasu w...",
     "roles": [
-      "Tank",
-      "Support"
+      "tank",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10021,
@@ -426,8 +426,8 @@
     "title": "Poskromiony Głód",
     "describe": "Nieudany eksperyment Czarnej Róży, nieopanowana żądza krwi Briar wymagała specjalnych dyb mających pomóc skupić się jej oszalałemu umysłowi. Po latach zamknięcia ta żywa broń wyzwoliła się ze swych pęt i wyszła na świat. Dziś nikt jej już nie kontroluje...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Furia",
     "hero_id": 0,
@@ -449,7 +449,7 @@
     "title": "Szeryf Piltover",
     "describe": "Caitlyn Kiramman, znana jako najlepsza strażniczka pokoju, jest również najlepszą szansą Piltover na pozbycie się nieuchwytnych elementów kryminalnych z miasta. W porównaniu z żywiołowym charakterem swojej partnerki o imieniu Vi Caitlyn można by nazwać...",
     "roles": [
-      "Marksman"
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10112,
@@ -470,8 +470,8 @@
     "title": "Stalowy Cień",
     "describe": "Wyposażona, aby działać poza granicami prawa, Camille jest główną wywiadowczynią rodu Ferros oraz elegancką i elitarną agentką, która upewnia się, że maszyna Piltover oraz jej zauńskie podbrzusze działają prawidłowo. Zdolna do przystosowywania się oraz...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10055,
@@ -493,7 +493,7 @@
     "title": "Wężowy Uścisk",
     "describe": "Cassiopeia jest śmiertelną istotą zdeterminowaną, by manipulować innymi zgodnie z jej niegodziwą wolą. Najmłodsza i najpiękniejsza córka szlachetnej, noxiańskiej rodziny Du Couteau, odbyła wyprawę w poszukiwaniu mocy głęboko do krypt pod Shurimą...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -515,8 +515,8 @@
     "title": "Postrach Pustki",
     "describe": "Od momentu, w którym Cho'Gath pierwszy raz wynurzył się na ostre światło słońca Runeterry, napędza go najczystszy i niezaspokojony głód. Cho'Gath jest przykładowym wyrazem żądzy Pustki do pożerania wszystkiego, co żyje, a jego skomplikowana biologia...",
     "roles": [
-      "Tank",
-      "Mage"
+      "tank",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -538,8 +538,8 @@
     "title": "Dzielny Bombardier",
     "describe": "Yordlowy pilot Corki najbardziej kocha dwie rzeczy: latanie i swoje olśniewające wąsy... choć niekoniecznie w tej kolejności. Po opuszczeniu Bandle City osiedlił się w Piltover i zakochał się w niezwykłych maszynach, które tam znalazł. Poświęcił się...",
     "roles": [
-      "Marksman",
-      "Mage"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10060,
@@ -561,8 +561,8 @@
     "title": "Ręka Noxusu",
     "describe": "Nie ma lepszego symbolu noxiańskiej siły niż Darius, siejący strach w sercach całego narodu i najbardziej zaprawiony w bojach dowódca. Zaczynał skromnie, by w końcu zostać Ręką Noxusu i za pomocą topora rozprawiać się z wrogami imperium, którzy czasami...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 10071,
@@ -584,8 +584,8 @@
     "title": "Pogarda Księżyca",
     "describe": "Diana, wyposażona w zakrzywione, księżycowe ostrze, jest wojowniczką Lunari – członków wyznania, które praktycznie już nie istnieje na terenach otaczających Górę Targon. Odziana w lśniącą zbroję w kolorze nocnego śniegu, jest żywym ucieleśnieniem mocy...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10013,
@@ -608,7 +608,7 @@
     "title": "Wielki Oprawca",
     "describe": "W Noxusie wojownicy znani jako walecznicy mierzą się ze sobą na arenach, gdzie przelewa się krew, a siłę poddaje się próbie. Jednakże żaden z nich nie był tak sławny jak Draven. Były żołnierz doszedł do wniosku, że tłum docenia jego smykałkę do...",
     "roles": [
-      "Marksman"
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10077,
@@ -629,8 +629,8 @@
     "title": "Szaleniec z Zaun",
     "describe": "Doszczętnie oszalały, tragicznie zabójczy i przerażająco fioletowy Dr Mundo jest przyczyną, dla której wielu mieszkańców Zaun nie opuszcza swoich domów w szczególnie ciemne noce. Ten samozwańczy lekarz był niegdyś pacjentem niesławnego ośrodka opieki...",
     "roles": [
-      "Tank",
-      "Fighter"
+      "tank",
+      "fighter"
     ],
     "type": "Brak",
     "hero_id": 10062,
@@ -652,8 +652,8 @@
     "title": "Chłopiec, który ujarzmił czas",
     "describe": "Ekko, geniusz wychowany na ulicach Zaun, jest w stanie manipulować czasem, aby każda sytuacja potoczyła się po jego myśli. Korzysta z własnego wynalazku, Napędu Z, dzięki któremu odkrywa niekończące się możliwości rzeczywistości i tworzy idealny moment...",
     "roles": [
-      "Assassin",
-      "Mage"
+      "assassin",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10011,
@@ -676,8 +676,8 @@
     "title": "Królowa Pająków",
     "describe": "Elise jest niebezpiecznym drapieżnikiem, który siedzibę ma w zamkniętym i mrocznym pałacu, mieszczącym się głęboko w najstarszym mieście Noxusu. Kiedyś była śmiertelniczką, damą z potężnego rodu, ale ukąszenie nikczemnego pajęczego półboga zmieniło ją w...",
     "roles": [
-      "Assassin",
-      "Mage"
+      "assassin",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -698,8 +698,8 @@
     "title": "Uścisk Śmierci",
     "describe": "W mrocznych zakątkach Runeterry demoniczna Evelynn poszukuje następnej ofiary. Wabi ją, przyjmując ludzką, ponętną postać kobiety, a gdy ta ulegnie jej wdziękom, pokazuje swoje prawdziwe ja. Następnie poddaje ją niewyobrażalnym mękom, zaspokajając się...",
     "roles": [
-      "Assassin",
-      "Mage"
+      "assassin",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10029,
@@ -720,8 +720,8 @@
     "title": "Odkrywca z Powołania",
     "describe": "Ezreal, prężny poszukiwacz przygód, nieświadomy swojego daru magicznego, przeszukuje dawno zaginione katakumby, zadziera ze starożytnymi klątwami i z łatwością radzi sobie z na pierwszy rzut oka niemożliwymi do pokonania przeszkodami. Jego odwaga i...",
     "roles": [
-      "Marksman",
-      "Mage"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10098,
@@ -742,8 +742,8 @@
     "title": "Prastary Strach",
     "describe": "Coś zbudziło się w Runeterze. Coś prastarego. Okropnego. Ponadczasowa potworność, znana jako Fiddlesticks, grasuje wśród śmiertelników. Przyciągają ją obszary pełne paranoi, gdzie żeruje na przerażonych ofiarach. To dzierżące kosę szpetne, wyglądające...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10133,
@@ -764,8 +764,8 @@
     "title": "Mistrzyni Fechtunku",
     "describe": "Fiora to fechmistrzyni, o której słyszano w całym Valoranie. Zasłynęła zarówno niezłomnością i ciętym językiem, jak i mistrzostwem w szermierce. Będąc córką domu Laurent z Demacii, Fiora przejęła kontrolę nad swoim rodem od ojca w obliczu skandalu...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10032,
@@ -786,8 +786,8 @@
     "title": "Szachraj Sztormów",
     "describe": "Fizz jest amfibiotycznym Yordlem, który żyje pośród raf otaczających Bilgewater. Często wyławia i zwraca dziesięciny wrzucane do morza przez przesądnych kapitanów, ale nawet najbardziej doświadczeni z żeglarzy wiedzą, żeby mu się nie sprzeciwiać — wszak...",
     "roles": [
-      "Assassin",
-      "Fighter"
+      "assassin",
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 10086,
@@ -810,8 +810,8 @@
     "title": "Kolos",
     "describe": "Kamienny kolos Galio strzeże lśniącego miasta zwanego Demacia. Zbudowany w celu obrony przed wrogimi magami, często stoi bez ruchu przez wiele dekad, dopóki obecność potężnej magii go nie ożywi. Gdy to nastąpi, Galio wykorzystuje ten czas jak najlepiej...",
     "roles": [
-      "Tank",
-      "Mage"
+      "tank",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10099,
@@ -833,7 +833,7 @@
     "title": "Postrach Siedmiu Mórz",
     "describe": "Równie nieprzewidywalny, co brutalny, zdetronizowany król łupieżców Gangplank wzbudza strach na całym świecie. Kiedyś dowodził miastem portowym Bilgewater, i choć jego panowanie się skończyło, są tacy, którzy twierdzą, że uczyniło go to jeszcze bardziej...",
     "roles": [
-      "Fighter"
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -855,8 +855,8 @@
     "title": "Potęga Demacii",
     "describe": "Dumny i szlachetny wojownik, Garen jest jednym z członków Nieustraszonej Gwardii. Jego koledzy cenią go, a przeciwnicy szanują — zwłaszcza, że jest potomkiem szanowanego rodu Obrońców Korony, któremu powierzono trzymanie pieczy nad Demacią i jej...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Brak",
     "hero_id": 10001,
@@ -877,8 +877,8 @@
     "title": "Brakujące Ogniwo",
     "describe": "Gnar jest pierwotnym Yordlem, którego dziecinne wygłupy mogą w mgnieniu oka przerodzić się w wybuch gniewu, zmieniając go w ogromną bestię zdeterminowaną, by niszczyć. Zamrożony w Prawdziwym Lodzie przez tysiąclecia, to ciekawskie stworzenie wydostało...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Gniew",
     "hero_id": 10078,
@@ -899,8 +899,8 @@
     "title": "Karczemny Zabijaka",
     "describe": "Równie wesoły, co okazały, Gragas jest ogromnym, bitnym piwowarem, który poszukuje perfekcyjnego kufla piwa. Jego pochodzenie jest nieznane, ale wiadomo, że teraz szuka rzadkich składników po nieskalanych pustkowiach Freljordu, próbując każdego przepisu...",
     "roles": [
-      "Fighter",
-      "Mage"
+      "fighter",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10089,
@@ -922,7 +922,7 @@
     "title": "Banita",
     "describe": "Malcolm Graves jest znanym najemnikiem, szulerem i złodziejem, w dodatku jest poszukiwany w każdym mieście i imperium, jakie odwiedził. Pomimo że ma wybuchowy temperament, kieruje się złodziejskim honorem, który często pokazuje za pomocą swojej...",
     "roles": [
-      "Marksman"
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10072,
@@ -944,7 +944,7 @@
     "title": "Mglista Krawczyni",
     "describe": "Gwen, niegdyś lalka, a teraz przemienione i dzięki magii powołane do życia dziewczę, dzierży te same narzędzia, które ją stworzyły. Z każdym krokiem niesie miłość swojej twórczyni i niczego nie uznaje za oczywistość. Włada Uświęconą Mgłą — pradawną...",
     "roles": [
-      "Fighter"
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 10054,
@@ -966,8 +966,8 @@
     "title": "Cień Wojny",
     "describe": "Hecarim jest upiornym połączeniem człowieka i bestii, przeklętym, by przez całą wieczność gonić za duszami żyjących. Kiedy Błogosławione Wyspy pochłonął cień, ten dumny rycerz, z całą swoją kawalerią i wierzchowcami, został rozniesiony przez niszczące...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 10019,
@@ -988,8 +988,8 @@
     "title": "Wielbiony Wynalazca",
     "describe": "Ekscentryczny Profesor Cecil B. Heimerdinger jest jednym z najbystrzejszych i najbardziej szanowanych naukowców, jakich znał świat. Jako najdłużej zasiadający członek Rady Piltover widział już najlepsze i najgorsze posunięcia, których źródło leżało w...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10127,
@@ -1010,8 +1010,8 @@
     "title": "Wizjoner",
     "describe": "Hwei to pogrążony w zadumie malarz, który tworzy genialną sztukę, by stawiać czoła przestępcom z Ionii i dodawać otuchy ich ofiarom. Pod jego melancholijną aparycją kłębi się rozdarty, emocjonalny umysł nawiedzany tak przez malownicze wizje jego...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -1033,8 +1033,8 @@
     "title": "Kapłanka Krakena",
     "describe": "Potężna budowa ciała Illaoi jest przyćmiona jedynie przez jej niezłomną wiarę. Jako prorok Wielkiego Krakena używa wielkiego, złotego posążka do wyrywania dusz wrogów z ich ciał, tym samym zaburzając ich postrzeganie rzeczywistości. Wszyscy, którzy...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -1055,8 +1055,8 @@
     "title": "Tańcząca z Ostrzami",
     "describe": "Ioniańska ziemia zrodziła wielu bohaterów pod noxiańską okupacją, ale żaden z nich nie był bardziej nadzwyczajny niż młoda Irelia z Navori. Została wyszkolona w starożytnej sztuce tańców swojej prowincji, a potem przystosowała ją do potrzeb wojny —...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10094,
@@ -1078,8 +1078,8 @@
     "title": "Zielony Ojciec",
     "describe": "Ivern Krzewobrody, znany też jako Zielony Ojciec, to jedyny w swoim rodzaju półczłowiek, półdrzewo. Wędruje przez lasy Runeterry, na każdym kroku starając się pielęgnować życie. Dobrze zna sekrety natury i przyjaźni się ze wszystkimi latającymi...",
     "roles": [
-      "Support",
-      "Mage"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -1100,8 +1100,8 @@
     "title": "Szał Burzy",
     "describe": "Janna, uzbrojona w potęgę wichur Runeterry, jest tajemniczym duchem wiatru, który ochrania poszkodowanych z Zaun. Niektórzy ludzie uważają, że została zrodzona z błagań żeglarzy z Runeterry, którzy modlili się o przyjazne wiatry, gdy pływali po...",
     "roles": [
-      "Support",
-      "Mage"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10075,
@@ -1122,8 +1122,8 @@
     "title": "Wzór dla Demacian",
     "describe": "Książę Jarvan, potomek dynastii Promiennej Tarczy, jest następcą praw do tronu Demacii. Wychowany, by stać się przykładem cnót swojego narodu, jest zmuszony do żonglowania pomiędzy oczekiwaniami jego rodziców, a jego wolą do walki w pierwszej linii. Na...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 10056,
@@ -1145,7 +1145,7 @@
     "title": "Mistrz Broni",
     "describe": "Niedościgniony we władaniu wyjątkowymi broniami i w używaniu ciętego sarkazmu, Jax jest ostatnim znanym mistrzem broni z Icathii. Po tym jak jego ojczyzna w swojej aroganckiej dumie uwolniła Pustkę i została przez to zniszczona, Jax i jego pobratymcy...",
     "roles": [
-      "Fighter"
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 10040,
@@ -1167,8 +1167,8 @@
     "title": "Obrońca Jutra",
     "describe": "Jayce Talis to wybitny wynalazca, który wraz ze swoim przyjacielem Viktorem dokonał pierwszych wielkich odkryć w dziedzinie hextechu. Celebrowany w całym Piltover Jayce stara się sprostać swojej reputacji „Człowieka Postępu”, choć często zmaga się z...",
     "roles": [
-      "Marksman",
-      "Fighter"
+      "marksman",
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 10101,
@@ -1190,8 +1190,8 @@
     "title": "Wirtuoz",
     "describe": "Jhin jest skrupulatnym, zbrodniczym psychopatą, który wierzy, że mordowanie jest sztuką. Niegdyś był więźniem w Ionii, lecz został uwolniony przez szemranych członków tamtejszej rady rządzącej, by teraz służyć im w ich intrygach w roli zabójcy. Jego...",
     "roles": [
-      "Marksman",
-      "Mage"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10022,
@@ -1212,7 +1212,7 @@
     "title": "Wystrzałowa Wariatka",
     "describe": "Jinx, maniakalna i porywcza kryminalistka z Miasta pod Miastem, jest ofiarą wiszącego nad nią widma konsekwencji jej działań z przeszłości. Nie przeszkadza jej to jednak w roztaczaniu chaotycznego piekła w Piltover i Zaun. Korzysta z arsenału...",
     "roles": [
-      "Marksman"
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10018,
@@ -1233,8 +1233,8 @@
     "title": "Córa Pustki",
     "describe": "Kai'Sa, dziewczyna porwana przez Pustkę, kiedy była jeszcze dzieckiem, przetrwała tylko dzięki wytrwałości i sile woli. Jej przeżycia sprawiły, że stała się zabójczą łowczynią, choć dla niektórych jest zwiastunką przyszłości, której nie chcieliby dożyć...",
     "roles": [
-      "Marksman",
-      "Mage"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10026,
@@ -1255,7 +1255,7 @@
     "title": "Włócznia Zemsty",
     "describe": "Kalista jest widmem przepełnionym gniewem i poszukującym odwetu, wiecznym duchem zemsty, zbrojnym koszmarem, który został przyzwany z Wysp Cienia, aby niszczyć oszustów i zdrajców. Wszyscy, którzy zostali zdradzeni, mogą wołać o pomstę, lecz Kalista...",
     "roles": [
-      "Marksman"
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10134,
@@ -1276,8 +1276,8 @@
     "title": "Oświecona",
     "describe": "Żaden śmiertelnik nie obrazuje duchowych tradycji Ionii tak jak Karma. To uosobienie starożytnej duszy, która niezliczone razy powracała do życia, niosąc wszystkie zebrane wspomnienia w każde z nich. Jest obdarzona mocą, którą jedynie nieliczni są...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10007,
@@ -1299,7 +1299,7 @@
     "title": "Piewca Śmierci",
     "describe": "Zwiastun nicości, Karthus, jest wiecznym duchem, nękającym swymi straszliwymi pieśniami. A są one jedynie wstępem do jego przerażającego wyglądu. Żywi lękają się wieczności nieumarłych, ale Karthus dostrzega w ich objęciach jedynie czystość i piękno...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -1321,8 +1321,8 @@
     "title": "Wędrowiec Pustki",
     "describe": "Wycinając palące pasma pośród najmroczniejszych miejsc na świecie, Kassadin zrozumiał, że jego dni są policzone. Choć był obeznanym w świecie przewodnikiem i poszukiwaczem przygód z Shurimy, wybrał spokojne życie z rodziną pośród południowych plemion —...",
     "roles": [
-      "Assassin",
-      "Mage"
+      "assassin",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10103,
@@ -1344,8 +1344,8 @@
     "title": "Złowieszcze Ostrze",
     "describe": "Stanowcza w osądzie i zabójcza w walce, Katarina jest noxiańską zabójczynią największego kalibru. Najstarsza córka legendarnego generała Du Couteau, wsławiła się  talentami do szybkiego zabijania niczego niepodejrzewających wrogów. Jej ognisty zapał...",
     "roles": [
-      "Assassin",
-      "Mage"
+      "assassin",
+      "mage"
     ],
     "type": "Brak",
     "hero_id": 10095,
@@ -1366,8 +1366,8 @@
     "title": "Sprawiedliwa",
     "describe": "Kayle, córka targońskiego Aspektu urodzona w punkcie kulminacyjnym Wojen Runicznych, uhonorowała dziedzictwo swojej matki, wznosząc się na skrzydłach gorejących boskim ogniem, by walczyć o sprawiedliwość. Wraz ze swoją bliźniaczką Morganą latami były...",
     "roles": [
-      "Mage",
-      "Marksman"
+      "mage",
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10041,
@@ -1389,8 +1389,8 @@
     "title": "Żniwiarz Cienia",
     "describe": "Niemający sobie równych w praktykowaniu zabójczej magii cienia, Shieda Kayn toczy boje o swoje prawdziwe przeznaczenie — czyli o to, by pewnego dnia poprowadzić Zakon Cienia ku nowej erze ioniańskiej dominacji. Posługuje się żywą bronią Darkinów zwaną...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10005,
@@ -1411,7 +1411,7 @@
     "title": "Serce Nawałnicy",
     "describe": "Kennen jest kimś więcej niż błyskawicznie szybkim stróżem ioniańskiej równowagi, jest jedynym yordlowym członkiem zakonu Kinkou. Mimo że jest małym i włochatym stworzeniem, chętnie stawi czoła wszystkim zagrożeniom za pomocą wirującej burzy shurikenów i...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Energia",
     "hero_id": 10061,
@@ -1433,7 +1433,7 @@
     "title": "Łowca Pustki",
     "describe": "Pustka rośnie, Pustka ewoluuje — to Kha'Zix spośród jej niezliczonych tworów jest najlepszym tego przykładem. Ewolucja napędza tego mutującego potwora, stworzonego do przetrwania wszystkiego i zabijania silnych. Jeśli mu się to nie udaje, wykształca...",
     "roles": [
-      "Assassin"
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10017,
@@ -1454,7 +1454,7 @@
     "title": "Wieczni Łowcy",
     "describe": "Pojedynczo, ale nigdy oddzielnie, Kindred reprezentują bliźniacze esencje śmierci. Strzała Owcy oferuje szybki koniec dla tych, którzy pogodzili się ze swoim losem. Wilk poluje zaś na tych, którzy uciekają przed przeznaczeniem, brutalnie pozbawiając...",
     "roles": [
-      "Marksman"
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10073,
@@ -1475,7 +1475,7 @@
     "title": "Swarliwy Rajtar",
     "describe": "Yordle Kled to wojownik równie nieustraszony, co uparty, uosabia zażartą brawurę Noxusu. Jest ukochaną przez żołnierzy ikoną, której nie ufają oficerowie, a arystokracja wręcz nim pogardza. Liczni utrzymują, że Kled walczył w każdej kampanii prowadzonej...",
     "roles": [
-      "Fighter"
+      "fighter"
     ],
     "type": "Odwaga",
     "hero_id": 0,
@@ -1496,8 +1496,8 @@
     "title": "Paszcza Otchłani",
     "describe": "Wypluty z gnijącego miejsca wtargnięcia Pustki, głęboko na pustkowiach Icathii, Kog'Maw jest ciekawską, lecz wstrętną istotą ze zjadliwą, rozwartą paszczą. Ten Pomiot Pustki musi obgryźć i zaślinić wszystko, co ma pod ręką, by dogłębnie to zrozumieć...",
     "roles": [
-      "Marksman",
-      "Mage"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -1518,8 +1518,8 @@
     "title": "Duma Nazumah",
     "describe": "Nieustępliwy i odważny K'Sante walczy z potężnymi bestiami i bezwzględnymi Wyniesionymi, by chronić swój dom, miasto Nazumah, cudowną oazę pośród piasków Shurimy. Po kłótni ze swoim byłym partnerem K'Sante zdaje sobie sprawę, że by zostać wojownikiem...",
     "roles": [
-      "Tank",
-      "Fighter"
+      "tank",
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -1540,8 +1540,8 @@
     "title": "Oszustka",
     "describe": "Tajemnicza nawet dla innych członków kliki Czarnej Róży, LeBlanc jest jednym z wielu imion bladej kobiety, która manipulowała ludźmi i wydarzeniami od zarania Noxusu. Używając magii, by tworzyć swoje lustrzane kopie, ta czarodziejka może pojawić się...",
     "roles": [
-      "Assassin",
-      "Mage"
+      "assassin",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -1562,8 +1562,8 @@
     "title": "Ślepy Mnich",
     "describe": "Mistrz sztuk walki Ionii, Lee Sin, jest kierującym się zasadami wojownikiem, który czerpie z esencji duszy smoka, by stawić czoła wszelkim wyzwaniom. Chociaż stracił wzrok wiele lat temu, ten mnich-wojownik poświęca swoje życie, by bronić swoją ojczyznę...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Energia",
     "hero_id": 10059,
@@ -1584,8 +1584,8 @@
     "title": "Promyk Jutrzenki",
     "describe": "Leona, dysponująca mocą słońca, jest świętą wojowniczką Solari, która stoi na straży Góry Targon, wyposażona w Ostrze Zenitu i Pawęż Brzasku. Jej skóra lśni blaskiem gwiazd, a oczy płoną mocą Aspektu, który zamieszkuje jej wnętrze. Przyodziana w złoty...",
     "roles": [
-      "Tank",
-      "Support"
+      "tank",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10044,
@@ -1606,8 +1606,8 @@
     "title": "Lękliwy Rozkwit",
     "describe": "Nieśmiała i płochliwa Lillia, wróżkowa sarenka, snuje się po lasach Ionii. Ukrywa się przed śmiertelnikami, których tajemnicza natura już dawno ją urzekła, ale i przestraszyła. Ma nadzieję odkryć, dlaczego ich marzenia nie trafiają już do Śniącego...",
     "roles": [
-      "Fighter",
-      "Mage"
+      "fighter",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10135,
@@ -1628,7 +1628,7 @@
     "title": "Wiedźma Lodu",
     "describe": "Magia Lissandry przekształca czysty potencjał lodu w coś mrocznego i potwornego. Mocą jej czarnego lodu nie tylko zamraża przeciwników, ale ich nadziewa i miażdży. Przerażeni mieszkańcy północy znają ją tylko jako „Wiedźmę Lodu”. Prawda jest dużo...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10109,
@@ -1649,8 +1649,8 @@
     "title": "Kleryk Broni",
     "describe": "Lucian, Strażnik Światła, jest ponurym łowcą upiorów i widm. Wykazuje się bezwzględnością w ściganiu i zabijaniu ich swoimi bliźniaczymi reliktowymi pistoletami. Gdy nikczemne widmo znane jako Thresh zabiło jego żonę, ten zapragnął zemsty. Jednak nawet...",
     "roles": [
-      "Marksman",
-      "Assassin"
+      "marksman",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10042,
@@ -1672,8 +1672,8 @@
     "title": "Wróżkowa Czarodziejka",
     "describe": "Yordlowa czarodziejka Lulu znana jest z tworzenia wyśnionych iluzji i niestworzonych stworzeń, przemierzając Runeterrę wraz ze swoim duszkiem towarzyszem Pixem. Lulu potrafi momentalnie zniekształcić rzeczywistość, zakrzywiając materiał świata i to, co...",
     "roles": [
-      "Support",
-      "Mage"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10048,
@@ -1694,8 +1694,8 @@
     "title": "Pani Jasności",
     "describe": "Obrończyni Korony Luxanna pochodzi z Demacii, krainy, w której do zdolności magicznych podchodzi się z dystansem i strachem. Z powodu umiejętności władania światłem, dorastała w strachu przed tym, że ktoś odkryje jej zdolności i ją wygna. Musiała...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10003,
@@ -1717,8 +1717,8 @@
     "title": "Okruch Monolitu",
     "describe": "Ogromna istota z żyjącego kamienia, Malphite stara się narzucić błogosławiony porządek chaotycznemu światu. Urodzony jako okruch-sługa obeliskowi z innego świata znanemu jako Monolit, używał swojej ogromnej mocy żywiołów, by chronić i dbać o swojego...",
     "roles": [
-      "Tank",
-      "Mage"
+      "tank",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10083,
@@ -1741,7 +1741,7 @@
     "title": "Prorok Pustki",
     "describe": "Malzahar, religijny wieszcz, który poświęca się zrównaniu wszystkiego, co żyje, szczerze wierzy, że nowo powstała Pustka jest drogą do zbawienia Runeterry. Na pustynnych pustkowiach Shurimy podążył za szeptami w swojej głowie, które przywiodły go do...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -1762,8 +1762,8 @@
     "title": "Spaczony Drzewiec",
     "describe": "Maokai to olbrzymi drzewiec przepełniony gniewem, który walczy z koszmarami z Wysp Cienia. Gdy magiczny kataklizm zniszczył jego dom, stał się ucieleśnieniem zemsty, opierając się nieśmierci tylko dzięki wodom życia, które w nim płynęły. Niegdyś Maokai...",
     "roles": [
-      "Tank",
-      "Support"
+      "tank",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10074,
@@ -1786,8 +1786,8 @@
     "title": "Szermierz Wuju",
     "describe": "Master Yi tak długo trenował ciało i umysł, że myśli i działanie niemal stały się jednością. Mimo że woli używać siły tylko w ostateczności, zwinność i szybkość, z jakimi posługuje się ostrzem, sprawiają, że konflikt zawsze kończy się szybko. Jako jedna...",
     "roles": [
-      "Assassin",
-      "Fighter"
+      "assassin",
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 10070,
@@ -1808,8 +1808,8 @@
     "title": "Odbicie Duszy",
     "describe": "Mel Medardę uznaje się za spadkobierczynię rodu Medarda — niegdyś najpotężniejszego rodu w Noxusie. To na pozór uprzejma arystokratka, ale pod zasłoną dobrych manier kryje się uzdolniona polityczka, której ambicją jest zdobycie wiedzy o każdym, kogo...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -1830,8 +1830,8 @@
     "title": "Łagodny Płomień",
     "describe": "Milio był chłopcem z Ixtal o wielkim sercu, który pomimo młodego wieku opanował aksjomat ognia i odkrył coś nowego: kojący płomień. Dzięki nowo odkrytej mocy planuje pomóc rodzinie wrócić z wygnania za pomocą Yun Tal, tak jak zrobiła to kiedyś jego...",
     "roles": [
-      "Support",
-      "Mage"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10108,
@@ -1852,8 +1852,8 @@
     "title": "Łowczyni Nagród",
     "describe": "Pani kapitan Bilgewater, znana ze swojego wdzięku, lecz siejąca strach przez swoją bezwzględność, Sarah Fortune jest surową postacią górującą nad zatwardziałymi kryminalistami miasta portowego. Jako dziecko była świadkiem, jak król łupieżców Gangplank...",
     "roles": [
-      "Marksman",
-      "Mage"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10066,
@@ -1874,8 +1874,8 @@
     "title": "Małpi Król",
     "describe": "Wukong to vastajański żartowniś, który wykorzystuje siłę, zwinność i inteligencję, aby oszukać przeciwników i zyskać przewagę. Po znalezieniu przyjaciela na całe życie w osobie wojownika znanego jako Master Yi, Wukong stał się ostatnim uczniem...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 10009,
@@ -1897,8 +1897,8 @@
     "title": "Żelazny Upiór",
     "describe": "Dwa razy zabity i trzy razy zrodzony, Mordekaiser to okrutny watażka z zamierzchłej epoki, który wykorzystuje moc nekromancji, aby pętać dusze na wieczną służbę. Niewielu już pamięta jego dawne podboje i zdaje sobie sprawę z pełni jego mocy. Istnieją...",
     "roles": [
-      "Fighter",
-      "Mage"
+      "fighter",
+      "mage"
     ],
     "type": "Tarcza",
     "hero_id": 10035,
@@ -1920,8 +1920,8 @@
     "title": "Upadła",
     "describe": "Rozdarta pomiędzy naturą astralną a naturą śmiertelniczki, Morgana związała swoje skrzydła, by otworzyć ramiona na ludzkość, i zadaje wszystkim nieszczerym i zwyrodniałym ból, jaki sama odczuwa. Odrzuca prawa i tradycje, o których myśli, że są...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10028,
@@ -1944,8 +1944,8 @@
     "title": "Po Stokroć Kąsający Ogar",
     "describe": "Wśród piasków Shurimy rozbrzmiewa chóralne wycie. To zew piaskowych ogarów — nienasyconych drapieżników, które tworzą stada i rywalizują o prawo do polowania na tych jałowych ziemiach. Wśród nich wyróżnia się jedno stado, które kierowane jest nie tylko...",
     "roles": [
-      "Assassin",
-      "Fighter"
+      "assassin",
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -1967,8 +1967,8 @@
     "title": "Władczyni Przypływów",
     "describe": "Nami, nieustępliwa, młoda przedstawicielka Vastajów pochodzących z mórz, była pierwszą z plemienia Marajów, która porzuciła fale i zapuściła się na suchy ląd, kiedy ich starożytne porozumienie z Targonianami zostało zerwane. Nie mając innego wyboru...",
     "roles": [
-      "Support",
-      "Mage"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10091,
@@ -1989,8 +1989,8 @@
     "title": "Kustosz Pustyni",
     "describe": "Nasus jest majestatycznym, Wyniesionym bytem o głowie szakala, wywodzącym się z przedwiecznej Shurimy. Herosem, którego ludzie pustyni uważali za półboga. Jego wyjątkowa inteligencja sprawiła, że był opiekunem wiedzy i niezrównanym strategiem, a jego...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 10065,
@@ -2011,8 +2011,8 @@
     "title": "Tytan Głębin",
     "describe": "Opancerzony goliat znany jako Nautilus, samotna legenda, stara jak pierwsze pomosty postawione w Bilgewater, włóczy się po mrocznych wodach u wybrzeża Wysp Niebieskiego Płomienia. Napędzany zapomnianą zdradą uderza bez ostrzeżenia, wymachując swoją...",
     "roles": [
-      "Tank",
-      "Support"
+      "tank",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10132,
@@ -2035,8 +2035,8 @@
     "title": "Ciekawski Kameleon",
     "describe": "Neeko, pochodząca z dawno utraconego plemienia Vastajów, potrafi wtopić się w każdy tłum, pożyczając wygląd innych, a nawet wchłaniając coś pokroju ich stanu emocjonalnego, by w mgnieniu oka odróżnić wroga od przyjaciela. Nikt nie może być nigdy pewien...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2058,8 +2058,8 @@
     "title": "Zwierzęca Łowczyni",
     "describe": "Wychowana w najgłębszej dżungli, Nidalee jest mistrzowską tropicielką, która na zawołanie potrafi przemienić się w pumę. Nie jest w pełni kobietą ani bestią. Zaciekle broni swojego terytorium przed wszystkimi intruzami za pomocą rozmyślnie umieszczonych...",
     "roles": [
-      "Assassin",
-      "Mage"
+      "assassin",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2081,8 +2081,8 @@
     "title": "Nieokiełznana radość",
     "describe": "Nilah to ascetyczna wojowniczka z odległej krainy, poszukująca jak najgroźniejszych i najpotężniejszych przeciwników, aby rzucać im wyzwania. Swoją potęgę posiadła dzięki pojedynkowi z długo więzionym demonem radości, a jedyną emocją, jaka jej pozostała...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10027,
@@ -2103,8 +2103,8 @@
     "title": "Wieczny Koszmar",
     "describe": "Demoniczne wcielenie, stworzone z koszmarów nawiedzających wszystkie umysły, jest znane jako Nocturne — przedwieczna siła czystego zła. Jego forma jest płynnym chaosem, cieniem bez twarzy z zimnymi oczami, uzbrojonym w złowieszczo wyglądające ostrza. Po...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2125,8 +2125,8 @@
     "title": "Chłopiec i Jego Yeti",
     "describe": "Dawno, dawno temu był sobie chłopiec, który chciał dowieść, że jest bohaterem, zabijając straszliwego potwora. Zamiast tego odkrył jedynie, że ten stwór, samotny i magiczny yeti, po prostu potrzebował przyjaciela. Zbratani starożytną mocą i wspólną...",
     "roles": [
-      "Tank",
-      "Mage"
+      "tank",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10008,
@@ -2147,8 +2147,8 @@
     "title": "Berserker",
     "describe": "Niepowstrzymana siła zniszczenia, dzierżący topory Olaf nie chce nic więcej poza chwalebną śmiercią w boju. Pochodzi z Lokfaru, surowego freljordzkiego półwyspu. Kiedyś przepowiedziano mu spokojną śmierć — los tchórza i ogromna ujma pośród jego ludu...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 10106,
@@ -2170,8 +2170,8 @@
     "title": "Mechaniczna Baletnica",
     "describe": "Kiedyś dziewczyna z krwi i kości, Orianna jest teraz cudem techniki w całości skonstruowanym z mechanicznych części. Po wypadku w niższych dzielnicach Zaun śmiertelnie zachorowała, a jej konające ciało musiało zostać wyjątkowo uważnie zastąpione...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10012,
@@ -2192,7 +2192,7 @@
     "title": "Ogień z Wnętrza Góry",
     "describe": "Ornn to duch Freljordu, opiekun kowali i rzemieślników. Pracuje w samotności w ogromnej kuźni wykutej w magmowych jaskiniach skrytych we wnętrzu wulkanu zwanego Palenisko. Zajmuje się podsycaniem ognia pod kotłami z płynną lawą, by uszlachetniać kruszce...",
     "roles": [
-      "Tank"
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 10136,
@@ -2213,8 +2213,8 @@
     "title": "Niezniszczalna Włócznia",
     "describe": "Atreus, niegdyś oporny nośnik Aspektu Wojny, przeżył, gdy boska moc została w nim zgładzona, i nie ugiął się pod ciosem, który zdarł gwiazdy z nieboskłonu. Z czasem otworzył się na moc własnej śmiertelności i wytrwałość, która się z nią wiąże. Teraz...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10030,
@@ -2237,8 +2237,8 @@
     "title": "Strażniczka Młota",
     "describe": "W krainie Runeterry nie brakuje dzielnych bohaterów, ale niewielu spośród nich jest tak nieustępliwych jak Poppy. Dzierżąc legendarny młot Orlona, broń dwa razy większą od niej, ta zdeterminowana Yordlka spędziła już wiele lat na poszukiwaniu mitycznego...",
     "roles": [
-      "Tank",
-      "Fighter"
+      "tank",
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 10076,
@@ -2260,8 +2260,8 @@
     "title": "Rozpruwacz z Krwawego Portu",
     "describe": "Pyke, znany harpunnik z Doków Rzezi w Bilgewater, powinien był umrzeć w żołądku ryby giganta... ale jednak powrócił. Teraz nawiedza zawilgotniałe uliczki oraz zakamarki swojego dawnego miasta i używa swych nowych nadnaturalnych darów, by nieść szybką i...",
     "roles": [
-      "Support",
-      "Assassin"
+      "support",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10124,
@@ -2282,7 +2282,7 @@
     "title": "Cesarzowa Żywiołów",
     "describe": "W położonym w dżungli mieście Ixaocan Qiyana bez skrupułów planuje własną ścieżkę na tron Yun Tal. Jest ostatnia w kolejce do odziedziczenia władzy po rodzicach, ale mierzy się ze wszystkimi na swojej drodze z bezczelną pewnością siebie i niespotykanym...",
     "roles": [
-      "Assassin"
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2304,8 +2304,8 @@
     "title": "Skrzydła Demacii",
     "describe": "Quinn to elitarna zwiadowczyni rycerstwa z Demacii, która wykonuje niebezpieczne misje głęboko na terytorium wroga. Ją i jej legendarnego orła Valora łączy wyjątkowa, nierozerwalna więź, dzięki której tworzą tak skuteczny duet, że ich przeciwnicy giną...",
     "roles": [
-      "Marksman",
-      "Assassin"
+      "marksman",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2327,7 +2327,7 @@
     "title": "Uwodziciel",
     "describe": "Równie energiczny, co czarujący, Rakan to słynny vastajański mąciciel i najwspanialszy tancerz bitewny w historii plemienia Lhotlan. Ludzie z wyżyn Ionii od dawna kojarzą jego imię z dzikimi zabawami, nieokiełznanymi imprezami i anarchistyczną muzyką...",
     "roles": [
-      "Support"
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10052,
@@ -2348,7 +2348,7 @@
     "title": "Pancerznik",
     "describe": "Idol dla wielu, wyrzutek w oczach nielicznych, i wielka tajemnica dla wszystkich. Mowa o Rammusie, osobliwym stworzeniu, będącym prawdziwą zagadką. Na temat pochodzenia tej skrywającej swoje oblicze pod kolczastą skorupą istoty istnieje wiele...",
     "roles": [
-      "Tank"
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 10064,
@@ -2369,8 +2369,8 @@
     "title": "Furia Pustki",
     "describe": "Rek'Sai to bezlitosny Pomiot Pustki, idealna drapieżniczka, kopiąca tunele pod ziemią, by chwytać i pożerać nic niepodejrzewające ofiary. Jej nienasycony głód odpowiada za zniszczenie całych regionów niegdyś wspaniałego imperium Shurimy — kupcy...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Gniew",
     "hero_id": 0,
@@ -2391,8 +2391,8 @@
     "title": "Żelazna Mścicielka",
     "describe": "Rell, produkt brutalnych eksperymentów Czarnej Róży, to zbuntowana żywa broń, której celem jest obalenie Noxusu. Jej dzieciństwo pełne było nędzy i okrucieństwa — przetrwała niewyobrażalne zabiegi mające na celu udoskonalenie oraz opanowanie jej...",
     "roles": [
-      "Tank",
-      "Support"
+      "tank",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2413,8 +2413,8 @@
     "title": "Chembaronessa",
     "describe": "Renata Glasc powstała z popiołów swego rodzinnego domu. Nie miała niczego poza nazwiskiem i alchemicznymi badaniami swoich rodziców. W ciągu kolejnych dziesięcioleci stała się najbogatszą chembaronessą w Zaun i magnatką biznesu, która zbudowała swoją...",
     "roles": [
-      "Support",
-      "Mage"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2435,8 +2435,8 @@
     "title": "Pustynny Rzeźnik",
     "describe": "Wywodzący się ze spalonych słońcem pustyń Shurimy Renekton jest przerażającym, Wyniesionym bytem, którego napędza furia. Niegdyś był wojownikiem cieszącym się największą estymą w całym imperium i prowadził armie swojego państwa ku niezliczonym wiktoriom...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Furia",
     "hero_id": 10121,
@@ -2457,8 +2457,8 @@
     "title": "Łowca",
     "describe": "Rengar to dziki vastajański łowca trofeów, który żyje dla polowań na niebezpieczne stworzenia. Przemierza świat w poszukiwaniu najstraszniejszych bestii, jakie może znaleźć. Szczególnie zależy mu na śladach Kha'Zixa, stworzenia z Pustki, które pozbawiło...",
     "roles": [
-      "Assassin",
-      "Fighter"
+      "assassin",
+      "fighter"
     ],
     "type": "Zaciekłość",
     "hero_id": 10006,
@@ -2479,8 +2479,8 @@
     "title": "Wygnaniec",
     "describe": "Kiedyś Riven była mistrzynią miecza w noxiańskim korpusie wojennym, a teraz jest wygnańcem na ziemi, którą kiedyś chciała podbić. Siła jej przekonania i brutalna efektywność zapewniły jej szybki awans i nagrodę — legendarne runiczne ostrze i własny...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Brak",
     "hero_id": 10092,
@@ -2502,8 +2502,8 @@
     "title": "Zmechanizowany Zabijaka",
     "describe": "Rumble to młody, temperamentny wynalazca. Używając tylko swoich rąk i kupy złomu, ten zadziorny Yordle zbudował ogromnego mecha, wyposażonego w arsenał elektroharpunów i rakiet zapalających. Rumble'owi nie przeszkadza, że ktoś pogardza jego tworami ze...",
     "roles": [
-      "Fighter",
-      "Mage"
+      "fighter",
+      "mage"
     ],
     "type": "Nagrzanie",
     "hero_id": 10140,
@@ -2524,7 +2524,7 @@
     "title": "Mag Run",
     "describe": "Ryze jest pradawnym, nadzwyczaj zawziętym arcymagiem, powszechnie uważanym za jednego z najznamienitszych przedstawicieli tejże profesji w świecie Runeterry. I nosi na swych barkach niewyobrażalnie ciężkie brzemię. Uzbrojony w niczym nieograniczoną...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10137,
@@ -2545,8 +2545,8 @@
     "title": "Róża Pustyni",
     "describe": "Samira z niezachwianą pewnością siebie patrzy śmierci prosto w oczy i szuka dreszczyku emocji, gdziekolwiek zmierza. Jej dom w Shurimie zniszczono, gdy była jeszcze dzieckiem. Niedługo później odkryła swoje prawdziwe powołanie w Noxusie, gdzie...",
     "roles": [
-      "Marksman",
-      "Assassin"
+      "marksman",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10104,
@@ -2567,7 +2567,7 @@
     "title": "Gniew Północy",
     "describe": "Sejuani jest brutalną, surową zrodzoną z lodu matką wojny Zimowego Szponu, jednego z najstraszniejszych plemion Freljordu. Jej ludzie toczą bój o przetrwanie z żywiołami, zmuszając ich do najeżdżania Noxian, Demacian i Avarosan, by przeżyć srogie zimy...",
     "roles": [
-      "Tank"
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2588,8 +2588,8 @@
     "title": "Odkupicielka",
     "describe": "Senna, na której od dziecka ciąży klątwa powodująca prześladowanie jej przez nadprzyrodzoną Czarną Mgłę, dołączyła do świętego zakonu o nazwie Strażnicy Światła i zawzięcie stawiała jej opór. Jednak w końcu sprowadziło to na nią śmierć, kiedy to jej...",
     "roles": [
-      "Support",
-      "Marksman"
+      "support",
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10123,
@@ -2611,8 +2611,8 @@
     "title": "Rozmarzona Piosenkarka",
     "describe": "Seraphine, urodzona w Piltover w zauńskiej rodzinie, słyszy dusze innych — świat śpiewa do niej, a ona mu odpowiada. Choć te dźwięki przytłaczały ją w młodości, teraz czerpie z nich inspirację, zamieniając chaos w symfonię. Występuje w siostrzanych...",
     "roles": [
-      "Support",
-      "Mage"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10034,
@@ -2634,8 +2634,8 @@
     "title": "Szef",
     "describe": "Sett, przywódca rozwijającego się ioniańskiego półświatka, zyskał sławę w następstwie wojny z Noxusem. Mimo że zaczynał jako skromny pretendent w nielegalnych walkach w Navori, szybko zyskał złą sławę, w czym pomogły mu jego zwierzęca siła oraz...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Zadziorność",
     "hero_id": 10068,
@@ -2656,7 +2656,7 @@
     "title": "Demoniczny Błazen",
     "describe": "Stworzony dawno temu jako zabawka dla samotnego księcia, zaczarowana marionetka Shaco czerpie przyjemność z mordowania i siania zniszczenia. Spaczony przez czarną magię i utratę ukochanego właściciela, ta kiedyś miła pacynka delektuje się tylko...",
     "roles": [
-      "Assassin"
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2679,7 +2679,7 @@
     "title": "Oko Zmierzchu",
     "describe": "Shen Oko Zmierzchu jest przywódcą pośród sekretnego zakonu wojowników znanych jako Kinkou. Pragnąc pozostać wolnym od wprowadzających zamęt emocji, uprzedzeń i ego, nieustannie stara się podążać ukrytą ścieżką chłodnego, beznamiętnego osądu pomiędzy...",
     "roles": [
-      "Tank"
+      "tank"
     ],
     "type": "Energia",
     "hero_id": 10118,
@@ -2701,8 +2701,8 @@
     "title": "Półsmok",
     "describe": "Shyvana to stworzenie, w którego sercu płonie magiczny odłamek runy. Chociaż często przybiera humanoidalną postać, w każdej chwili może zmienić się w groźnego smoka, który spopiela wrogów ognistym oddechem. Uratowawszy koronnemu księciu Jarvanowi IV...",
     "roles": [
-      "Fighter",
-      "Mage"
+      "fighter",
+      "mage"
     ],
     "type": "Furia",
     "hero_id": 10049,
@@ -2723,8 +2723,8 @@
     "title": "Szalony Chemik",
     "describe": "Singed jest genialnym alchemikiem o wątpliwej moralności, a jego eksperymenty przyprawiłyby o mdłości nawet najgorszych rzezimieszków. Sprzedaje swoje zdolności temu, kto da najwięcej, i nie interesuje go, w jaki sposób wykorzystane zostaną jego trujące...",
     "roles": [
-      "Tank",
-      "Mage"
+      "tank",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10096,
@@ -2745,8 +2745,8 @@
     "title": "Nieumarły Niszczyciel",
     "describe": "Bohater wojenny minionej epoki, Sion był czczony w Noxusie za własnoręczne uduszenie króla Demacii, lecz nie było mu dane popaść w zapomnienie — został wskrzeszony, aby mógł służyć imperium nawet po śmierci. Rzeź, którą rozpętał, pochłonęła wszystkich...",
     "roles": [
-      "Tank",
-      "Fighter"
+      "tank",
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 10125,
@@ -2768,7 +2768,7 @@
     "title": "Pani Wojny",
     "describe": "Sivir jest znaną poszukiwaczką skarbów i przywódczynią najemników, która oferuje swoje usługi na pustyniach Shurimy. Uzbrojona w legendarną, zdobioną klejnotami broń, stoczyła i wygrała niezliczoną liczbę bitew dla tych, których stać na pokrycie jej...",
     "roles": [
-      "Marksman"
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10107,
@@ -2789,8 +2789,8 @@
     "title": "Przedwieczny Suweren",
     "describe": "Starożytny, olbrzymi Brackern, Skarner, jest czczony w Ixtal jako jeden z założycieli kasty rządzącej, Yun Tal. Oddał się ochronie Ixtal przed resztą świata. Przebywa w komnacie pod Ixaocanem, gdzie wsłuchuje się w wibracje ziemi i wykrywa potencjalne...",
     "roles": [
-      "Tank",
-      "Fighter"
+      "tank",
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2811,8 +2811,8 @@
     "title": "Ognisty Podlotek",
     "describe": "Ukryty wśród skalistych klifów pogranicza Noxusu smoczy maluch uczy się pod czujnym okiem smoczycy wszystkiego, co powinien umieć dziedzic camavorskiego rodu imperialnych smoków. Psotny i bardzo pragnący dorosnąć Smolder wykorzystuje każdy pretekst, by...",
     "roles": [
-      "Marksman",
-      "Mage"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2834,8 +2834,8 @@
     "title": "Wirtuozka Strun",
     "describe": "Sona jest najprzedniejszą wirtuozką etwahlu w Demacii. Za pomocą swojego instrumentu przemawia pełnymi wdzięku akordami i niesamowitymi ariami. Dzięki swoim dystyngowanym manierom zjednała sobie serca szlachty, lecz niektórzy podejrzewają, że jej...",
     "roles": [
-      "Support",
-      "Mage"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10047,
@@ -2856,8 +2856,8 @@
     "title": "Gwiezdne Dziecko",
     "describe": "Wędrowniczka z astralnych wymiarów ponad Górą Targon, Soraka porzuciła nieśmiertelność na rzecz obrony ras śmiertelników przed ich własnymi, bardziej brutalnymi instynktami. Przemierza świat, by dzielić się cnotami współczucia i litości ze wszystkim...",
     "roles": [
-      "Support",
-      "Mage"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10097,
@@ -2878,8 +2878,8 @@
     "title": "Wielki Generał Noxusu",
     "describe": "Jericho Swain jest wizjonerskim przywódcą Noxusu, podbojowego narodu, który uznaje tylko siłę. Mimo że podczas wojen z Ionią doznał poważnego uszczerbku na zdrowiu, zarówno fizycznym — jego lewa ręka została odcięta — jak i psychicznym, udało mu się...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10126,
@@ -2901,8 +2901,8 @@
     "title": "Wyzwolony z Kajdan",
     "describe": "Wychowany w jednym z gorszych regionów Demacii, Sylas z Ochłapiska stał się symbolem mrocznej strony Wielkiego Miasta. Kiedy był chłopcem, jego zdolność do odszukiwania ukrytej magii przykuła uwagę słynnych łowców magów, którzy ostatecznie wtrącili go...",
     "roles": [
-      "Mage",
-      "Assassin"
+      "mage",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2923,7 +2923,7 @@
     "title": "Mroczna Władczyni",
     "describe": "Syndra to siejąca strach ioniańska czarodziejka, dysponująca ogromną mocą. Kiedy była dzieckiem, jej nieujarzmiona, dzika magia budziła niepokój w sercach członków starszyzny wioski. Została odesłana, by nauczyć się nad nią panować, ale z czasem odkryła...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10024,
@@ -2944,8 +2944,8 @@
     "title": "Rzeczny Król",
     "describe": "Demon Tahm Kench, znany pod wieloma innymi imionami, podróżuje drogami wodnymi Runeterry, karmiąc swój niezaspokojony głód cierpieniem innych. Choć może się wydawać niezwykle czarujący i dumny, kroczy przez fizyczny świat jak włóczęga w poszukiwaniu...",
     "roles": [
-      "Tank",
-      "Support"
+      "tank",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2967,8 +2967,8 @@
     "title": "Tkaczka Skał",
     "describe": "Taliyah to wędrowna czarodziejka z Shurimy, rozdarta pomiędzy młodzieńczym zachwytem a dorosłą odpowiedzialnością. Przemierzyła prawie cały Valoran podczas podróży, której celem jest nauka panowania nad jej rosnącymi mocami, choć ostatnio powróciła, by...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -2989,7 +2989,7 @@
     "title": "Cień Ostrza",
     "describe": "Talon jest nożem kryjącym się w ciemności, bezlitosnym zabójcą, gotowym uderzyć bez ostrzeżenia i uciec, zanim ktokolwiek się zorientuje. Zdobył niebezpieczną reputację na brutalnych ulicach Noxusu, gdzie zmuszony był walczyć, zabijać i kraść, by...",
     "roles": [
-      "Assassin"
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10128,
@@ -3011,8 +3011,8 @@
     "title": "Tarcza Valoranu",
     "describe": "Taric jest Aspektem Protektora, obdarzonym niezwykłą mocą strażnikiem życia, miłości i piękna na Runeterze. Zniesławiony za porzucenie obowiązków i wygnany z Demacii, swojej ojczyzny, wspiął się na Górę Targon, aby znaleźć odkupienie, ale zamiast tego...",
     "roles": [
-      "Support",
-      "Tank"
+      "support",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -3034,8 +3034,8 @@
     "title": "Chyży Zwiadowca",
     "describe": "Nie bacząc na najbardziej niebezpieczne przeszkody, Teemo przemierza świat z niekończącym się entuzjazmem i radością. Jako Yordle z niezachwianym poczuciem moralności, jest dumny z przestrzegania Kodeksu Harcerza Bandle, czasami do takiego stopnia, że...",
     "roles": [
-      "Marksman",
-      "Mage"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10046,
@@ -3057,8 +3057,8 @@
     "title": "Strażnik Łańcuchów",
     "describe": "Sadystyczny i przebiegły Thresh jest ambitnym, a zarazem niespokojnym widmem Wysp Cienia. Niegdyś był opiekunem niezliczonych magicznych tajemnic, jednak został zniszczony przez moce potężniejsze niż życie czy śmierć — a teraz istnieje tylko dzięki...",
     "roles": [
-      "Support",
-      "Tank"
+      "support",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 10130,
@@ -3079,8 +3079,8 @@
     "title": "Dumna Kanonierka",
     "describe": "Inni Yordlowie wykorzystują własną energię, by być odkrywcami, wynalazcami lub po prostu psotnikami. Tristanę zawsze pociągały przygody wielkich wojowników. Słyszała wiele o Runeterze, jej frakcjach oraz wojnach i wierzyła, że tacy jak ona też mogą stać...",
     "roles": [
-      "Marksman",
-      "Assassin"
+      "marksman",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10045,
@@ -3101,8 +3101,8 @@
     "title": "Król Trolli",
     "describe": "Trundle to duży i przebiegły troll o prawdziwie podłych tendencjach, zmusi wszystko do kapitulacji — nawet sam Freljord. Zawzięcie broni swojego terytorium, więc dopadnie każdego głupca, który na nie wkroczy. Potem, z pomocą swojej maczugi z Prawdziwego...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -3124,8 +3124,8 @@
     "title": "Król Barbarzyńców",
     "describe": "Napędzany nieokiełznanym gniewem, Tryndamere kiedyś przeszedł przez cały Freljord, otwarcie wyzywając do walki najlepszych wojowników północy, by przygotować się na nadchodzące czarne dni. Ten gniewny barbarzyńca od dawien dawna chciał zemścić się za...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Furia",
     "hero_id": 10015,
@@ -3147,8 +3147,8 @@
     "title": "Mistrz Kart",
     "describe": "Twisted Fate to niesławny szuler i oszust, który wszystko, co chce, zdobywa hazardem i urokiem. Zapracował sobie przez to zarówno na wrogość, jak i podziw bogatych i głupich. Rzadko kiedy zachowuje powagę, witając każdy dzień prześmiewczym uśmieszkiem i...",
     "roles": [
-      "Mage",
-      "Marksman"
+      "mage",
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10025,
@@ -3169,8 +3169,8 @@
     "title": "Szczur Zarazy",
     "describe": "Zauński szczur zarazy z urodzenia, lecz koneser obrzydlistw z pasji, Twitch nie boi ubrudzić sobie łap. Wymierza swoją zasilaną chemikaliami kuszę w złocone serce Piltover i przysięga dowieść wszystkim w mieście wyżej, jak bardzo są plugawi. Zawsze...",
     "roles": [
-      "Marksman",
-      "Assassin"
+      "marksman",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10053,
@@ -3192,8 +3192,8 @@
     "title": "Duchowy Wędrowca",
     "describe": "Udyr, najpotężniejszy z żyjących duchowych wędrowców, obcuje ze wszystkimi widmami Freljordu — czy to poprzez empatyczne zrozumienie ich potrzeb, czy też kierowanie i przekształcanie ich eterycznej energii w swój własny, pierwotny styl walki. Szuka...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -3215,8 +3215,8 @@
     "title": "Motor Agonii",
     "describe": "Dawno temu potężny noxiański kat o imieniu Urgot został zdradzony przez imperium, w którego służbie odebrał tak wiele żyć. Skuty żelaznymi kajdanami zmuszony był poznać prawdziwą siłę w Czeluści, więziennej kopalni głęboko pod Zaun. Uwolniony w wyniku...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 10102,
@@ -3237,8 +3237,8 @@
     "title": "Strzała Odkupienia",
     "describe": "Varus, jeden ze starożytnych Darkinów, był śmiertelnie niebezpiecznym zabójcą, który uwielbiał gnębić ofiary, doprowadzając je do granic szaleństwa przed wykończeniem ich za pomocą strzał. Został uwięziony pod koniec Wielkiej Wojny Darkinów, ale wiele...",
     "roles": [
-      "Marksman",
-      "Mage"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10093,
@@ -3259,8 +3259,8 @@
     "title": "Nocna Łowczyni",
     "describe": "Shauna Vayne, pochodząca z Demacii, to bezlitosna łowczyni potworów, która poprzysięgła, że zniszczy demona, który wymordował jej rodzinę. Uzbrojona w przymocowaną do nadgarstka kuszę, z sercem wypełnionym żądzą zemsty, odnajduje szczęście jedynie w...",
     "roles": [
-      "Marksman",
-      "Assassin"
+      "marksman",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10010,
@@ -3281,7 +3281,7 @@
     "title": "Panicz Zła",
     "describe": "Entuzjastyczny mistrz czarnej magii, Veigar poznał moce, z którymi niewielu śmiertelników chce się zaznajomić. Jako niezależny mieszkaniec Bandle City, chciał wyjść poza granice yordlowej magii, więc zaczął zajmować się magicznymi wolumenami, które...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10122,
@@ -3303,8 +3303,8 @@
     "title": "Oko Pustki",
     "describe": "Nie wiadomo czy Vel'Koz był pierwszym Pomiotem Pustki, który pojawił się w Runeterze, ale na pewno żaden inny Pomiot nie doścignął poziomu jego chłodnego, wykalkulowanego rozumowania świata. Choć jego pobratymcy pożerają lub profanują wszystko wokół, on...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -3326,7 +3326,7 @@
     "title": "Ponuraczka",
     "describe": "W czarnym sercu Wysp Cienia samotna Yordlka brnie przez widmową mgłę zadowolona ze swojej mrocznej niedoli. Vex dysponuje bezbrzeżnymi pokładami nastoletniego buntu i potężnym cieniem, z których pomocą chce wykroić dla siebie kawałek mroku z dala od...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10141,
@@ -3347,8 +3347,8 @@
     "title": "Stróż Prawa z Piltover",
     "describe": "Wychowana na niebezpiecznych ulicach Zaun Vi jest impulsywną, gwałtowną i nieustraszoną kobietą, niemającą zbyt wielkiego szacunku do władz. Jej przebiegłość od zawsze pozwalała jej przetrwać, czy to podczas jej młodzieńczych wybryków, czy...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10050,
@@ -3369,8 +3369,8 @@
     "title": "Zniszczony Król",
     "describe": "Viego był władcą dawno zapomnianego królestwa, który zginął ponad tysiąc lat temu, gdy podczas próby przywrócenia do życia zmarłej żony spowodował magiczną katastrofę zwaną Zrujnowaniem. On sam przemienił się w potężnego, nieumarłego upiora nękanego...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Brak",
     "hero_id": 10057,
@@ -3392,7 +3392,7 @@
     "title": "Herold Arcane",
     "describe": "Po przejściu ewolucji i staniu się w pełni biomechanicznym tworem Viktor uznał wspaniałość Wielkiej Ewolucji i dla swoich wyznawców stał się kimś w rodzaju mesjasza. Poświęcił własne człowieczeństwo, aby dowieść logiki, zgodnie z którą wyzbycie się...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10144,
@@ -3413,8 +3413,8 @@
     "title": "Krwiożerczy Żniwiarz",
     "describe": "Potwór pragnący krwi śmiertelników, Vladimir wpływa na sprawy Noxusu od zarania imperium. Poza nienaturalnym wydłużaniem swojego życia, jego mistrzowskie władanie krwią pozwala mu na kontrolowanie umysłów i ciał innych, jakby były jego własnymi...",
     "roles": [
-      "Mage",
-      "Fighter"
+      "mage",
+      "fighter"
     ],
     "type": "Krwiożerczy Pęd",
     "hero_id": 10090,
@@ -3436,8 +3436,8 @@
     "title": "Bezlitosny Grom",
     "describe": "Ci, którzy wciąż czczą Volibeara, uznają go za uosobienie burzy. Ten niszczycielski, dziki i niewzruszony stwór istniał, zanim śmiertelnicy postawili stopę we freljordzkiej tundrze i z dzikością broni krainy, którą stworzył wraz ze swoimi półboskimi...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 10058,
@@ -3459,8 +3459,8 @@
     "title": "Rozkiełznany Gniew Zaun",
     "describe": "Warwick to potwór, który poluje w mrocznych zaułkach Zaun. Przeszedł przemianę w wyniku bolesnych eksperymentów, a jego ciało połączyło się ze skomplikowanym systemem pomp i zbiorników, które wypełniają go alchemicznym gniewem. Kryjąc się w cieniach...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 10131,
@@ -3482,7 +3482,7 @@
     "title": "Buntowniczka",
     "describe": "Niebezpieczna i dokładna Xayah to vastajańska rewolucjonistka, która toczy prywatną wojnę, aby ocalić swój lud. Wykorzystuje swoją szybkość, przebiegłość i ostre jak brzytwa ostrza, aby pozbyć się każdego, kto stanie jej na drodze. Xayah walczy u boku...",
     "roles": [
-      "Marksman"
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10051,
@@ -3503,8 +3503,8 @@
     "title": "Wyniesiony Mag",
     "describe": "Xerath jest Wyniesionym Magiem ze starożytnej Shurimy, istotą o tajemnej energii, żyjącą wśród wirujących szczątków magicznego sarkofagu. Przez tysiące lat uwięziony był pod piaskami pustyni, lecz odrodzenie Shurimy uwolniło go z prastarego więzienia...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -3526,8 +3526,8 @@
     "title": "Seneszal Demacii",
     "describe": "Xin Zhao jest stanowczym wojownikiem lojalnym panującej Dynastii Promiennej Tarczy. Kiedyś skazany na walkę jako gladiator na noxiańskich arenach, przetrwał niezliczone ilości pojedynków, a gdy został wyzwolony przez siły Demacii, przysiągł wieczną...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 10016,
@@ -3548,8 +3548,8 @@
     "title": "Pokutnik",
     "describe": "Yasuo, Ioniańczyk o wielkiej determinacji, jest zwinnym szermierzem, który używa wiatru przeciwko wrogom. Kiedy był dumnym młodzieńcem, niesłusznie oskarżono go o zamordowanie mistrza. Jako że nie mógł dowieść swojej niewinności, przyszło mu zabić...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Płynność",
     "hero_id": 10037,
@@ -3571,8 +3571,8 @@
     "title": "Wiecznie Żywy",
     "describe": "Za życia był Yone — przybranym bratem Yasuo i szanowanym uczniem w pobliskiej szkole miecza. Jednak po śmierci z rąk brata nawiedziła go złowroga istota, którą zmuszony był zgładzić przy użyciu jej własnego miecza. Teraz Yone, przeklęty i zmuszony do...",
     "roles": [
-      "Fighter",
-      "Assassin"
+      "fighter",
+      "assassin"
     ],
     "type": "Płynność",
     "hero_id": 10069,
@@ -3594,8 +3594,8 @@
     "title": "Pasterz Dusz",
     "describe": "Yorick, ostatni ocalały z dawno zapomnianego zakonu religijnego, jest zarówno błogosławiony, jak i przeklęty mocą władania nad nieumarłymi. Tkwi uwięziony na Wyspach Cienia, a jego jedynymi towarzyszami są gnijące zwłoki i wyjące upiory, które gromadzi...",
     "roles": [
-      "Fighter",
-      "Tank"
+      "fighter",
+      "tank"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -3616,8 +3616,8 @@
     "title": "Magiczna Kotka",
     "describe": "Yuumi, magiczna kotka z Bandle City, była niegdyś chowańcem yordlowej czarodziejki, Norry. Gdy jej pani zniknęła w tajemniczych okolicznościach, Yuumi stała się Strażniczką żywej Księgi Wrót Norry, podróżując przez portale na jej stronach w poszukiwaniu...",
     "roles": [
-      "Support",
-      "Mage"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10020,
@@ -3638,8 +3638,8 @@
     "title": "Tajna Broń",
     "describe": "Zac powstał w wyniku kontaktu toksycznego szlamu z chemtechem, który następnie osiadł w jaskini w głębi slumsów Zaun. Mimo takich narodzin Zac ewoluował z prymitywnego szlamu w istotę myślącą, która zamieszkuje kanalizację miejską, co jakiś czas...",
     "roles": [
-      "Tank",
-      "Fighter"
+      "tank",
+      "fighter"
     ],
     "type": "Brak",
     "hero_id": 0,
@@ -3661,7 +3661,7 @@
     "title": "Władca Cieni",
     "describe": "Całkowicie bezwzględny i pozbawiony litości, Zed jest przywódcą Zakonu Cienia, czyli organizacji, którą stworzył, kierując się zmilitaryzowaniem sztuk walki Ionii, by wypędzić noxiańskich najeźdźców. Podczas wojny desperacja sprawiła, że odnalazł...",
     "roles": [
-      "Assassin"
+      "assassin"
     ],
     "type": "Energia",
     "hero_id": 10039,
@@ -3684,7 +3684,7 @@
     "title": "Iskierka Zaun",
     "describe": "Zeri — nieustępliwa, charakterna młoda kobieta wywodząca się z klasy robotniczej Zaun — korzysta ze swojej elektrycznej magii, aby ładować samą siebie i swoją niestandardową, stworzoną specjalnie dla niej broń. Jej niestabilna moc odzwierciedla jej...",
     "roles": [
-      "Marksman"
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10067,
@@ -3705,7 +3705,7 @@
     "title": "Hextechowy Saper",
     "describe": "Yordle Ziggs, miłośnik dużych bomb i krótkich lontów, jest chodzącym wybuchowym kataklizmem. Będąc asystentem wynalazcy w Piltover, stał się znudzony swoim przepełnionym rutyną życiem, więc zaprzyjaźnił się z szaloną niebieskowłosą wariatką z bombami...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10087,
@@ -3726,8 +3726,8 @@
     "title": "Strażnik Czasu",
     "describe": "Kiedyś potężny mag z Icathii, Zilean zaczął niezdrowo fascynować się upływem czasu, po tym jak był świadkiem zniszczeń, jakie dokonała Pustka na jego ojczyźnie. Nie mogąc poświęcić nawet minuty, by opłakać tę katastrofalną stratę, przywołał starożytną...",
     "roles": [
-      "Support",
-      "Mage"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 0,
@@ -3749,7 +3749,7 @@
     "title": "Aspekt Zmierzchu",
     "describe": "Jako uosobienie psotliwości, wyobraźni i zmiany, Zoe jest kosmicznym posłańcem Targonu, który zwiastuje ważne wydarzenia zmieniające całe światy. Sama jej obecność zakrzywia prawa fizyki, co czasami prowadzi do kataklizmów, lecz nie jest to zamierzone...",
     "roles": [
-      "Mage"
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10014,
@@ -3770,8 +3770,8 @@
     "title": "Wiedźma Cierni",
     "describe": "Urodzona w starożytnej, magicznej katastrofie, Zyra jest uosobieniem gniewu. Natura nadała jej kształt powabnej hybrydy rośliny i człowieka, która sieje życie z każdym krokiem. Postrzega śmiertelników Valoranu jako coś trochę lepszego od nawozu dla jej...",
     "roles": [
-      "Mage",
-      "Support"
+      "mage",
+      "support"
     ],
     "type": "Mana",
     "hero_id": 10063,
