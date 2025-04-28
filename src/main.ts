@@ -3,7 +3,7 @@ import { mkdirSync, readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 import { LANE_MAPPING, NO_WR_LANE } from './constant.js';
 import { EditedHero, HeroData } from './types/cnApi.js';
-import { Lanes, MergedChamp } from './types/merged.js';
+import { Lanes, MergedChamp, Roles } from './types/merged.js';
 import { ChampionData, DDPatchList } from './types/riotApi';
 import { Config } from './types/type.js';
 
@@ -122,7 +122,7 @@ function createBaseChampion(champion: ChampionData['data'][string]): Partial<Mer
     name: champion.name,
     title: champion.title,
     describe: champion.blurb,
-    roles: champion.tags,
+    roles: champion.tags.map((tag) => tag.toLowerCase() as Roles),
     type: champion.partype,
   };
 }
