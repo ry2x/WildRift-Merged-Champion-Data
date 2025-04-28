@@ -1,6 +1,6 @@
 # WildRift Merged Champion Data API
 
-> English version is from [here](https://github.com/ry2x/WildRift-Merged-Champion-Data/blob/master/readme.md)
+> English version is from [here](https://github.com/ry2x/WildRift-Merged-Champion-Data/blob/master/readme_en.md)
 
 League of Legends: Wild RiftとLeague of Legendsのチャンピオンデータを統合したAPIです。
 毎日自動的にデータが更新され、複数の言語をサポートしています✨
