@@ -123,8 +123,8 @@
     "hero_id": 10082,
     "is_wr": true,
     "lanes": [
-      "jungle",
-      "top"
+      "top",
+      "jungle"
     ],
     "is_free": false,
     "difficult": 3,
