@@ -1167,8 +1167,8 @@
     "title": "Protecteur du futur",
     "describe": "Jayce Talis est un inventeur de génie qui, aux côtés de son ami Viktor, a fait les premières grandes découvertes dans le domaine de l'Hextech. Reconnu dans tout Piltover, il s'efforce d'être à la hauteur de sa réputation d'« Homme du progrès », mais les...",
     "roles": [
-      "marksman",
-      "fighter"
+      "fighter",
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10101,
@@ -1786,8 +1786,8 @@
     "title": "Fine lame Wuju",
     "describe": "Maître Yi a renforcé son corps et affûté son esprit jusqu'à ce que réflexion et action ne fassent plus qu'un. Bien qu'il ne fasse appel à la violence qu'en dernier recours, la grâce et la vitesse avec lesquelles il manie son épée assurent une résolution...",
     "roles": [
-      "assassin",
-      "fighter"
+      "fighter",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10070,
@@ -1920,8 +1920,8 @@
     "title": "Déchue",
     "describe": "Déchirée entre ses origines célestes et mortelles, Morgana a enchaîné ses ailes pour appartenir pleinement à l'humanité et abattre sa peine et sa rancœur sur les corrompus et les malhonnêtes. Elle rejette les lois et les traditions qu'elle juge injustes...",
     "roles": [
-      "mage",
-      "support"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10028,
@@ -3603,6 +3603,25 @@
     "lanes": [
       "top"
     ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Yunara",
+    "key": 804,
+    "name": "Yunara",
+    "title": "Foi inébranlable",
+    "describe": "Par son dévouement inébranlable envers Ionia, Yunara a passé des siècles retirée dans le royaume spirituel pour perfectionner sa maîtrise des Aion Er'na, une relique légendaire du Kinkou. Malgré tous les sacrifices qu'elle a accomplis, Yunara a su...",
+    "roles": [
+      "marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
     "is_free": false,
     "difficult": 0,
     "damage": 0,

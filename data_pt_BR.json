@@ -1167,8 +1167,8 @@
     "title": "o Defensor do Amanhã",
     "describe": "Jayce Talis é um inventor brilhante que, ao lado do amigo Viktor, fez as primeiras grandes descobertas no campo da tecnologia hextec. Glorificado em Piltover, ele tenta fazer jus à reputação de ''Homem do Progresso'', mas costuma sofrer com as...",
     "roles": [
-      "marksman",
-      "fighter"
+      "fighter",
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10101,
@@ -1786,8 +1786,8 @@
     "title": "o Espadachim Wuju",
     "describe": "Master Yi treinou seu corpo e afiou sua mente para que pensamento e ação se tornassem quase um só. Embora ele prefira recorrer à violência como último recurso, a leveza e a velocidade de sua espada garantem uma resolução sempre veloz. Como um dos...",
     "roles": [
-      "assassin",
-      "fighter"
+      "fighter",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10070,
@@ -1920,8 +1920,8 @@
     "title": "a Caída",
     "describe": "Dividida entre sua natureza mortal e celestial, Morgana prendeu as asas para preservar sua humanidade e inflige sua dor e amargura nos desonestos e corruptos. Ela rejeita as leis e tradições que considera injustas e luta pela verdade nas sombras de...",
     "roles": [
-      "mage",
-      "support"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10028,
@@ -3603,6 +3603,25 @@
     "lanes": [
       "top"
     ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Yunara",
+    "key": 804,
+    "name": "Yunara",
+    "title": "a Fé Inabalável",
+    "describe": "Com uma fé inabalável em Ionia, Yunara passou séculos isolada no Reino Espiritual treinando com Aion Er'na, uma lendária relíquia Kinkou. Apesar dos sacrifícios, o juramento de Yunara de varrer o desequilíbrio e os conflitos das terras ionianas...",
+    "roles": [
+      "marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
     "is_free": false,
     "difficult": 0,
     "damage": 0,

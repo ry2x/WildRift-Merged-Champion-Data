@@ -1167,8 +1167,8 @@
     "title": "Obrońca Jutra",
     "describe": "Jayce Talis to wybitny wynalazca, który wraz ze swoim przyjacielem Viktorem dokonał pierwszych wielkich odkryć w dziedzinie hextechu. Celebrowany w całym Piltover Jayce stara się sprostać swojej reputacji „Człowieka Postępu”, choć często zmaga się z...",
     "roles": [
-      "marksman",
-      "fighter"
+      "fighter",
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10101,
@@ -1786,8 +1786,8 @@
     "title": "Szermierz Wuju",
     "describe": "Master Yi tak długo trenował ciało i umysł, że myśli i działanie niemal stały się jednością. Mimo że woli używać siły tylko w ostateczności, zwinność i szybkość, z jakimi posługuje się ostrzem, sprawiają, że konflikt zawsze kończy się szybko. Jako jedna...",
     "roles": [
-      "assassin",
-      "fighter"
+      "fighter",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10070,
@@ -1920,8 +1920,8 @@
     "title": "Upadła",
     "describe": "Rozdarta pomiędzy naturą astralną a naturą śmiertelniczki, Morgana związała swoje skrzydła, by otworzyć ramiona na ludzkość, i zadaje wszystkim nieszczerym i zwyrodniałym ból, jaki sama odczuwa. Odrzuca prawa i tradycje, o których myśli, że są...",
     "roles": [
-      "mage",
-      "support"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10028,
@@ -3603,6 +3603,25 @@
     "lanes": [
       "top"
     ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Yunara",
+    "key": 804,
+    "name": "Yunara",
+    "title": "Niezłomna Wiara",
+    "describe": "Yunara, niewzruszona w swoim oddaniu Ionii, przez wieki była odizolowana od świata i zamknięta w wymiarze duchowym, gdzie doskonaliła swoje umiejętności posługiwania się Aion Er'na – legendarnym reliktem Kinkou. Pomimo wielu poświęceń, których musiała...",
+    "roles": [
+      "marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
     "is_free": false,
     "difficult": 0,
     "damage": 0,

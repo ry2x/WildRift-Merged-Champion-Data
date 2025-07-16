@@ -1167,8 +1167,8 @@
     "title": "the Defender of Tomorrow",
     "describe": "Jayce Talis is a brilliant inventor who, along with his friend Viktor, made the first great discoveries in the field of hextech. Celebrated across Piltover, he tries to live up to his reputation as \"the Man of Progress,\" but often struggles with the...",
     "roles": [
-      "marksman",
-      "fighter"
+      "fighter",
+      "marksman"
     ],
     "type": "Mana",
     "hero_id": 10101,
@@ -1786,8 +1786,8 @@
     "title": "the Wuju Bladesman",
     "describe": "Master Yi has tempered his body and sharpened his mind, so that thought and action have become almost as one. Though he chooses to enter into violence only as a last resort, the grace and speed of his blade ensures resolution is always swift. As one of...",
     "roles": [
-      "assassin",
-      "fighter"
+      "fighter",
+      "assassin"
     ],
     "type": "Mana",
     "hero_id": 10070,
@@ -1920,8 +1920,8 @@
     "title": "the Fallen",
     "describe": "Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity, and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from...",
     "roles": [
-      "mage",
-      "support"
+      "support",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10028,
@@ -3603,6 +3603,25 @@
     "lanes": [
       "top"
     ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Yunara",
+    "key": 804,
+    "name": "Yunara",
+    "title": "the Unbroken Faith",
+    "describe": "Unwavering in her devotion to Ionia, Yunara has spent centuries cloistered away in the spirit realm honing her skills with the Aion Er'na, a legendary Kinkou relic. Despite all she has sacrificed, Yunara's vow to rid the land of disharmony and strife...",
+    "roles": [
+      "marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
     "is_free": false,
     "difficult": 0,
     "damage": 0,

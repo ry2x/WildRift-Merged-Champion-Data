@@ -1167,8 +1167,8 @@
     "title": "El Defensor del Mañana",
     "describe": "Jayce Talis es un brillante inventor que, junto a su amigo Viktor, realizó grandes hallazgos en el campo de la tecnología hextech. Con el reconocimiento de todo Piltover, intenta estar a la altura de su reputación como \"el hombre del progreso\"; sin...",
     "roles": [
-      "marksman",
-      "fighter"
+      "fighter",
+      "marksman"
     ],
     "type": "Maná",
     "hero_id": 10101,
@@ -1786,8 +1786,8 @@
     "title": "El Espadachín Wuju",
     "describe": "Maestro Yi ha atemperado su cuerpo y agudizado su mente, de modo que el pensamiento y la acción se han convertido casi en uno. Aunque elige emplear la violencia solo como último recurso, la gracia y la velocidad de su espada aseguran que el final...",
     "roles": [
-      "assassin",
-      "fighter"
+      "fighter",
+      "assassin"
     ],
     "type": "Maná",
     "hero_id": 10070,
@@ -1920,8 +1920,8 @@
     "title": "la Caída",
     "describe": "En vistas del conflicto entre su naturaleza celestial y su naturaleza mortal, Morgana decidió atarse las alas para aceptar la humanidad y deja caer el peso de su dolor y rencor sobre los deshonestos y los corruptos. Se opone a las leyes y tradiciones...",
     "roles": [
-      "mage",
-      "support"
+      "support",
+      "mage"
     ],
     "type": "Maná",
     "hero_id": 10028,
@@ -3603,6 +3603,25 @@
     "lanes": [
       "top"
     ],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Yunara",
+    "key": 804,
+    "name": "Yunara",
+    "title": "la Fe Inquebrantable",
+    "describe": "Yunara, fiel a su devoción por Jonia, ha pasado siglos encerrada en el reino espiritual perfeccionando su destreza con el Aion Er'na, una legendaria reliquia kinkou. A pesar de todo lo que ha sacrificado, la promesa de Yunara de librar a su pueblo de la...",
+    "roles": [
+      "marksman"
+    ],
+    "type": "Maná",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
     "is_free": false,
     "difficult": 0,
     "damage": 0,
