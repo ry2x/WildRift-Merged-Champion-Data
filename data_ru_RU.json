@@ -81,7 +81,7 @@
     "lanes": [
       "mid"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
@@ -275,17 +275,17 @@
       "assassin"
     ],
     "type": "Мана",
-    "hero_id": 0,
-    "is_wr": false,
+    "hero_id": 10085,
+    "is_wr": true,
     "lanes": [
-      "mid",
-      "top"
+      "top",
+      "mid"
     ],
     "is_free": false,
-    "difficult": 0,
-    "damage": 0,
-    "survive": 0,
-    "utility": 0
+    "difficult": 3,
+    "damage": 3,
+    "survive": 1,
+    "utility": 1
   },
   {
     "id": "Azir",
@@ -616,7 +616,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
@@ -1773,7 +1773,7 @@
       "top",
       "support"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 1,
     "damage": 2,
     "survive": 2,
@@ -2269,7 +2269,7 @@
     "lanes": [
       "support"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -2598,7 +2598,7 @@
       "ad",
       "support"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 2,
     "survive": 1,
@@ -2688,7 +2688,7 @@
       "top",
       "jungle"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 2,
     "survive": 3,
@@ -3044,7 +3044,7 @@
       "top",
       "mid"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 1,
     "damage": 3,
     "survive": 1,
@@ -3400,7 +3400,7 @@
     "lanes": [
       "mid"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
@@ -3469,7 +3469,7 @@
       "jungle",
       "top"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 1,
     "damage": 2,
     "survive": 2,
@@ -3490,7 +3490,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
