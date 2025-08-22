@@ -320,16 +320,16 @@
       "mage"
     ],
     "type": "มานา",
-    "hero_id": 0,
-    "is_wr": false,
+    "hero_id": 10105,
+    "is_wr": true,
     "lanes": [
       "support"
     ],
     "is_free": false,
-    "difficult": 0,
-    "damage": 0,
-    "survive": 0,
-    "utility": 0
+    "difficult": 2,
+    "damage": 1,
+    "survive": 1,
+    "utility": 3
   },
   {
     "id": "Belveth",
@@ -480,7 +480,7 @@
       "top",
       "jungle"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 3,
     "damage": 3,
     "survive": 2,
@@ -1132,7 +1132,7 @@
       "jungle",
       "top"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 1,
     "damage": 2,
     "survive": 2,
@@ -1353,7 +1353,7 @@
     "lanes": [
       "mid"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
@@ -2090,7 +2090,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
@@ -2224,7 +2224,7 @@
       "jungle",
       "mid"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 1,
     "damage": 3,
     "survive": 2,
@@ -2269,7 +2269,7 @@
     "lanes": [
       "support"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -2466,7 +2466,7 @@
     "lanes": [
       "jungle"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -2598,7 +2598,7 @@
       "ad",
       "support"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 2,
     "survive": 1,
@@ -3690,7 +3690,7 @@
       "top",
       "jungle"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
@@ -3711,7 +3711,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
