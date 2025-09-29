@@ -391,7 +391,7 @@
       "mid",
       "support"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -457,7 +457,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 1,
     "damage": 3,
     "survive": 1,
@@ -571,7 +571,7 @@
       "top",
       "jungle"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 2,
@@ -616,7 +616,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
@@ -729,7 +729,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -751,7 +751,7 @@
     "lanes": [
       "jungle"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -1177,7 +1177,7 @@
       "top",
       "mid"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
@@ -1931,7 +1931,7 @@
       "mid",
       "jungle"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 1,
     "damage": 2,
     "survive": 1,
@@ -2335,7 +2335,7 @@
     "lanes": [
       "support"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 1,
     "survive": 2,
@@ -2444,7 +2444,7 @@
     "lanes": [
       "top"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 1,
     "damage": 2,
     "survive": 2,
@@ -2532,7 +2532,7 @@
     "lanes": [
       "mid"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -2843,7 +2843,7 @@
     "lanes": [
       "support"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 1,
     "damage": 2,
     "survive": 1,
@@ -2998,7 +2998,7 @@
       "mid",
       "jungle"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -3044,7 +3044,7 @@
       "top",
       "mid"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 1,
     "damage": 3,
     "survive": 1,
@@ -3066,7 +3066,7 @@
     "lanes": [
       "support"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 3,
     "damage": 1,
     "survive": 2,
@@ -3179,7 +3179,7 @@
       "ad",
       "jungle"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -3334,7 +3334,7 @@
     "lanes": [
       "mid"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 2,
     "survive": 2,
@@ -3446,7 +3446,7 @@
       "top",
       "jungle"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 1,
     "damage": 2,
     "survive": 3,
@@ -3558,7 +3558,7 @@
       "mid",
       "top"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
