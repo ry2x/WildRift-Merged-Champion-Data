@@ -3651,6 +3651,26 @@
     "utility": 3
   },
   {
+    "id": "Zaahen",
+    "key": 904,
+    "name": "Zaahen",
+    "title": "El Impertérrito",
+    "describe": "Zaahen es un dios caído que esgrime un poder divino y profano. Da caza a sus hermanos Oscuros mientras se enfrenta a la corrupción que amenaza con consumirlo. Antaño, accedió voluntariamente a que lo sellaran en el interior de su guja para frenar el...",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Maná",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Zac",
     "key": 154,
     "name": "Zac",

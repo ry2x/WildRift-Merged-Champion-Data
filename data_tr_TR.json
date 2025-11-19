@@ -3651,6 +3651,26 @@
     "utility": 3
   },
   {
+    "id": "Zaahen",
+    "key": 904,
+    "name": "Zaahen",
+    "title": "Daimi",
+    "describe": "Hem ulvi hem de melun bir güç taşıyan düşmüş ilah Zaahen, darkin kardeşlerini avlayarak kendisini tüketmeye ant içmiş bir yozlaşmaya karşı savaşıyor. Bir zamanlar deliliği önlemek için kendi isteğiyle mızrağına hapsolan Zaahen, asil ve kararlı yüreğiyle...",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Zac",
     "key": 154,
     "name": "Zac",

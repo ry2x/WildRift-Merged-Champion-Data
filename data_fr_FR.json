@@ -3651,6 +3651,26 @@
     "utility": 3
   },
   {
+    "id": "Zaahen",
+    "key": 904,
+    "name": "Zaahen",
+    "title": "Incorruptible",
+    "describe": "Dieu déchu maniant à la fois le divin et l'impie, Zaahen traque ses frères et sœurs Darkin tout en résistant à la corruption qui menace de le consumer. Autrefois scellé volontairement dans son glaive pour ne pas succomber à la folie, il est désormais...",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Zac",
     "key": 154,
     "name": "Zac",

@@ -3651,6 +3651,26 @@
     "utility": 3
   },
   {
+    "id": "Zaahen",
+    "key": 904,
+    "name": "薩亨",
+    "title": "不滅冥聖",
+    "describe": "薩亨是同時操弄神聖與褻瀆之力的墮落神祇，一邊獵殺其他冥血族，一邊抵抗隨時準備吞噬他的腐化。他曾自願把自己封印在大刀之中以抵抗瘋狂。如今他已重獲自由，內心高貴，目的卻無比殘忍。薩亨的內心上演著一場永恆的戰爭。但只要他繼續壓抑忍耐，他就絕不會與那些企圖摧毀符文大地的人同流合污。",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "魔力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Zac",
     "key": 154,
     "name": "札克",

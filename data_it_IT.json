@@ -3651,6 +3651,26 @@
     "utility": 3
   },
   {
+    "id": "Zaahen",
+    "key": 904,
+    "name": "Zaahen",
+    "title": "L'interminabile",
+    "describe": "Un dio caduto che possiede poteri divini e profani, Zaahen dà la caccia ad altri Darkin mentre resiste alla corruzione che potrebbe distruggerlo. In passato si fece imprigionare volontariamente nel suo falcione per sfuggire alla follia, ma ora è a piede...",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Zac",
     "key": 154,
     "name": "Zac",
