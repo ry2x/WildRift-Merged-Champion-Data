@@ -2258,7 +2258,7 @@
     "key": 555,
     "name": "Pyke",
     "title": "el Destripador de los Puertos",
-    "describe": "A Pyke, un conocido arponero de los muelles del matadero de Aguas Estancadas, le esperaba la muerte en el estómago de una gigantesca criatura marina... y sin embargo, regresó. Desde entonces acecha en los fríos y húmedos callejones y caminos de la que...",
+    "describe": "A Pyke, un conocido arponero de los Muelles del Matadero de Aguas Estancadas, le esperaba la muerte en el estómago de una gigantesca criatura marina... y sin embargo, regresó. Desde entonces acecha en los fríos y húmedos callejones y caminos de la que...",
     "roles": [
       "support",
       "assassin"
@@ -3675,7 +3675,7 @@
     "key": 154,
     "name": "Zac",
     "title": "El Arma Secreta",
-    "describe": "Zac es el resultado de un vertido tóxico que recorría una veta tecnoquímica y fue a parar a una profunda caverna apartada en el sumidero de Zaun. A pesar de sus humildes orígenes, Zac ha pasado de ser un flujo primitivo a un ser pensante que habita en...",
+    "describe": "Zac es el resultado de un vertido tóxico que recorría una veta tecnoquímica y fue a parar a una profunda caverna apartada en el Sumidero de Zaun. A pesar de sus humildes orígenes, Zac ha pasado de ser un flujo primitivo a un ser pensante que habita en...",
     "roles": [
       "tank",
       "fighter"
