@@ -1,7 +1,7 @@
 {
   "name": "wildrift-merged-champion-data",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "main": "node ./dist/main.js",
     "test": "tsx ./src/main.ts",
