@@ -3,3 +3,4 @@ out
 dist/types
 .vscode
 .eslintcache
+dist/**.d.ts
