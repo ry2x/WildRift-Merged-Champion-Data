@@ -1,5 +1,5 @@
 {
-  "name": "@ry2x/wildrift-merged-champion-types",
+  "name": "wildrift-merged-champion-types",
   "description": "Type definitions for WildRift Merged Champion Data",
   "version": "1.0.0",
   "main": "",
