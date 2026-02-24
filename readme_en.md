@@ -1,7 +1,12 @@
 # WildRift Merged Champion Data API
 
+[![npm version](https://img.shields.io/npm/v/wildrift-merged-champion-types.svg)](https://www.npmjs.com/package/wildrift-merged-champion-types)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An API that integrates champion data from League of Legends: Wild Rift and League of Legends.
 Automatically updates daily with support for multiple languages ✨
+
+A type definition package is also available on npm: [wildrift-merged-champion-types](https://www.npmjs.com/package/wildrift-merged-champion-types).
 
 ## Overview
 
@@ -14,7 +19,7 @@ This API integrates data from the following sources:
 
 ### Base URL
 
-```
+```url
 https://ry2x.github.io/WildRift-Merged-Champion-Data
 ```
 
@@ -22,7 +27,7 @@ https://ry2x.github.io/WildRift-Merged-Champion-Data
 
 Get champion data in various languages ✨
 
-```
+```url
 GET /data_{lang}.json
 ```
 
