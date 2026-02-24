@@ -12,36 +12,44 @@ on:
 env:
   CI: true
 
+permissions:
+  contents: write
+
 jobs:
   publish-data:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      # Step 1
-      - name: checkout code
-        uses: actions/checkout@v3
-      # Step 2
+      # Step 1: Checkout repository
+      - name: Checkout code
+        uses: actions/checkout@v4
+      # Step 2: Set up Node.js
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: '24'
       # Step 2.1: Setup pnpm
       - name: Setup pnpm
-        uses: pnpm/action-setup@v2
+        uses: pnpm/action-setup@v4
         with:
-          version: 8
-      # Step 2.2: Install dependencies
+          version: 10
+      # Step 2.2: Install production dependencies only (dist/ is pre-built and committed)
       - name: Install dependencies
         run: pnpm install --production
-      # Step 3: Run the JavaScript script from dist/ directory
+      # Step 3: Run the JavaScript script from dist/ directory (retry up to 3 times)
       - name: Run script
-        run: node dist/main.js || node dist/main.js || node dist/main.js
-      # Step 4: Push public/ to gh-pages
-      - name: Push public/ to gh-pages and Deploy pages to Github Pages
         run: |
-          git config user.name $GITHUB_ACTOR
-          git config user.email $GITHUB_ACTOR@users.noreply.github.com
-          git remote add gh-pages-remote https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
+          for i in 1 2 3; do
+            node dist/main.js && break || echo "Attempt $i failed, retrying..."
+          done
+      # Step 4: Push public/ to gh-pages branch and deploy
+      - name: Deploy to GitHub Pages
+        run: |
+          git config user.name "$GITHUB_ACTOR"
+          git config user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          # Add remote if not exists, otherwise update URL (safe for re-runs)
+          git remote add gh-pages-remote https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git \
+            || git remote set-url gh-pages-remote https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
           git fetch --no-recurse-submodules
           # Set up worktree and deploy
           git worktree add ./gh-pages gh-pages || true
@@ -49,9 +57,9 @@ jobs:
           git rm -r .
           cp -r ../public/. .
           git add .
-          # Is there change?
-          if git diff --quiet HEAD; then
-              echo "No changes detected Skipping push."
+          # Check for staged changes before committing
+          if git diff --cached --quiet; then
+              echo "No changes detected. Skipping push."
               exit 0
           fi
           git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
