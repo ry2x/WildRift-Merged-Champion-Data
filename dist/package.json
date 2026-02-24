@@ -1,8 +1,11 @@
 {
   "name": "wildrift-merged-champion-types",
   "description": "Type definitions for WildRift Merged Champion Data",
-  "repository": "https://github.com/ry2x/WildRift-Merged-Champion-Data",
-  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ry2x/WildRift-Merged-Champion-Data.git"
+  },
+  "version": "1.0.1",
   "main": "",
   "types": "./types/merged.d.ts",
   "author": "ry2x",
