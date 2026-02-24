@@ -28,11 +28,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '24'
-      # Step 2.1: Setup pnpm
+      # Step 2.1: Setup pnpm (version is auto-detected from packageManager in package.json)
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
-        with:
-          version: 10
       # Step 2.2: Install production dependencies only (dist/ is pre-built and committed)
       - name: Install dependencies
         run: pnpm install --production
