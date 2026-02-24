@@ -1,0 +1,12 @@
+{
+  "name": "@ry2x/wildrift-merged-champion-types",
+  "description": "Type definitions for WildRift Merged Champion Data",
+  "version": "1.0.0",
+  "main": "",
+  "types": "./types/merged.d.ts",
+  "author": "ry2x",
+  "license": "MIT",
+  "files": [
+    "./types/merged.d.ts"
+  ]
+}
