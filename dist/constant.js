@@ -1,6 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.NO_WR_LANE = exports.LANE_MAPPING = void 0;
+/**
+ * The mapping of lane names from CN API to the corresponding Lanes type.
+ */
 exports.LANE_MAPPING = {
     中路: 'mid',
     打野: 'jungle',
@@ -8,6 +11,9 @@ exports.LANE_MAPPING = {
     辅助: 'support',
     射手: 'ad',
 };
+/**
+ * The mapping of lanes for champions that are not available in Wild Rift.
+ */
 exports.NO_WR_LANE = {
     Anivia: ['mid'],
     Aphelios: ['ad'],
