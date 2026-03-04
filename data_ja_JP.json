@@ -388,7 +388,7 @@
       "mid",
       "support"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -568,7 +568,7 @@
       "top",
       "jungle"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 2,
@@ -702,7 +702,7 @@
     "lanes": [
       "jungle"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 2,
     "survive": 2,
@@ -880,7 +880,7 @@
     "lanes": [
       "top"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 3,
     "damage": 2,
     "survive": 3,
@@ -903,7 +903,7 @@
       "jungle",
       "top"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 2,
     "survive": 3,
@@ -1192,7 +1192,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -1235,7 +1235,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -1390,7 +1390,7 @@
     "lanes": [
       "jungle"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 2,
@@ -1650,7 +1650,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -1965,7 +1965,7 @@
     "lanes": [
       "support"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 2,
     "survive": 1,
@@ -2123,7 +2123,7 @@
     "lanes": [
       "jungle"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 1,
     "survive": 3,
@@ -2523,7 +2523,7 @@
       "mid",
       "top"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -2545,7 +2545,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 2,
@@ -2889,7 +2889,7 @@
     "key": 517,
     "name": "サイラス",
     "title": "解き放たれし者",
-    "describe": "デマーシアの貧しい地域に育ったドレグボーンのサイラスは、この大都市の闇を象徴する存在となった。少年期の彼には隠れた魔力を発見する才能があり、それゆえに悪名高きメイジ狩りに重用されていた。だがある時、その力をメイジ狩りたちに向けて用いたために投獄されてしまった。やがて脱獄に成功した彼は、今では強硬派の革命家となり、周囲の魔力を盗み取って自分がかつて仕えた王国を破壊しようとしている──そして彼に従う追放されたメイジたちの数は、日を追うごとに増えているのだ。",
+    "describe": "デマーシアの貧しい地域に育ったドレグボーンのサイラスは、この大都の闇を象徴する存在となった。少年期の彼には隠れた魔力を発見する才能があり、それゆえに悪名高きメイジ狩りに重用されていた。だがある時、その力をメイジ狩りたちに向けて用いたために投獄されてしまった。やがて脱獄に成功した彼は、今では強硬派の革命家となり、周囲の魔力を盗み取って自分がかつて仕えた王国を破壊しようとしている──そして彼に従う追放されたメイジたちの数は、日を追うごとに増えているのだ。",
     "roles": [
       "mage",
       "assassin"
@@ -3034,7 +3034,7 @@
       "top",
       "mid"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 1,
     "damage": 3,
     "survive": 1,
@@ -3056,7 +3056,7 @@
     "lanes": [
       "support"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 3,
     "damage": 1,
     "survive": 2,
@@ -3323,7 +3323,7 @@
     "lanes": [
       "mid"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 2,
     "survive": 2,
@@ -3368,7 +3368,7 @@
       "jungle",
       "top"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
@@ -3699,7 +3699,7 @@
       "mid",
       "jungle"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
@@ -3807,7 +3807,7 @@
       "support",
       "mid"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
