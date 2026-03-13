@@ -103,7 +103,7 @@
     "lanes": [
       "support"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 1,
     "damage": 1,
     "survive": 3,
@@ -126,7 +126,7 @@
       "top",
       "jungle"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
@@ -388,7 +388,7 @@
       "mid",
       "support"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -477,7 +477,7 @@
       "top",
       "jungle"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 3,
     "damage": 3,
     "survive": 2,
@@ -568,7 +568,7 @@
       "top",
       "jungle"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 2,
@@ -880,7 +880,7 @@
     "lanes": [
       "top"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 3,
     "damage": 2,
     "survive": 3,
@@ -924,7 +924,7 @@
     "lanes": [
       "jungle"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 2,
@@ -1147,7 +1147,7 @@
       "jungle",
       "top"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 2,
@@ -1235,7 +1235,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -1390,7 +1390,7 @@
     "lanes": [
       "jungle"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 2,
@@ -1650,7 +1650,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -1802,16 +1802,16 @@
       "support"
     ],
     "type": "魔力",
-    "hero_id": 0,
-    "is_wr": false,
+    "hero_id": 10139,
+    "is_wr": true,
     "lanes": [
       "mid"
     ],
     "is_free": false,
-    "difficult": 0,
-    "damage": 0,
-    "survive": 0,
-    "utility": 0
+    "difficult": 2,
+    "damage": 2,
+    "survive": 2,
+    "utility": 2
   },
   {
     "id": "Milio",
@@ -1965,7 +1965,7 @@
     "lanes": [
       "support"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 2,
     "survive": 1,
@@ -2545,7 +2545,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 2,
@@ -2589,7 +2589,7 @@
       "ad",
       "support"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 2,
     "survive": 1,
@@ -2878,7 +2878,7 @@
       "support",
       "top"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 2,
     "survive": 2,
@@ -3235,7 +3235,7 @@
     "lanes": [
       "ad"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
@@ -3323,7 +3323,7 @@
     "lanes": [
       "mid"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 2,
     "survive": 2,
@@ -3368,7 +3368,7 @@
       "jungle",
       "top"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
@@ -3547,7 +3547,7 @@
       "mid",
       "top"
     ],
-    "is_free": false,
+    "is_free": true,
     "difficult": 3,
     "damage": 3,
     "survive": 1,
@@ -3807,7 +3807,7 @@
       "support",
       "mid"
     ],
-    "is_free": true,
+    "is_free": false,
     "difficult": 2,
     "damage": 3,
     "survive": 1,
