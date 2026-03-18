@@ -2693,7 +2693,7 @@
     "describe": "Shyvana, kalbinde yanan rün parçasının büyüsünü taşıyan bir yaratık. Sık sık insansı bir şekle bürünse de gerçek biçimi olan korkunç bir ejderhaya dönüşerek alevden nefesiyle düşmanlarını küle çevirebiliyor. Tahtın vârisi Jarvan IV'ün hayatını kurtaran...",
     "roles": [
       "fighter",
-      "mage"
+      "tank"
     ],
     "type": "Öfke",
     "hero_id": 10049,

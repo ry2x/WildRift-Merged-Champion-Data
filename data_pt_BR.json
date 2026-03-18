@@ -2690,10 +2690,10 @@
     "key": 102,
     "name": "Shyvana",
     "title": "a Meio-Dragão",
-    "describe": "Shyvana é uma criatura com a mágica de um fragmento de runa queimando em seu coração. Apesar de normalmente parecer humanoide, ela pode mudar para sua forma verdadeira de um temível dragão, incinerando seus inimigos com seu sopro de chamas. Depois de...",
+    "describe": "Shyvana é uma criatura que carrega a magia de um fragmento de runa ardente no peito. Embora mantenha sua forma humanoide na maior parte do tempo, ela também pode assumir sua verdadeira forma: a de um temível dragão capaz de incinerar os inimigos com...",
     "roles": [
       "fighter",
-      "mage"
+      "tank"
     ],
     "type": "Fúria",
     "hero_id": 10049,

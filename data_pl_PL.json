@@ -2690,10 +2690,10 @@
     "key": 102,
     "name": "Shyvana",
     "title": "Półsmok",
-    "describe": "Shyvana to stworzenie, w którego sercu płonie magiczny odłamek runy. Chociaż często przybiera humanoidalną postać, w każdej chwili może zmienić się w groźnego smoka, który spopiela wrogów ognistym oddechem. Uratowawszy koronnemu księciu Jarvanowi IV...",
+    "describe": "Shyvana to stworzenie, w którego sercu płonie magiczny odłamek runy. Chociaż często przybiera humanoidalną postać, w każdej chwili może zmienić się w groźnego smoka, który spopiela wrogów ognistym oddechem. Uratowawszy życie następcy tronu, Jarvanowi IV...",
     "roles": [
       "fighter",
-      "mage"
+      "tank"
     ],
     "type": "Furia",
     "hero_id": 10049,

@@ -2689,11 +2689,11 @@
     "id": "Shyvana",
     "key": 102,
     "name": "Shyvana",
-    "title": "La Medio Dragón",
-    "describe": "Shyvana es una criatura con la magia de un fragmento de runa incandescente alojada en lo más profundo de su corazón. Pese a que su aspecto más común es el de humana, su verdadera forma es la de una feroz dragona capaz de reducir a sus enemigos a cenizas...",
+    "title": "la Medio Dragón",
+    "describe": "Shyvana es una criatura con la magia de un fragmento de runa incandescente alojado en lo más profundo de su corazón. Pese a que su aspecto más común es el de humana, su verdadera forma es la de una feroz dragona capaz de reducir a sus enemigos a cenizas...",
     "roles": [
       "fighter",
-      "mage"
+      "tank"
     ],
     "type": "Furia",
     "hero_id": 10049,

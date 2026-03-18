@@ -2690,10 +2690,10 @@
     "key": 102,
     "name": "Shyvana",
     "title": "Demi-dragon",
-    "describe": "Shyvana est une créature dont le cœur palpite au rythme brûlant d'un éclat de rune magique. Bien qu'elle paraisse souvent humanoïde, elle peut se transformer à volonté en un terrifiant dragon, crachant des flammes sur ses ennemis. Après avoir sauvé la...",
+    "describe": "Shyvana est une créature dont le cœur palpite au rythme brûlant d'un éclat de rune magique. Bien qu'elle paraisse souvent humanoïde, elle peut se transformer à volonté en un terrifiant dragon, crachant des flammes sur ses ennemis. Depuis qu'elle a sauvé...",
     "roles": [
       "fighter",
-      "mage"
+      "tank"
     ],
     "type": "Fureur",
     "hero_id": 10049,

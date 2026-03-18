@@ -2690,10 +2690,10 @@
     "key": 102,
     "name": "Shyvana",
     "title": "il mezzo-drago",
-    "describe": "Shyvana è una creatura il cui cuore brucia grazie alla fierezza di un frammento runico al suo interno. Per quanto spesso appaia in forma umanoide, può assumere il suo vero aspetto di terrificante drago e incenerire i nemici con il suo alito infuocato...",
+    "describe": "Shyvana è una creatura il cui cuore brucia grazie alla magia di un frammento runico al suo interno. Per quanto spesso appaia in forma umanoide, può assumere il suo vero aspetto di terrificante drago e incenerire i nemici con il suo alito infuocato. Dopo...",
     "roles": [
       "fighter",
-      "mage"
+      "tank"
     ],
     "type": "Furia",
     "hero_id": 10049,

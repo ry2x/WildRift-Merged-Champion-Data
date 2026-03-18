@@ -2690,10 +2690,10 @@
     "key": 102,
     "name": "Shyvana",
     "title": "der Halbdrache",
-    "describe": "Shyvana ist eine Kreatur, deren Magie von einem Runensplitter herrührt, der in ihrem Herzen lodert. Obwohl sie häufig ihre menschliche Form annimmt, kann sie sich jederzeit in einen furchterregenden Drachen verwandeln und ihre Gegner mit ihrem...",
+    "describe": "Shyvana ist eine Kreatur, deren Magie von einem in ihrem Herzen lodernden Runensplitter herrührt. Obwohl sie häufig ihre menschliche Gestalt annimmt, kann sie sich jederzeit in einen furchterregenden Drachen verwandeln und ihre Gegner mit ihrem...",
     "roles": [
       "fighter",
-      "mage"
+      "tank"
     ],
     "type": "Zorn",
     "hero_id": 10049,
