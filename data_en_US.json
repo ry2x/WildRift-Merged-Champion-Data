@@ -1635,6 +1635,26 @@
     "utility": 3
   },
   {
+    "id": "Locke",
+    "key": 805,
+    "name": "Locke",
+    "title": "the Ashen Exorcist",
+    "describe": "A nail-slinging exorcist versed in forbidden rites, Corvin Locke is the progeny of Demacian occultists. Born into lies and hypocrisy, he learned young that demons aren't the cause of humanity's darkness, but the consequence. Now, Locke tears through...",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Lucian",
     "key": 236,
     "name": "Lucian",

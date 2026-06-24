@@ -1635,6 +1635,26 @@
     "utility": 3
   },
   {
+    "id": "Locke",
+    "key": 805,
+    "name": "Locke",
+    "title": "l'esorcista cinereo",
+    "describe": "Corvin Locke, armato di chiodi e discendente di una famiglia di occultisti demaciani, è un esorcista esperto di riti proibiti. Nato tra bugie e ipocrisia, ha imparato presto che i demoni non sono la causa dell'oscurità dell'umanità, ma la sua...",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Lucian",
     "key": 236,
     "name": "Lucian",

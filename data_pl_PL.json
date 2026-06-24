@@ -1635,6 +1635,26 @@
     "utility": 3
   },
   {
+    "id": "Locke",
+    "key": 805,
+    "name": "Locke",
+    "title": "Popielny Egzorcysta",
+    "describe": "Corvin Locke, ciskający gwoździami egzorcysta znający zakazane rytuały, jest potomkiem demaciańskich okultystów. Urodzony wśród kłamstw i hipokryzji, już w młodym wieku zrozumiał, że demony nie są przyczyną mroku panującego wśród ludzi — lecz jego...",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Lucian",
     "key": 236,
     "name": "Lucian",

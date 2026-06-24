@@ -1635,6 +1635,26 @@
     "utility": 3
   },
   {
+    "id": "Locke",
+    "key": 805,
+    "name": "Locke",
+    "title": "der aschfahle Exorzist",
+    "describe": "Corvin Locke ist ein nägelschleudernder Exorzist, der in verbotenen Riten bewandert und der Spross demacianischer Okkultisten ist. Er wurde in Lügen und Heuchelei hineingeboren und lernte schon in jungen Jahren, dass Dämonen nicht die Ursache für die...",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Lucian",
     "key": 236,
     "name": "Lucian",
