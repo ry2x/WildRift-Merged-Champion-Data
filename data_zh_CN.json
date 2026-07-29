@@ -1087,6 +1087,1197 @@
     "utility": 0
   },
   {
+    "id": "Jade_Ahri",
+    "key": 60103,
+    "name": "九尾妖狐",
+    "title": "阿狸",
+    "describe": "- 摄魂夺魄(被动)可在对敌人造成伤害时叠加层数<br>- 灵魄突袭(R)不会重置",
+    "roles": [
+      "mage",
+      "assassin"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Alistar",
+    "key": 60012,
+    "name": "牛头酋长",
+    "title": "阿利斯塔",
+    "describe": "- 践踏(被动)和凯旋怒吼(E)互换<br>- 可出法术强度装备<br>- 可走单人路",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Amumu",
+    "key": 60032,
+    "name": "殇之木乃伊",
+    "title": "阿木木",
+    "describe": "- 绷带牵引(Q)没有额外充能<br>- 诅咒之触(被动)只会在普通攻击时降低魔法抗性",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Anivia",
+    "key": 60034,
+    "name": "冰晶凤凰",
+    "title": "艾尼维亚",
+    "describe": "- 霜寒刺骨(E)没有冰冷被动<br>- 冰川风暴(R)的减速同样会影响攻击速度",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Annie",
+    "key": 60001,
+    "name": "黑暗之女",
+    "title": "安妮",
+    "describe": "- 安妮阵亡时，提伯斯(R)也会死亡<br>- 嗜火(被动)层数在阵亡时会重置<br>- 熔岩护盾(E)不提供移动速度",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ashe",
+    "key": 60022,
+    "name": "寒冰射手",
+    "title": "艾希",
+    "describe": "- 冰霜射击(Q)可激活或关闭普通攻击减速效果<br>- 专注(被动)在脱战时积攒暴击<br>- 鹰击长空(E)在造成击杀时提供额外金币",
+    "roles": [
+      "marksman",
+      "support"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Blitzcrank",
+    "key": 60053,
+    "name": "蒸汽机器人",
+    "title": "布里茨",
+    "describe": "- 静电力场(R)会被动电击附近的敌人",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Brand",
+    "key": 60063,
+    "name": "复仇焰魂",
+    "title": "布兰德",
+    "describe": "- 烈焰焚身(被动)不触发爆炸",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Chogath",
+    "key": 60031,
+    "name": "虚空恐惧",
+    "title": "科加斯",
+    "describe": "- 盛宴(R)最多可叠加6层，被击杀时会失去层数，但可以通过任何目标叠加<br>- 恐惧之刺(E)可激活或关闭穿透敌人的尖刺效果",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Corki",
+    "key": 60042,
+    "name": "英勇投弹手",
+    "title": "库奇",
+    "describe": "- 磷光炸弹(Q)会立即爆炸",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_DrMundo",
+    "key": 60036,
+    "name": "祖安狂人",
+    "title": "蒙多医生",
+    "describe": "- 痛苦燃烧(W)可激活或关闭围绕自身的范围伤害效果<br>- 潜能激发(E)是持续一段时间的增益效果，而非一次性的攻击技能<br>- 肾上腺激素(被动)会随时间回复生命值",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "无",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Evelynn",
+    "key": 60028,
+    "name": "寡妇制造者",
+    "title": "伊芙琳",
+    "describe": "- 技能组完全不同。阅读描述<br>- 是战士而非刺客",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ezreal",
+    "key": 60081,
+    "name": "探险家",
+    "title": "伊泽瑞尔",
+    "describe": "- 精华跃动(W)会穿过所有单位，对敌人造成伤害，并为友军提供攻击速度<br>- 精准弹幕(R)每命中一个敌人，造成的伤害降低",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Fiddlesticks",
+    "key": 60009,
+    "name": "末日使者",
+    "title": "费德提克",
+    "describe": "- 除了终极技能群鸦风暴(R)外，技能完全不同<br>- 费德提克的恐惧效果会让敌人随机走动",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Gangplank",
+    "key": 60041,
+    "name": "海洋之灾",
+    "title": "普朗克",
+    "describe": "- 加农炮幕(R)现在是在范围内的随机位置落下炮弹，而不是持续稳定地造成范围伤害<br>- 鼓舞士气(E)无论是被动还是主动施放，都会提升移动速度和攻击力<br>- 枪火谈判(Q)现在提供金币(不再提供银蛇币)",
+    "roles": [
+      "fighter"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Garen",
+    "key": 60086,
+    "name": "德玛西亚之力",
+    "title": "盖伦",
+    "describe": "- 德玛西亚正义(R)造成魔法伤害",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "无",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Gragas",
+    "key": 60079,
+    "name": "酒桶",
+    "title": "古拉加斯",
+    "describe": "- 滚动酒桶(Q)无论在地面上停留多久，都会造成全额伤害<br>- 醉酒狂暴(W)可长时间持续",
+    "roles": [
+      "fighter",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Heimerdinger",
+    "key": 60074,
+    "name": "大发明家",
+    "title": "黑默丁格",
+    "describe": "- 技能看起来相似，但实际上大不相同<br>- 升级！！！(R)是持续一定时间的增益，而非一次性的技能效果<br>- H-28G进化炮台(Q)会在全地图范围内生效，但当黑默丁格阵亡时会被摧毁",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Janna",
+    "key": 60040,
+    "name": "风暴之怒",
+    "title": "迦娜",
+    "describe": "- 顺风而行(被动)提供全地图移动速度加成",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_JarvanIV",
+    "key": 60059,
+    "name": "德玛西亚皇子",
+    "title": "嘉文四世",
+    "describe": "- 天崩地裂(R)为单体技能<br>- 德邦军旗(E)被动提供护甲",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Jax",
+    "key": 60024,
+    "name": "武器大师",
+    "title": "贾克斯",
+    "describe": "- 宗师之威(R)每次攻击都会提供可叠加攻击速度<br>- 武器专精(被动)根据战力提升生命值",
+    "roles": [
+      "fighter"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Karthus",
+    "key": 60030,
+    "name": "死亡颂唱者",
+    "title": "卡尔萨斯",
+    "describe": "- 死者永远不会改变",
+    "roles": [
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Kassadin",
+    "key": 60038,
+    "name": "虚空行者",
+    "title": "卡萨丁",
+    "describe": "- 能量脉冲(E)需要在他周围施放6次技能后才能施放<br>- 虚空行走(R)最多可叠加10层<br>- 虚空之石(被动)会将抵挡的部分魔法伤害转化为攻击速度",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Katarina",
+    "key": 60055,
+    "name": "不祥之刃",
+    "title": "卡特琳娜",
+    "describe": "- 弹射之刃(Q)会对敌人造成伤害并标记，卡特琳娜可以用技能或攻击来消耗该标记以造成额外魔法伤害。<br>- 不祥之刃(W)会在卡特琳娜周围造成伤害，并且如果此技能命中了一个英雄就会提升她的移动速度。<br>- 瞬步(E)造成伤害并闪烁至目标处；之后这个技能会为卡特琳娜提供伤害减免。",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "无",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Kayle",
+    "key": 60010,
+    "name": "审判天使",
+    "title": "凯尔",
+    "describe": "- 除了神圣祝福(W)外，技能完全不同<br>- 她的攻击不会随等级提升而改变<br>- 神圣狂热(被动)会将攻击力转化为法术强度，法术强度也会转化为攻击力",
+    "roles": [
+      "mage",
+      "marksman"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_KogMaw",
+    "key": 60096,
+    "name": "深渊巨口",
+    "title": "克格莫",
+    "describe": "- 腐蚀唾液(Q)为点选型技能",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_LeeSin",
+    "key": 60064,
+    "name": "盲僧",
+    "title": "李青",
+    "describe": "- 没有什么能扰乱他的均衡",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "能量",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Leona",
+    "key": 60089,
+    "name": "曙光女神",
+    "title": "蕾欧娜",
+    "describe": "- 在人类的一生中，太阳从未改变，她亦如是",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Lulu",
+    "key": 60117,
+    "name": "仙灵女巫",
+    "title": "璐璐",
+    "describe": "- 闪耀长枪(Q)的多个弹体无法对同一目标造成伤害",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Lux",
+    "key": 60099,
+    "name": "光辉女郎",
+    "title": "拉克丝",
+    "describe": "- 光之束缚(Q)对第二个目标效果减半",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Malphite",
+    "key": 60054,
+    "name": "熔岩巨兽",
+    "title": "墨菲特",
+    "describe": "- 残暴打击(W)的顺劈为被动效果，并在激活时提升他的伤害",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Malzahar",
+    "key": 60090,
+    "name": "虚空先知",
+    "title": "玛尔扎哈",
+    "describe": "- 虚无地带(W)在短时间内制造一片范围伤害区域<br>- 召唤虚灵(被动)在施放一定次数后生成一个虚灵<br>- 冥府之握(R)不会在目标周围生成虚空禁域",
+    "roles": [
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_MasterYi",
+    "key": 60011,
+    "name": "无极剑圣",
+    "title": "易",
+    "describe": "- 无极剑道(E)被动提升攻击力，激活时提升效果翻倍<br>- 双重打击(被动)为概率触发<br>- 阿尔法突袭(Q)结束位移后无法指定方向",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_MissFortune",
+    "key": 60021,
+    "name": "赏金猎人",
+    "title": "厄运小姐",
+    "describe": "- 大步流星(被动)从W技能移除<br>- 黑枪射击(W)被动每次命中造成魔法伤害，主动效果则会提升攻击速度并施加重伤。",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Morgana",
+    "key": 60025,
+    "name": "堕落天使",
+    "title": "莫甘娜",
+    "describe": "- 蒙面之女不会改变",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nasus",
+    "key": 60075,
+    "name": "沙漠死神",
+    "title": "内瑟斯",
+    "describe": "- 死神降临(R)会暂时将一部分魔法伤害转化为攻击力",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nidalee",
+    "key": 60076,
+    "name": "狂野女猎手",
+    "title": "奈德丽",
+    "describe": "- 美洲狮形态(R)不会在开局时获得1级<br>- 寻觅(被动)狩猎被动效果移除<br>- 丛林伏击(W)造成巨量伤害",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nunu",
+    "key": 60020,
+    "name": "雪人骑士",
+    "title": "努努",
+    "describe": "- 血之沸腾(W)提升攻击速度和移动速度<br>- 冰雹(E)会发射单个指向性雪球<br>- 吞噬(Q)无法对英雄使用，但会根据吞噬的目标获得增益<br>- 法术幻想(被动)每进行5次普通攻击，则下一个技能不消耗法力值——努努和威朗普是两位角色，所以会多一行介绍",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Olaf",
+    "key": 60002,
+    "name": "狂战士",
+    "title": "奥拉夫",
+    "describe": "- 残暴打击(W)提供攻击力、生命偷取和法术吸血<br>- 鲁莽挥击(E)不会治疗生命值消耗",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Pantheon",
+    "key": 60080,
+    "name": "战争之王",
+    "title": "潘森",
+    "describe": "- 圣盾庇护(被动)在多次施放技能后格挡伤害<br>- 堕天一击(R)造成圆形范围伤害<br>- 穿心长矛(E) - 潘森会站在原地发动攻击",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Rammus",
+    "key": 60033,
+    "name": "披甲龙龟",
+    "title": "拉莫斯",
+    "describe": "- 地动山摇(R)会在他周围多次造成群体伤害<br>- 其他技能都没问题",
+    "roles": [
+      "tank"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ryze",
+    "key": 60013,
+    "name": "流浪法师",
+    "title": "瑞兹",
+    "describe": "- 技能又完全不同了(已经是第五次了)",
+    "roles": [
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Shaco",
+    "key": 60035,
+    "name": "恶魔小丑",
+    "title": "萨科",
+    "describe": "- 幻像(R)分身爆炸时造成更高伤害，但不会生成惊吓魔盒<br>- 惊吓魔盒(W)现在可以放置在更近距离",
+    "roles": [
+      "assassin"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Singed",
+    "key": 60027,
+    "name": "炼金术士",
+    "title": "辛吉德",
+    "describe": "- 强化壁垒(被动)会随着法力值提升生命值",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sion",
+    "key": 60014,
+    "name": "亡灵勇士",
+    "title": "赛恩",
+    "describe": "- 技能完全不同。阅读描述<br>- 赛恩可以出法术强度和攻击力装备<br>- 输出型英雄，而非坦克",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sivir",
+    "key": 60015,
+    "name": "战争女神",
+    "title": "希维尔",
+    "describe": "- 弹射(W)可激活或关闭随机弹射攻击<br>- 法术护盾(E)触发时获得法力值而非生命值",
+    "roles": [
+      "marksman"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Skarner",
+    "key": 60072,
+    "name": "水晶先锋",
+    "title": "斯卡纳",
+    "describe": "- 技能完全不同<br>- 成为战士和普通攻击英雄<br>- 晶状毒刺(R)成为单体点选型技能",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sona",
+    "key": 60037,
+    "name": "琴瑟仙女",
+    "title": "娑娜",
+    "describe": "- 基础技能的光环效果会持续生效<br>- 能量和弦(被动)会造成额外伤害<br>- 狂舞终乐章(R)的范围更广",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Soraka",
+    "key": 60016,
+    "name": "众星之子",
+    "title": "索拉卡",
+    "describe": "- 除终极技能祈愿(R)之外，其他技能完全不同<br>- 可走单人路<br>- 拥有点选型沉默效果",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Taric",
+    "key": 60044,
+    "name": "宝石骑士",
+    "title": "塔里克",
+    "describe": "- 技能完全不同。阅读描述<br>- 可走单人路，也可以尝试打野",
+    "roles": [
+      "support",
+      "tank"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Teemo",
+    "key": 60017,
+    "name": "迅捷斥候",
+    "title": "提莫",
+    "describe": "- 种蘑菇(R)不会弹跳",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Tristana",
+    "key": 60018,
+    "name": "麦林炮手",
+    "title": "崔丝塔娜",
+    "describe": "- 爆炸射击(E)成为持续伤害技能",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Tryndamere",
+    "key": 60023,
+    "name": "蛮族之王",
+    "title": "泰达米尔",
+    "describe": "- 他发起怒来实在太可怕了，以至于我们不敢改动他。",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "怒气",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_TwistedFate",
+    "key": 60004,
+    "name": "卡牌大师",
+    "title": "崔斯特",
+    "describe": "- 传送之门(E)是全图传送<br>- 命运(R)是全图减速和显形<br>- 灌铅骰子(被动)在击杀时为所有队友和自身提供金币",
+    "roles": [
+      "mage",
+      "marksman"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Twitch",
+    "key": 60029,
+    "name": "瘟疫之源",
+    "title": "图奇",
+    "describe": "- 衰弱毒药(W)是以他为中心的范围伤害技能<br>- 隐秘伏击(Q)持续时间最长可达50秒<br>- 毁灭印记(E)会移除敌人身上的中毒层数",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Vayne",
+    "key": 60067,
+    "name": "暗夜猎手",
+    "title": "薇恩",
+    "describe": "- 终极时刻(R)无法延长",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Veigar",
+    "key": 60045,
+    "name": "邪恶小法师",
+    "title": "维迦",
+    "describe": "- 黑暗祭祀(Q)为指向性技能<br>- 扭曲空间(E)为瞬发技能<br>- 均衡(被动)的法力回复会根据已损失法力值提升",
+    "roles": [
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Warwick",
+    "key": 60019,
+    "name": "嗜血猎手",
+    "title": "沃里克",
+    "describe": "- 技能完全不同<br>- 无尽束缚(R)为点选型压制技能",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Wukong",
+    "key": 60062,
+    "name": "齐天大圣",
+    "title": "",
+    "describe": "",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Zilean",
+    "key": 60026,
+    "name": "时光守护者",
+    "title": "基兰",
+    "describe": "- 定时炸弹(Q)为点选型技能<br>- 强化学习(被动)为全队提供经验",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "法力",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Janna",
     "key": 40,
     "name": "风暴之怒",

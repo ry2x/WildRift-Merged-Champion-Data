@@ -1087,6 +1087,1197 @@
     "utility": 0
   },
   {
+    "id": "Jade_Ahri",
+    "key": 60103,
+    "name": "Ahri",
+    "title": "Lisica o Dziewięciu Ogonach",
+    "describe": "— Kradzież Esencji (B) jest kumulowana przy zadawaniu obrażeń wrogom<br>— Widmowa Szarża (R) się nie resetuje",
+    "roles": [
+      "mage",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Alistar",
+    "key": 60012,
+    "name": "Alistar",
+    "title": "Minotaur",
+    "describe": "— Tratowanie (B) i Triumfalny Ryk (E) zostały zamienione miejscami<br>— Może budować moc umiejętności<br>— Może grać w solowej alei",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Amumu",
+    "key": 60032,
+    "name": "Amumu",
+    "title": "Smutna Mumia",
+    "describe": "— Rzut Bandażem (Q) nie ma dodatkowych ładunków<br>— Przeklęty Dotyk (B) zmniejsza odporność na magię tylko przy atakach podstawowych",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Anivia",
+    "key": 60034,
+    "name": "Anivia",
+    "title": "Kriofeniks",
+    "describe": "— Odmrożenie (E) nie ma biernego efektu oblodzenia<br>— Spowolnienie Burzy Lodu (R) wpływa również na prędkość ataku",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Annie",
+    "key": 60001,
+    "name": "Annie",
+    "title": "Dziecko Ciemności",
+    "describe": "— Tibbers (R) ginie, gdy umiera Annie<br>— Ładunki Piromanii (B) resetują się po śmierci<br>— Płonąca Tarcza (E) nie zapewnia prędkości ruchu",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ashe",
+    "key": 60022,
+    "name": "Ashe",
+    "title": "Lodowa Łuczniczka",
+    "describe": "— Lodowy Strzał (Q) aktywuje spowalniające ataki podstawowe<br>— Skupienie (B) kumuluje trafienia krytyczne poza walką<br>— Sokole Oko (E) zapewnia dodatkowe złoto przy zabójstwie",
+    "roles": [
+      "marksman",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Blitzcrank",
+    "key": 60053,
+    "name": "Blitzcrank",
+    "title": "Wielki Golem Parowy",
+    "describe": "— Efekt bierny Pola Statycznego (R) razi pobliskich wrogów.",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Brand",
+    "key": 60063,
+    "name": "Brand",
+    "title": "Płomień Zemsty",
+    "describe": "— Eksplozje W Płomieniach (B) nie następują",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Chogath",
+    "key": 60031,
+    "name": "Cho'Gath",
+    "title": "Postrach Pustki",
+    "describe": "— Uczta (R) kumuluje się maks. 6 razy, ładunki są tracone przy zabójstwie, ale można je kumulować na wszystkim<br>— Migbłystalne Kolce (E) przełączają kolce, które przebijają graczy",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Corki",
+    "key": 60042,
+    "name": "Corki",
+    "title": "Dzielny Bombardier",
+    "describe": "— Bomba Fosforowa (Q) to natychmiastowa eksplozja",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_DrMundo",
+    "key": 60036,
+    "name": "Dr Mundo",
+    "title": "Szaleniec z Zaun",
+    "describe": "— Agonia Ognia (W) to przełączalny efekt obszarowy zadający obrażenia wokół niego<br>— Masochizm (E) to czasowe wzmocnienie, a nie atak<br>— Zastrzyk Adrenaliny (B) regeneruje zdrowie w czasie",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "Brak",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Evelynn",
+    "key": 60028,
+    "name": "Evelynn",
+    "title": "Modliszka",
+    "describe": "— Umiejętności są zupełnie inne. Przeczytaj opisy<br>— Wojownik, nie Zabójca",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ezreal",
+    "key": 60081,
+    "name": "Ezreal",
+    "title": "Odkrywca z Powołania",
+    "describe": "— Strumień Esencji (W) przenika przez wszystkie jednostki, zadając obrażenia wrogom i zapewniając sojusznikom prędkość ataku<br>— Celna Salwa (R) zadaje mniej obrażeń za każdego trafionego wroga",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Fiddlesticks",
+    "key": 60009,
+    "name": "Fiddlesticks",
+    "title": "Zwiastun Zagłady",
+    "describe": "— Umiejętności są zupełnie inne, z wyjątkiem superumiejętności Chmara Kruków (R)<br>— strach Fiddlesticksa sprawia, że wróg porusza się losowo",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Gangplank",
+    "key": 60041,
+    "name": "Gangplank",
+    "title": "Postrach Siedmiu Mórz",
+    "describe": "— Kanonada (R) ma losowe kule armatnie zamiast stałych obrażeń od EFEKTÓW OBSZAROWYCH<br>— Podnieś Morale (E) zapewnia prędkość ruchu i obrażenia od ataku zarówno biernie, jak i po aktywacji<br>— Paktujemy? (Q) zapewnia złoto (nie ma już Srebrnych Węży)",
+    "roles": [
+      "fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Garen",
+    "key": 60086,
+    "name": "Garen",
+    "title": "Potęga Demacii",
+    "describe": "— Demaciańska Sprawiedliwość (R) zadaje obrażenia magiczne",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Brak",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Gragas",
+    "key": 60079,
+    "name": "Gragas",
+    "title": "Karczemny Zabijaka",
+    "describe": "— Toczenie Beczki (Q) zadaje pełne obrażenia niezależnie od tego, jak długo leży na ziemi<br>— Pijacka Furia (W) trwa przez długi czas",
+    "roles": [
+      "fighter",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Heimerdinger",
+    "key": 60074,
+    "name": "Heimerdinger",
+    "title": "Wielbiony Wynalazca",
+    "describe": "— Umiejętności mogą wyglądać podobnie, ale bardzo się od siebie różnią<br>— ULEPSZENIE!!! (R) to wzmocnienie, które trwa przez określony czas, a nie pojedyncza umiejętność<br>— Działka Rozwojowe H—28G (Q) są aktywne globalnie, ale ulegają zniszczeniu...",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Janna",
+    "key": 60040,
+    "name": "Janna",
+    "title": "Szał Burzy",
+    "describe": "— Pomyślne Wiatry (B) zapewniają globalną prędkość ruchu",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_JarvanIV",
+    "key": 60059,
+    "name": "Jarvan IV",
+    "title": "Wzór dla Demacian",
+    "describe": "— Kataklizm (R) działa na jeden cel<br>— Demaciański Sztandar (E) zapewnia biernie pancerz",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Jax",
+    "key": 60024,
+    "name": "Jax",
+    "title": "Mistrz Broni",
+    "describe": "— Potęga Mistrza (R) zapewnia kumulującą się prędkość ataku za każde uderzenie<br>— Maestria Wyposażenia (B) zapewnia zdrowie za moc",
+    "roles": [
+      "fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Karthus",
+    "key": 60030,
+    "name": "Karthus",
+    "title": "Piewca Śmierci",
+    "describe": "— Umarli nigdy się nie zmieniają",
+    "roles": [
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Kassadin",
+    "key": 60038,
+    "name": "Kassadin",
+    "title": "Wędrowiec Pustki",
+    "describe": "— Puls Mocy (E) wymaga 6 użyć w pobliżu, aby można go było użyć<br>— Krok przez Wymiary (R) może kumulować się 10 razy<br>— Kamień Pustki (B) zamienia część zablokowanych obrażeń magicznych na prędkość ataku",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Katarina",
+    "key": 60055,
+    "name": "Katarina",
+    "title": "Złowieszcze Ostrze",
+    "describe": "— Skaczące Ostrza (Q) zadają obrażenia i oznaczają wrogów. Katarina może zużyć oznaczenie za pomocą zaklęć lub ataków, aby zadać dodatkowe obrażenia magiczne.<br>— Złowieszcza Stal (W) zadaje obrażenia wokół Katariny i zwiększa jej prędkość ruchu, jeśli...",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Brak",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Kayle",
+    "key": 60010,
+    "name": "Kayle",
+    "title": "Sprawiedliwa Sędzia",
+    "describe": "— Umiejętności są zupełnie inne, z wyjątkiem Niebiańskiego Błogosławieństwa (W)<br>— Zdobywanie poziomów nie zmienia jej ataków<br>— Święty Zapał (B) zapewnia obrażenia od ataku w zamian za moc umiejętności i na odwrót",
+    "roles": [
+      "mage",
+      "marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_KogMaw",
+    "key": 60096,
+    "name": "Kog'Maw",
+    "title": "Paszcza Otchłani",
+    "describe": "— Żrąca Plwocina (Q) jest umiejętnością typu „wskaż i kliknij”",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_LeeSin",
+    "key": 60064,
+    "name": "Lee Sin",
+    "title": "Ślepy Mnich",
+    "describe": "— Nic nie jest w stanie zakłócić jego równowagi",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Energia",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Leona",
+    "key": 60089,
+    "name": "Leona",
+    "title": "Promyk Jutrzenki",
+    "describe": "— W ludzkim życiu słońce nigdy się nie zmienia, tak samo jak ona",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Lulu",
+    "key": 60117,
+    "name": "Lulu",
+    "title": "Wróżkowa Czarodziejka",
+    "describe": "— Lśniąca Lanca (Q) nie może zadać obrażeń temu samemu celowi",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Lux",
+    "key": 60099,
+    "name": "Lux",
+    "title": "Pani Jasności",
+    "describe": "— Trafienie drugiego celu Związaniem Światłem (Q) jest o połowę mniej skuteczne<br>— Ostatnia Iskra (R) ma teraz niemiecką nazwę — Finales Funkeln",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Malphite",
+    "key": 60054,
+    "name": "Malphite",
+    "title": "Okruch Monolitu",
+    "describe": "— Frontalne obrażenia obszarowe Brutalnych Uderzeń (W) to efekt bierny, który aktywnie zwiększa jego obrażenia",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Malzahar",
+    "key": 60090,
+    "name": "Malzahar",
+    "title": "Prorok Pustki",
+    "describe": "— Strefa Nicości (W) to efekt obszarowy działający przez krótki czas<br>— Przywołanie Pusklęcia (B) tworzy Pusklę po kilku użyciach umiejętności<br>— Uścisk Piekieł (R) nie tworzy strefy nicości wokół celu",
+    "roles": [
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_MasterYi",
+    "key": 60011,
+    "name": "Master Yi",
+    "title": "Szermierz Wuju",
+    "describe": "— Efekt bierny Stylu Wuju (E) zwiększa obrażenia od ataku, a po użyciu tej umiejętności efekt zostaje podwojony<br>— Podwójne Uderzenie (B) ma procentową szansę na aktywację<br>— Ciosu Alfa (Q) nie można skierować w wybranym kierunku po zakończeniu...",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_MissFortune",
+    "key": 60021,
+    "name": "Miss Fortune",
+    "title": "Łowczyni Nagród",
+    "describe": "— Szybki Krok (B) został przeniesiony z W<br>— Skażone Pociski (W) — efekt bierny zadaje obrażenia magiczne przy każdym trafieniu, a użycie zwiększa prędkość ataku i nakłada Głębokie Rany",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Morgana",
+    "key": 60025,
+    "name": "Morgana",
+    "title": "Upadły Anioł",
+    "describe": "— Zamaskowana Pani się nie zmienia",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nasus",
+    "key": 60075,
+    "name": "Nasus",
+    "title": "Kustosz Pustyni",
+    "describe": "— Obrażenia magiczne Furii Pustyni (R) tymczasowo zamieniają procentową wartość w obrażenia od ataku",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nidalee",
+    "key": 60076,
+    "name": "Nidalee",
+    "title": "Zwierzęca Łowczyni",
+    "describe": "— Postać Pumy (R) nie zaczyna się z poziomem<br>— Grasowanie (B) nie ma efektu biernego Łowów<br>— Pułapka (W) zadaje szalone obrażenia",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nunu",
+    "key": 60020,
+    "name": "Nunu i Willump",
+    "title": "Jeździec Yeti",
+    "describe": "— Wrząca Krew (W) zapewnia prędkość ataku i prędkość ruchu<br>— Uderzenie Lodu (E) to pojedyncza śnieżka typu „wskaż i kliknij”<br>— Gryz! (Q) nie można użyć na bohaterach, ale zapewnia wzmocnienia w zależności od tego, co ugryziono<br>— Wizjoner (B)...",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Olaf",
+    "key": 60002,
+    "name": "Olaf",
+    "title": "Berserker",
+    "describe": "— Zgubne Uderzenia (W) zapewniają obrażenia od ataku, kradzież życia i wampiryzm zaklęć<br>— Szaleńczy Zamach (E) nie zwraca kosztu w zdrowiu",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Pantheon",
+    "key": 60080,
+    "name": "Pantheon",
+    "title": "Mistrz Wojennego Rzemiosła",
+    "describe": "— Ochrona Egidy (B) blokuje obrażenia po kilkukrotnym użyciu umiejętności<br>— Wielki Skok (R) zadaje obrażenia obszarowe na obszarze w kształcie okręgu<br>— Cios w Serce (E) — Pantheon stoi w miejscu i uderza",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Rammus",
+    "key": 60033,
+    "name": "Rammus",
+    "title": "Pancerznik",
+    "describe": "— Wstrząsy (R) to powtarzające się obrażenia obszarowe wokół niego<br>— Wszystkie inne umiejętności są OK",
+    "roles": [
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ryze",
+    "key": 60013,
+    "name": "Ryze",
+    "title": "Zbuntowany Mag",
+    "describe": "— Umiejętności są zupełnie inne (i to już 5. raz)",
+    "roles": [
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Shaco",
+    "key": 60035,
+    "name": "Shaco",
+    "title": "Demoniczny Błazen",
+    "describe": "— Klon Halucynacji (R) wybucha, zadając więcej obrażeń, ale nie tworzy pudełek<br>— Zabawki Niespodzianki (W) można umieszczać bliżej siebie",
+    "roles": [
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Singed",
+    "key": 60027,
+    "name": "Singed",
+    "title": "Szalony Chemik",
+    "describe": "— Wzmocniona Pawęż (B) zyskuje zdrowie wraz z maną",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sion",
+    "key": 60014,
+    "name": "Sion",
+    "title": "Nieumarły Bohater",
+    "describe": "— Umiejętności są zupełnie inne. Przeczytaj opisy<br>— Siona można budować pod moc umiejętności lub obrażenia od ataku<br>— Atakujący, nie moloch",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sivir",
+    "key": 60015,
+    "name": "Sivir",
+    "title": "Pani Wojny",
+    "describe": "— Rykoszet (W) aktywuje losowo odbijające się ataki <br>— Jeśli Tarcza Magii (E) zostanie zużyta, zapewnia manę zamiast zdrowia",
+    "roles": [
+      "marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Skarner",
+    "key": 60072,
+    "name": "Skarner",
+    "title": "Kryształowy Strażnik",
+    "describe": "— Umiejętności są zupełnie inne<br>— Osiłek opierający się na atakach podstawowych<br>— Nadzianie (R) to umiejętność typu „wyceluj i kliknij” na jeden cel",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sona",
+    "key": 60037,
+    "name": "Sona",
+    "title": "Wirtuozka Strun",
+    "describe": "— Aury podstawowych umiejętności nie zanikają<br>— Akord Potęgi (B) zadaje dodatkowe obrażenia<br>— Crescendo (R) jest szersze",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Soraka",
+    "key": 60016,
+    "name": "Soraka",
+    "title": "Gwiezdne Dziecko",
+    "describe": "— Umiejętności są zupełnie inne, z wyjątkiem superumiejętności Życzenie (R)<br>— Może grać w solowej alei<br>— Ma uciszenie typu „wyceluj i kliknij”",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Taric",
+    "key": 60044,
+    "name": "Taric",
+    "title": "Klejnot Rycerstwa",
+    "describe": "— Umiejętności są zupełnie inne. Przeczytaj ich opisy<br>— Może grać w solowej alei i ewentualnie w dżungli",
+    "roles": [
+      "support",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Teemo",
+    "key": 60017,
+    "name": "Teemo",
+    "title": "Chyży Zwiadowca",
+    "describe": "— Trujące Pułapki (R) nie odbijają się",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Tristana",
+    "key": 60018,
+    "name": "Tristana",
+    "title": "Strzelec Meglinga",
+    "describe": "— Wybuchowy Strzał (E) to umiejętność zadająca obrażenia w czasie",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Tryndamere",
+    "key": 60023,
+    "name": "Tryndamere",
+    "title": "Król Barbarzyńców",
+    "describe": "— Zbyt baliśmy się jego gniewu, by go zmieniać",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Furia",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_TwistedFate",
+    "key": 60004,
+    "name": "Twisted Fate",
+    "title": "Mistrz Kart",
+    "describe": "— Brama (E) to globalna teleportacja<br>— Przeznaczenie (R) to globalne spowolnienie i ujawnienie<br>— Sprzyjające Szczęście (B) zapewnia złoto za zabójstwo wszystkim sojusznikom i Twisted Fate'owi",
+    "roles": [
+      "mage",
+      "marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Twitch",
+    "key": 60029,
+    "name": "Twitch",
+    "title": "Szczur Zarazy",
+    "describe": "— Osłabiająca Trucizna (W) to zaklęcie obszarowe działające wokół niego<br>— Zasadzka (Q) może trwać do 50 sekund<br>— Skażenie (E) usuwa ładunki trucizny z wrogów",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Vayne",
+    "key": 60067,
+    "name": "Vayne",
+    "title": "Nocna Łowczyni",
+    "describe": "— Nie można przedłużyć Godziny Sądu (R)",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Veigar",
+    "key": 60045,
+    "name": "Veigar",
+    "title": "Panicz Zła",
+    "describe": "— Złowrogie Uderzenie (Q) jest umiejętnością typu „wyceluj i kliknij”<br>— Horyzont Zdarzeń (E) działa natychmiastowo<br>— Równowaga (B) zapewnia zwiększoną regenerację many w zależności od ilości brakującej many",
+    "roles": [
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Warwick",
+    "key": 60019,
+    "name": "Warwick",
+    "title": "Krwawy Łowca",
+    "describe": "— Umiejętności są zupełnie inne<br>— Bezkresna Niewola (R) to umiejętność unieruchamiająca typu „wyceluj i kliknij”",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Wukong",
+    "key": 60062,
+    "name": "Wukong",
+    "title": "",
+    "describe": "",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Zilean",
+    "key": 60026,
+    "name": "Zilean",
+    "title": "Strażnik Czasu",
+    "describe": "— Bomba Zegarowa (Q) jest umiejętnością typu „wyceluj i kliknij”<br>— Łatwiejsza Nauka (B) zapewnia doświadczenie całej drużynie",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Janna",
     "key": 40,
     "name": "Janna",

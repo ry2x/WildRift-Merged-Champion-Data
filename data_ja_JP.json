@@ -1087,6 +1087,1197 @@
     "utility": 0
   },
   {
+    "id": "Jade_Ahri",
+    "key": 60103,
+    "name": "アーリ",
+    "title": "九尾の狐",
+    "describe": "- 「生気吸引(P)」で敵にダメージを与えるとスタックを獲得する<br>- 「スピリットラッシュ(R)」がリセットされない",
+    "roles": [
+      "mage",
+      "assassin"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Alistar",
+    "key": 60012,
+    "name": "アリスター",
+    "title": "ミノタウロスの戦士",
+    "describe": "- 「踏破」(P)と「戦士の咆哮」(E)が入れ替わる<br>- 魔力ビルドが可能<br>- ソロレーン可能",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Amumu",
+    "key": 60032,
+    "name": "アムム",
+    "title": "めそめそミイラ",
+    "describe": "- 「絡みつく包帯」(Q)が追加チャージを持たない<br>- 「呪いの手」(P)は通常攻撃でのみ魔法防御を低下させる",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Anivia",
+    "key": 60034,
+    "name": "アニビア",
+    "title": "氷の不死鳥",
+    "describe": "- 「フロストバイト」(E)に「チルド」の自動効果がない<br>- 「ブリザード」(R)のスロウ効果が攻撃速度にも影響する",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Annie",
+    "key": 60001,
+    "name": "アニー",
+    "title": "闇の申し子",
+    "describe": "- 「ティバーズ」(R)はアニーが倒されると消滅する<br>- 「火遊びだいすき」(P)のスタックがデス時にリセットされる<br>- 「モルテンシールド」(E)は移動速度を増加させない",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ashe",
+    "key": 60022,
+    "name": "アッシュ",
+    "title": "氷の射手",
+    "describe": "- 「フロストショット」(Q)は通常攻撃にスロウ効果を付与する切り替えスキル<br>- 「フォーカス」(P)は非戦闘中にクリティカルをスタックする<br>- 「スカウトホーク」(E)はキル時にボーナスゴールドを付与する",
+    "roles": [
+      "marksman",
+      "support"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Blitzcrank",
+    "key": 60053,
+    "name": "ブリッツクランク",
+    "title": "偉大なるスチームゴーレム",
+    "describe": "- 「イナズマフィールド」(R)の自動効果が近くの敵に電撃を与える",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Brand",
+    "key": 60063,
+    "name": "ブランド",
+    "title": "復讐の炎",
+    "describe": "- 「炎上」(P)の爆発が発生しない",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Chogath",
+    "key": 60031,
+    "name": "チョ＝ガス",
+    "title": "未知なる恐怖",
+    "describe": "- 「捕食」(R)は最大6スタックでキル時に失われるが、あらゆる対象からスタックを獲得できる<br>- 「ヴォーパルスパイク」(E)は、プレイヤーを貫通するスパイクのオン/オフを切り替える",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Corki",
+    "key": 60042,
+    "name": "コーキ",
+    "title": "豪気の爆撃手",
+    "describe": "- 「閃光弾」(Q)が即座に爆発する",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_DrMundo",
+    "key": 60036,
+    "name": "ドクター・ムンド",
+    "title": "ゾウンの狂人",
+    "describe": "- 「バーニングペイン」(W)が自身の周囲に範囲ダメージを与える切り替えスキル<br>- 「マゾヒズム」(E)が攻撃スキルではなく、一定時間持続するバフ<br>- 「アドレナリンラッシュ」(P)が時間経過と共に体力を回復する",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "なし",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Evelynn",
+    "key": 60028,
+    "name": "イブリン",
+    "title": "幻妖のアサシン",
+    "describe": "- スキルの内容が完全に異なる。説明を参照。<br>- アサシンではなくファイター",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ezreal",
+    "key": 60081,
+    "name": "エズリアル",
+    "title": "光の冒険心",
+    "describe": "- 「エッセンスフラックス(W)」がすべてのユニットを貫通し、敵にはダメージを与え、味方には攻撃速度を付与する<br>- 「トゥルーショットバラージ(R)」が敵に命中するたびにダメージが減少する",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Fiddlesticks",
+    "key": 60009,
+    "name": "フィドルスティックス",
+    "title": "破滅の先触れ",
+    "describe": "- アルティメットスキル「クロウストーム」(R)を除き、スキルの内容が完全に異なる<br>- フィドルスティックスのフィアー効果は敵をランダムに歩き回らせる",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Gangplank",
+    "key": 60041,
+    "name": "ガングプランク",
+    "title": "大海原の大災厄",
+    "describe": "- 「一斉砲撃」(R)が通常の範囲ダメージではなく、ランダムに砲弾を降らせる<br>- 「士気上昇」(E)が自動効果でも発動効果でも移動速度と攻撃力を増加させる<br>- 「偽りの発砲」(Q)でゴールドを獲得する(シルバーサーペントは廃止)",
+    "roles": [
+      "fighter"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Garen",
+    "key": 60086,
+    "name": "ガレン",
+    "title": "デマーシアの勇士",
+    "describe": "- 「デマーシアの正義(R)」が魔法ダメージを与える",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "なし",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Gragas",
+    "key": 60079,
+    "name": "グラガス",
+    "title": "騒乱の飲んだくれ",
+    "describe": "- 「タル転がし(Q)」は設置時間にかかわらず最大ダメージを与える<br>- 「飲みすぎ注意(W)」の効果が長時間持続する",
+    "roles": [
+      "fighter",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Heimerdinger",
+    "key": 60074,
+    "name": "ハイマーディンガー",
+    "title": "誉れ高き発明王",
+    "describe": "- 似ているように見えるかもしれないがスキルの内容が大きく異なる<br>- 「アップグレード！！！」(R)は単発のスキルではなく、一定時間継続するバフ<br>- 「H-28G革新砲」(Q)はグローバルに稼働するが、ハイマーディンガーが倒されると機能が停止する",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Janna",
+    "key": 60040,
+    "name": "ジャンナ",
+    "title": "嵐の怒り",
+    "describe": "- 「テイルウィンド」(P)がグローバルに移動速度を増加させる",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_JarvanIV",
+    "key": 60059,
+    "name": "ジャーヴァンⅣ",
+    "title": "デマーシアの儀範",
+    "describe": "- 「決戦場(R)」が単体対象<br>- 「デマーシアの旗印(E)」の自動効果で物理防御が増加",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Jax",
+    "key": 60024,
+    "name": "ジャックス",
+    "title": "最強の武器使い",
+    "describe": "- 「グランドマスター」(R)が攻撃ごとに攻撃速度をスタックする<br>- 「武具への精通」(P)がパワーに応じて体力を付与する",
+    "roles": [
+      "fighter"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Karthus",
+    "key": 60030,
+    "name": "カーサス",
+    "title": "死を歌う者",
+    "describe": "- 死者は決して変わらない",
+    "roles": [
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Kassadin",
+    "key": 60038,
+    "name": "カサディン",
+    "title": "ヴォイドを歩む者",
+    "describe": "- 「ヴォイドパルス」(E)の発動に6回のスキル使用が必要<br>- 「リフトウォーク」(R)が10回までスタック可能<br>- 「ヴォイドストーン」(P)が軽減した魔法ダメージの一部を攻撃速度に変換する",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Katarina",
+    "key": 60055,
+    "name": "カタリナ",
+    "title": "凶兆の刃",
+    "describe": "- 「バウンドナイフ(Q)」はダメージを与えて敵にマークを付与する。スキルまたは通常攻撃でマークを消費して追加魔法ダメージを与える。<br>- 「スティンガーロール(W)」は周囲にダメージを与え、チャンピオンに命中すると自身の移動速度が増加する。<br>- 「瞬歩(E)」は対象の位置までブリンクしてダメージを与え、その後、被ダメージ軽減効果を獲得する。",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "なし",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Kayle",
+    "key": 60010,
+    "name": "ケイル",
+    "title": "裁きの翼",
+    "describe": "- 「神々の祝福」(W)を除き、スキルの内容が完全に異なる<br>- レベルアップしても通常攻撃は変化しない<br>- 「聖なる闘志」(P)は魔力に応じて攻撃力が、攻撃力に応じて魔力が上昇する",
+    "roles": [
+      "mage",
+      "marksman"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_KogMaw",
+    "key": 60096,
+    "name": "コグ＝マウ",
+    "title": "深淵のアギト",
+    "describe": "- 「腐食粘液」(Q)が対象指定",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_LeeSin",
+    "key": 60064,
+    "name": "リー・シン",
+    "title": "盲目の修行僧",
+    "describe": "- 彼の均衡を崩せるものはない",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "気",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Leona",
+    "key": 60089,
+    "name": "レオナ",
+    "title": "暁光の戦士",
+    "describe": "- 人の一生において、太陽は決して変わらない。彼女もまた然り。",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Lulu",
+    "key": 60117,
+    "name": "ルル",
+    "title": "森の妖精使い",
+    "describe": "- 「ぴかぴかビーム(Q)」のビームが同じ対象にダメージを与えられない",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Lux",
+    "key": 60099,
+    "name": "ラックス",
+    "title": "光の才女",
+    "describe": "- 「ライトバインド(Q)」の2体目の対象への効果が半分になる<br>- 「ファイナルスパーク(R)」がドイツ語由来の「フィナーレス フンケルン」に変更",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Malphite",
+    "key": 60054,
+    "name": "マルファイト",
+    "title": "モノリスの欠片",
+    "describe": "- 「ブルータルストライク(W)」のなぎ払いが自動効果で、発動効果でダメージが増加",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Malzahar",
+    "key": 60090,
+    "name": "マルザハール",
+    "title": "ヴォイドの予言者",
+    "describe": "- 「ヴォイドゾーン(W)」は短時間持続する範囲攻撃<br>- 「ヴォイドリング使い(P)」はスキルを数回使用するとヴォイドリングを召喚<br>- 「ネザーグラスプ(R)」は対象の周囲に「ヴォイドゾーン」を発生させない",
+    "roles": [
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_MasterYi",
+    "key": 60011,
+    "name": "マスター・イー",
+    "title": "ウージューの剣客",
+    "describe": "- 「ウージュースタイル(E)」は自動効果で攻撃力が増加し、発動で倍増<br>- 「ダブルストライク(P)」が確率ベース<br>- 「アルファストライク(Q)」は最後の攻撃後に操作できない",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_MissFortune",
+    "key": 60021,
+    "name": "ミス・フォーチュン",
+    "title": "美貌の賞金稼ぎ",
+    "describe": "- 「ストラット(P)」がWスキルから移動<br>- 「ダーティショット(W)」の自動効果により命中のたびに魔法ダメージを与え、発動効果により攻撃速度が増加して「重傷」を付与する",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Morgana",
+    "key": 60025,
+    "name": "モルガナ",
+    "title": "不屈の堕天使",
+    "describe": "- 「ヴェールの貴婦人」は変化なし",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nasus",
+    "key": 60075,
+    "name": "ナサス",
+    "title": "砂漠の司書",
+    "describe": "- 「アヌビスの怒り(R)」の魔法ダメージが一時的にその一部を攻撃力に変換する。",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nidalee",
+    "key": 60076,
+    "name": "ニダリー",
+    "title": "半獣の狩人",
+    "describe": "- 「クーガーの心(R)」がレベル1で開始しない<br>- 「品定め(P)」の「マーキング」の自動効果が削除<br>- 「虎挟み(W)」のダメージがとてつもない",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nunu",
+    "key": 60020,
+    "name": "ヌヌ＆ウィルンプ",
+    "title": "イエティを駆る少年",
+    "describe": "- 「熱血(W)」は攻撃速度と移動速度を増加させる<br>- 「氷弾(E)」は対象指定で雪玉を投げる<br>- 「丸かじり(Q)」はチャンピオンを対象にできないが、食べたものに応じてバフを獲得<br>- 「ビジョナリー(P)」は通常攻撃5回ごとに、次のスキルがマナを消費しなくなる<br> - ヌヌ＆ウィルンプは2体なのでセリフが追加される",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Olaf",
+    "key": 60002,
+    "name": "オラフ",
+    "title": "狂戦士",
+    "describe": "- 「残忍な斧(W)」は攻撃力、ライフスティール、スペルヴァンプが増加<br>- 「捨て身切り(E)」が消費した体力を回復しない",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Pantheon",
+    "key": 60080,
+    "name": "パンテオン",
+    "title": "軍神",
+    "describe": "- 「イージスの守護(P)」は複数回スキルを詠唱するとダメージをブロックする<br>- 「偉大なる空路(R)」が円形の範囲攻撃<br>- 「急所乱撃(E)」 - パンテオンがその場で構えて攻撃する",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Rammus",
+    "key": 60033,
+    "name": "ラムス",
+    "title": "アーマージロ",
+    "describe": "- 「ドスンドスン(R)」が自身の周囲に繰り返し発生する範囲攻撃<br>- その他のスキルはオーケー",
+    "roles": [
+      "tank"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ryze",
+    "key": 60013,
+    "name": "ライズ",
+    "title": "流浪の魔術師",
+    "describe": "- スキルの内容が完全に異なる(5回目)",
+    "roles": [
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Shaco",
+    "key": 60035,
+    "name": "シャコ",
+    "title": "悪魔の道化師",
+    "describe": "- 「ハルシネイト(R)」の分身の爆発のダメージが増加しているが、「びっくり箱」は出現しない<br>- 「びっくり箱(W)」を互いに接近して設置できる",
+    "roles": [
+      "assassin"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Singed",
+    "key": 60027,
+    "name": "シンジド",
+    "title": "マッドケミスト",
+    "describe": "- 「肉体強化(P)」はマナに応じて体力が増加",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sion",
+    "key": 60014,
+    "name": "サイオン",
+    "title": "不死のチャンピオン",
+    "describe": "- スキルの内容が完全に異なる。説明を参照。<br>- サイオンには魔力ビルドと攻撃力ビルドがある<br>- ジャガーノートではなくダメージディーラー",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sivir",
+    "key": 60015,
+    "name": "シヴィア",
+    "title": "戦場の女王",
+    "describe": "- 「跳刃(W)」は通常攻撃がランダムに跳ね返る切り替え効果 <br>- 「スペルシールド(E)」は発動時に体力の代わりにマナが増加",
+    "roles": [
+      "marksman"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Skarner",
+    "key": 60072,
+    "name": "スカーナー",
+    "title": "水晶の尖兵",
+    "describe": "- スキル内容が完全に異なる<br>- ブルーザーで通常攻撃主体<br>- 「インペイル」(R)は単体対象指定",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sona",
+    "key": 60037,
+    "name": "ソナ",
+    "title": "沈黙の弦奏師",
+    "describe": "- 通常スキルのオーラが永続<br>- 「パワーコード」(P)が追加ダメージを与える<br>- 「クレッシェンド」(R)の幅が広い",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Soraka",
+    "key": 60016,
+    "name": "ソラカ",
+    "title": "星の子",
+    "describe": "- アルティメットスキル「星に願いを(R)」以外は、スキルの内容が完全に異なる<br>- ソロレーンも可能<br>- 対象指定のサイレンスを持つ",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Taric",
+    "key": 60044,
+    "name": "タリック",
+    "title": "宝石の騎士",
+    "describe": "- スキルの内容が完全に異なる。説明を参照。<br>- ソロレーン、場合によってはジャングルも可能",
+    "roles": [
+      "support",
+      "tank"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Teemo",
+    "key": 60017,
+    "name": "ティーモ",
+    "title": "俊足の斥候",
+    "describe": "- 「毒キノコ」(R)が跳ねない",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Tristana",
+    "key": 60018,
+    "name": "トリスターナ",
+    "title": "メグリング ガンナー",
+    "describe": "- 「ヨードルグレネード」(E)が継続ダメージスキル",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Tryndamere",
+    "key": 60023,
+    "name": "トリンダメア",
+    "title": "孤高の蛮王",
+    "describe": "- 怒りを買うのが恐ろしかったため、変更はなし",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "フューリー",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_TwistedFate",
+    "key": 60004,
+    "name": "ツイステッド・フェイト",
+    "title": "不敗のイカサマ師",
+    "describe": "- 「ゲート(E)」はグローバルなテレポート<br>- 「デスティニー(R)」はグローバルなスロウと可視化効果<br>- 「イカサマダイス(P)」はキル時に自身と味方全員にゴールドを付与する",
+    "roles": [
+      "mage",
+      "marksman"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Twitch",
+    "key": 60029,
+    "name": "トゥイッチ",
+    "title": "黒死のドブネズミ",
+    "describe": "- 「衰弱の霧(W)」は自身の周囲に効果を及ぼす範囲スキル<br>- 「オイラだヨ！(Q)」は最大50秒間持続する<br>- 「ボーン！(E)」は敵に付与されている毒のスタックをすべて消費する",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Vayne",
+    "key": 60067,
+    "name": "ヴェイン",
+    "title": "ナイトハンター",
+    "describe": "- 「ファイナルアワー」(R)が延長不可",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Veigar",
+    "key": 60045,
+    "name": "ベイガー",
+    "title": "小さき大魔王",
+    "describe": "- 「イーヴィルストライク(Q)」は対象指定スキル<br>- 「イベントホライズン(E)」は即時発動<br>- 「ワールドバランス(P)」は失っているマナに応じてマナ自動回復が増加する",
+    "roles": [
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Warwick",
+    "key": 60019,
+    "name": "ワーウィック",
+    "title": "血の狩人",
+    "describe": "- スキルの内容が完全に異なる<br>- 「絶狼牙連撃(R)」は対象指定のサプレッション",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Wukong",
+    "key": 60062,
+    "name": "ウーコン",
+    "title": "",
+    "describe": "",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Zilean",
+    "key": 60026,
+    "name": "ジリアン",
+    "title": "時の番人",
+    "describe": "- 「タイムボム(Q)」は対象指定スキル<br>- 「ハイスピードラーニング(P)」はチーム全体に経験値を与える",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "マナ",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Janna",
     "key": 40,
     "name": "ジャンナ",

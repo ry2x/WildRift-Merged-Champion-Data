@@ -1087,6 +1087,1197 @@
     "utility": 0
   },
   {
+    "id": "Jade_Ahri",
+    "key": 60103,
+    "name": "Ahri",
+    "title": "The Nine-Tailed Fox",
+    "describe": "- Essence Theft (P) is stacked on damaging enemies<br>- Spirit Rush (R) doesn't reset",
+    "roles": [
+      "mage",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Alistar",
+    "key": 60012,
+    "name": "Alistar",
+    "title": "The Minotaur",
+    "describe": "- Trample (P) and Triumphant Roar (E) have swapped<br>- Can build Ability Power<br>- Can solo lane",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Amumu",
+    "key": 60032,
+    "name": "Amumu",
+    "title": "The Sad Mummy",
+    "describe": "- Bandage Toss (Q) doesn't have extra charges<br>- Cursed Touch (P) reduces magic resist on basic attacks only",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Anivia",
+    "key": 60034,
+    "name": "Anivia",
+    "title": "The Cryopheonix",
+    "describe": "- Frostbite (E) doesn't have Chill passive<br>- Glacial Storm (R) slow also affects attack speed",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Annie",
+    "key": 60001,
+    "name": "Annie",
+    "title": "The Dark Child",
+    "describe": "- Tibbers (R) dies when Annie does<br>- Pyromania (P) Stacks reset on death<br>- Molten Shield (E) doesn't grant movement speed",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ashe",
+    "key": 60022,
+    "name": "Ashe",
+    "title": "The Frost Archer",
+    "describe": "- Frost Shot (Q) toggles slowing basic attacks<br>- Focus (P) builds up critical strikes out of combat<br>- Hawkshot (E) grants bonus gold on kill",
+    "roles": [
+      "marksman",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Blitzcrank",
+    "key": 60053,
+    "name": "Blitzcrank",
+    "title": "The Great Steam Golem",
+    "describe": "- Static Field (R) passive zaps nearby enemies",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Brand",
+    "key": 60063,
+    "name": "Brand",
+    "title": "The Burning Vengeance",
+    "describe": "- Ablaze (P) explosions do not occur",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Chogath",
+    "key": 60031,
+    "name": "Cho'Gath",
+    "title": "The Terror of the Void",
+    "describe": "- Feast (R) stacks max 6 times, is lost on kill but can be stacked on anything<br>- Vorpal Spikes (E) toggles the spikes that go through players",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Corki",
+    "key": 60042,
+    "name": "Corki",
+    "title": "The Daring Bombardier",
+    "describe": "- Phosphorus Bomb (Q) is an instant explosion",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_DrMundo",
+    "key": 60036,
+    "name": "Dr. Mundo",
+    "title": "The Madman of Zaun",
+    "describe": "- Burning Agony (W) is a toggle of damage AoE around him<br>- Masochism (E) is a buff for a time not an attack<br>- Adrenaline Rush (P) regenerates health over time",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "None",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Evelynn",
+    "key": 60028,
+    "name": "Evelynn",
+    "title": "The Widowmaker",
+    "describe": "- The Abilities are completely different. Read the descriptions<br>- Fighter not an Assassin",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ezreal",
+    "key": 60081,
+    "name": "Ezreal",
+    "title": "The Prodigal Explorer",
+    "describe": "- Essence Flux (W) passes through all units dealing damage to enemies and granting allies attack speed<br>- Trueshot Barrage (R) deals less damage per enemy hit",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Fiddlesticks",
+    "key": 60009,
+    "name": "Fiddlesticks",
+    "title": "The Harbinger of Doom",
+    "describe": "- The Abilities are completely different, except for the ultimate Crowstorm (R)<br>- Fiddlesticks fear makes the enemy walk randomly",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Gangplank",
+    "key": 60041,
+    "name": "Gangplank",
+    "title": "The Saltwater Scourge",
+    "describe": "- Cannon Barrage (R) has random cannonballs instead of consistent AOE damage<br>- Raise Morale (E) grants move speed and Attack damage both passively and upon activation<br>- Parrrley (Q) grants gold (no more silver serpents)",
+    "roles": [
+      "fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Garen",
+    "key": 60086,
+    "name": "Garen",
+    "title": "The Might of Deamcia",
+    "describe": "- Demacian Justice (R) does magic damage",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "None",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Gragas",
+    "key": 60079,
+    "name": "Gragas",
+    "title": "The Rabble Rouser",
+    "describe": "- Barrel Roll (Q) does full damage no matter time it is on the ground<br>- Drunken Rage (W) last for a long time",
+    "roles": [
+      "fighter",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Heimerdinger",
+    "key": 60074,
+    "name": "Heimerdinger",
+    "title": "The Revered Inventor",
+    "describe": "- The abilities may look similar but are very different<br>- UPGRADE!!! (R) is a buff that lasts a set time not a single ability<br>- H-28G Evolution Turrets (Q) are active globally but die when Heimerdinger does",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Janna",
+    "key": 60040,
+    "name": "Janna",
+    "title": "The Storm's Fury",
+    "describe": "- Tailwind (P) grants global movement speed",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_JarvanIV",
+    "key": 60059,
+    "name": "Jarvan IV",
+    "title": "The Exemplar of Demacia",
+    "describe": "- Cataclysm (R) is single target<br>- Demacian Standard (E) passive grants armor",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Jax",
+    "key": 60024,
+    "name": "Jax",
+    "title": "Grandmaster at Arms",
+    "describe": "- Grandmaster's Might (R) grants stacking attack speed per strike<br>- Equipment Mastery (P) grants health for power",
+    "roles": [
+      "fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Karthus",
+    "key": 60030,
+    "name": "Karthus",
+    "title": "The Deathsinger",
+    "describe": "- The dead never change",
+    "roles": [
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Kassadin",
+    "key": 60038,
+    "name": "Kassadin",
+    "title": "The Void Walker",
+    "describe": "- Force Pulse (E) requires 6 casts around him to then cast<br>- Riftwalk (R) can stack 10 times<br>- Void Stone (P) transforms some magic damage prevented into attack speed",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Katarina",
+    "key": 60055,
+    "name": "Katarina",
+    "title": "The Sinister Blade",
+    "describe": "- Bouncing Blades (Q) deals damage and marks enemies, Katarina can consume the mark with spells or attacks to deal extra magic damage.<br>- Sinister Steel (W) does damage around Katarina and increases her movement speed if the ability hits a champion...",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "None",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Kayle",
+    "key": 60010,
+    "name": "Kayle",
+    "title": "The Judicator",
+    "describe": "- The Abilities are completely different, except for Divine Blessing (W)<br>- Leveling up doesn't change her attacks<br>- Holy Fervor (P) grants Attack Damage as Ability Power and vice versa",
+    "roles": [
+      "mage",
+      "marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_KogMaw",
+    "key": 60096,
+    "name": "Kog'Maw",
+    "title": "The Mouth of the Abyss",
+    "describe": "- Caustic Spittle (Q) is point and click",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_LeeSin",
+    "key": 60064,
+    "name": "Lee Sin",
+    "title": "The Blind Monk",
+    "describe": "- Nothing can upset his balance",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Energy",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Leona",
+    "key": 60089,
+    "name": "Leona",
+    "title": "The Radiant Dawn",
+    "describe": "- In a human life, the sun never changes, neither does she",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Lulu",
+    "key": 60117,
+    "name": "Lulu",
+    "title": "The Fae Sorceress",
+    "describe": "- Glitterdance (Q) bolts can not deal damage to the same target",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Lux",
+    "key": 60099,
+    "name": "Lux",
+    "title": "The Lady of Luminosity",
+    "describe": "- Light Binding's (Q) second target is half as affective<br>- Final Spark (R) is now German - Finales Funkeln",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Malphite",
+    "key": 60054,
+    "name": "Malphite",
+    "title": "Shard of the Monolith",
+    "describe": "- Brutal Strikes (W) cleave is a passive and actively increases his damage",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Malzahar",
+    "key": 60090,
+    "name": "Malzahar",
+    "title": "The Prophet of the Void",
+    "describe": "- Null Zone (W) is an AoE area for a short time<br>- Summon Voidling (P) creates a voidling after a number of casts<br>- Nether Grasp (R) does not have the null zone around the target",
+    "roles": [
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_MasterYi",
+    "key": 60011,
+    "name": "Master Yi",
+    "title": "The Wuju Bladesman",
+    "describe": "- Wuju Style (E) passive increases attack damage doubled when active<br>- Double Strike (P) is percent chance based<br>- Alpha Strike (Q) can not be directed after finishing movements",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_MissFortune",
+    "key": 60021,
+    "name": "Miss Fortune",
+    "title": "The Bounty Hunter",
+    "describe": "- Strut (P) moved from W<br>- Impure Shots (W) passive deals magic damage on each hit with active increasing attack speed and applying grievous wounds",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Morgana",
+    "key": 60025,
+    "name": "Morgana",
+    "title": "Fallen Angel",
+    "describe": "- The Veiled Lady doesn't change",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nasus",
+    "key": 60075,
+    "name": "Nasus",
+    "title": "The Curator of the Sands",
+    "describe": "- Fury of the Sands (R) magic damage temporarily converts a percentage into Attack Damage",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nidalee",
+    "key": 60076,
+    "name": "Nidalee",
+    "title": "The Bestial Huntress",
+    "describe": "- Aspect of the Cougar (R) does not start with a level<br>- Prowl (P) has Hunt passive removed<br>- Bushwhack (W) does insane damage",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nunu",
+    "key": 60020,
+    "name": "Nunu & Willump",
+    "title": "The Yeti Rider",
+    "describe": "- Blood Boil (W) grants attack and movement speed<br>- Ice Blast (E) a single point and click snowball<br>- Consume (Q) can't target champions but gain buffs based on whats eaten<br>- Visionary (P) every 5 basic attacks the next spell costs no mana -...",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Olaf",
+    "key": 60002,
+    "name": "Olaf",
+    "title": "The Berserker",
+    "describe": "- Vicious Strikes (W) grants Attack Damage, Lifesteal and Spell Vamp<br>- Reckless Swing (E) does not heal the health cost",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Pantheon",
+    "key": 60080,
+    "name": "Pantheon",
+    "title": "The Artisan of War",
+    "describe": "- Aegis Protection (P) blocks damage after casting multiple times<br>- Grand Skyfall (R) is a circle AoE<br>- Heartseeker Strike (E) - Pantheon stands still and strikes",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Rammus",
+    "key": 60033,
+    "name": "Rammus",
+    "title": "The Armordillo",
+    "describe": "- Tremors (R) is a repeating AoE around him<br>- All other abilities are ok",
+    "roles": [
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ryze",
+    "key": 60013,
+    "name": "Ryze",
+    "title": "The Rogue Mage",
+    "describe": "- The Abilities are completely different (for the 5th time)",
+    "roles": [
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Shaco",
+    "key": 60035,
+    "name": "Shaco",
+    "title": "The Demon Jester",
+    "describe": "- Hallucinate (R) clone explodes dealing more damage but doesn't spawn boxes<br>- Jack in the box (W) can be placed closer together",
+    "roles": [
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Singed",
+    "key": 60027,
+    "name": "Singed",
+    "title": "The Mad Chemist",
+    "describe": "- Empowered Bulwark (P) gains health with Mana",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sion",
+    "key": 60014,
+    "name": "Sion",
+    "title": "The Undead Champion",
+    "describe": "- The Abilities are completely different. Read the descriptions<br>- Sion has Ability Power and Attack Damage builds<br>- Damage dealer not a Juggernaut",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sivir",
+    "key": 60015,
+    "name": "Sivir",
+    "title": "The Battle Mistress",
+    "describe": "- Ricochet (W) toggles bouncing randomly attacks <br>- Spell Shield (E) gain mana instead of health when triggered",
+    "roles": [
+      "marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Skarner",
+    "key": 60072,
+    "name": "Skarner",
+    "title": "The Crystal Vanguard",
+    "describe": "- The Abilities are completely different<br>- Bruiser and auto attacker<br>- Impale (R) is a single target point and click",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sona",
+    "key": 60037,
+    "name": "Sona",
+    "title": "Maven of the Strings",
+    "describe": "- Auras of basic abilities are persistent<br>- Power Chord (P) does bonus damage<br>- Crescendo (R) is wider",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Soraka",
+    "key": 60016,
+    "name": "Soraka",
+    "title": "The Starchild",
+    "describe": "- The Abilities are completely different, except for the ultimate Wish (R)<br>- Can solo lane<br>- Has a point and click silence",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Taric",
+    "key": 60044,
+    "name": "Taric",
+    "title": "The Gem Knight",
+    "describe": "- The Abilities are completely different. Read the descriptions<br>- Can solo lane and maybe jungle",
+    "roles": [
+      "support",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Teemo",
+    "key": 60017,
+    "name": "Teemo",
+    "title": "The Swift Scout",
+    "describe": "- Noxious Trap's (R) don't bounce",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Tristana",
+    "key": 60018,
+    "name": "Tristana",
+    "title": "The Megling Gunner",
+    "describe": "- Explosive Shot (E) is a DoT ability",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Tryndamere",
+    "key": 60023,
+    "name": "Tryndamere",
+    "title": "The Barbarian King",
+    "describe": "- We were too scared of his rage to change him",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Fury",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_TwistedFate",
+    "key": 60004,
+    "name": "Twisted Fate",
+    "title": "The Card Master",
+    "describe": "- Gate (E) is a global teleport<br>- Destiny (R) is a global slow and reveal<br>- Loaded Dice (P) grants all allies and himself gold on kill",
+    "roles": [
+      "mage",
+      "marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Twitch",
+    "key": 60029,
+    "name": "Twitch",
+    "title": "The Plague Rat",
+    "describe": "- Deliberating Poison (W) is an AoE spell around him<br>- Ambush (Q) can last up to 50 seconds<br>- Expunge (E) removes poison stacks on enemies",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Vayne",
+    "key": 60067,
+    "name": "Vayne",
+    "title": "The Night Hunter",
+    "describe": "- Final Hour (R) can not be extended",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Veigar",
+    "key": 60045,
+    "name": "Veigar",
+    "title": "The Tiny Maser of Evil",
+    "describe": "- Baleful Strike (Q) is point and click<br>- Event Horizon (E) is instant<br>- Equilibrium (P) gains increased mana regeneration based on missing mana",
+    "roles": [
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Warwick",
+    "key": 60019,
+    "name": "Warwick",
+    "title": "The Blood Hunter",
+    "describe": "- The Abilities are completely different<br>- Infinite Duress (R) is a point and click suppress",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Wukong",
+    "key": 60062,
+    "name": "Wukong",
+    "title": "The Monkey King",
+    "describe": "- Decoy (W) does not mirror other abilities used and does not auto attack<br>- Cyclone (R) only has 1 activation",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Zilean",
+    "key": 60026,
+    "name": "Zilean",
+    "title": "The Chronokeeper",
+    "describe": "- Time Bomb (Q) is point and click<br>- Heightened Learning (P) grants experience to his entire team",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Janna",
     "key": 40,
     "name": "Janna",

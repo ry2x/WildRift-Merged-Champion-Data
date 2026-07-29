@@ -1087,6 +1087,1197 @@
     "utility": 0
   },
   {
+    "id": "Jade_Ahri",
+    "key": 60103,
+    "name": "Ahri",
+    "title": "Dokuz Kuyruklu Tilki",
+    "describe": "- Öz Hırsızı (P) rakiplere hasar verildiğinde yük biriktirir.<br>- Ruh Saldırısı (R) sıfırlanmaz.",
+    "roles": [
+      "mage",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Alistar",
+    "key": 60012,
+    "name": "Alistar",
+    "title": "Minotor",
+    "describe": "- Ezgeç (P) ve Zafer Narası (E) yer değiştirdi.<br>- Yetenek gücü dizilimleriyle oynanabilir.<br>- Tekli koridorda oynanabilir.",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Amumu",
+    "key": 60032,
+    "name": "Amumu",
+    "title": "Hüzünlü Mumya",
+    "describe": "- Sargı Atışı (Q) ilave yüke sahip değil.<br>- Lanetli Dokunuş (P) büyü direncini yalnızca normal saldırılarda azaltır.",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Anivia",
+    "key": 60034,
+    "name": "Anivia",
+    "title": "Buz Ankası",
+    "describe": "- Ayaz Yanığı (E) yeteneği buz tutma etkisine sahip değil.<br>- Buzul Fırtınası (R) yeteneğinin yavaşlatma etkisi saldırı hızını da etkiler.",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Annie",
+    "key": 60001,
+    "name": "Annie",
+    "title": "Şeytan Çekici",
+    "describe": "- Annie katledildiğinde Tibbers (R) da katledilir.<br>- Kundakçı (P) yükleri katledilme halinde sıfırlanır.<br>- Alev Kalkanı (E) hareket hızı sağlamaz.",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ashe",
+    "key": 60022,
+    "name": "Ashe",
+    "title": "Ayaz Okçu",
+    "describe": "- Buz Atışı (Q) normal saldırıları yavaşlatır ve açılıp kapatılabilir.<br>- Odak (P) çatışma dışında kritik vuruş biriktirir.<br>- Şahin Atışı (E) katletme halinde ilave altın kazandırır.",
+    "roles": [
+      "marksman",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Blitzcrank",
+    "key": 60053,
+    "name": "Blitzcrank",
+    "title": "Büyük Buharlı Golem",
+    "describe": "- Statik Alan (R) pasifi yakındaki rakiplere elektrik şoku gönderir.",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Brand",
+    "key": 60063,
+    "name": "Brand",
+    "title": "İntikam Ateşi",
+    "describe": "- Alev (P) yeteneği patlama gerçekleştirmez.",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Chogath",
+    "key": 60031,
+    "name": "Cho'Gath",
+    "title": "Hiçlik'in Dehşeti",
+    "describe": "- Ziyafet (R) en fazla 6 defa birikebilir. Yükler katledilme halinde kaybolur ancak her şeyin üstünde birikebilir.<br>- Cani Dikenler (E) açıldığında oyuncuları deşip geçen dikenler gönderir.",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Corki",
+    "key": 60042,
+    "name": "Corki",
+    "title": "Gözüpek Bombacı",
+    "describe": "- Fosfor Bombası (Q) anında patlar.",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_DrMundo",
+    "key": 60036,
+    "name": "Dr. Mundo",
+    "title": "Zaun'un Delisi",
+    "describe": "- Alevli Istırap (W), Dr. Mundo'nun etrafına alan etkili hasar verir ve açılıp kapatılabilir.<br>- Acısever (E) bir saldırı değil, süreli bir güçlendirme.<br>- Adrenalin Akışı (P) zamanla can yeniler.",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "Yok",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Evelynn",
+    "key": 60028,
+    "name": "Evelynn",
+    "title": "Dul Bırakan",
+    "describe": "- Yetenekler tamamen farklı. Açıklamaları oku.<br>- Suikastçı değil, dövüşçü.",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ezreal",
+    "key": 60081,
+    "name": "Ezreal",
+    "title": "Dahi Kâşif",
+    "describe": "- Özüt Akışı (W) tüm birimlerin içinden geçerek rakiplere hasar verir ve takım arkadaşlarına saldırı hızı kazandırır.<br>- İsabet Dalgası (R) isabet ettiği her rakip başına daha az hasar verir.",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Fiddlesticks",
+    "key": 60009,
+    "name": "Fiddlesticks",
+    "title": "Kıyamet Habercisi",
+    "describe": "- Ultisi Karga Sürüsü (R) hariç tüm yetenekler tamamen farklı.<br>- Fiddlesticks'in korkutma etkisi rakibin rasgele yürümesine neden olur.",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Gangplank",
+    "key": 60041,
+    "name": "Gangplank",
+    "title": "Okyanus Şeytanı",
+    "describe": "- Top Salvosu (R) sabit alan etkili hasar yerine rasgele güllelere sahip.<br>- Moral Ver (E) hem pasif olarak hem de etkinleştirildiğinde hareket hızı ve saldırı gücü kazandırır.<br>- Çakaralmaz (Q) altın kazandırır. (Gümüş yılan artık yok.)",
+    "roles": [
+      "fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Garen",
+    "key": 60086,
+    "name": "Garen",
+    "title": "Demacia'nın Kudreti",
+    "describe": "- Demacia'nın Adaleti (R) büyü hasarı verir.",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Yok",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Gragas",
+    "key": 60079,
+    "name": "Gragas",
+    "title": "Kavgacı Ayyaş",
+    "describe": "- Fıçı Yuvarla (Q) yerde kaldığı süre fark etmeksizin tam hasar verir.<br>- Ayyaş Hiddeti (W) uzun sürer.",
+    "roles": [
+      "fighter",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Heimerdinger",
+    "key": 60074,
+    "name": "Heimerdinger",
+    "title": "Saygın Mucit",
+    "describe": "- Yetenekler benzer görünebilir ama çok farklılar.<br>- GELİŞTİR!!! (R) tek bir yetenek değil, belirli bir süre varlığını koruyan bir güçlendirme.<br>- H-28G Evrim Tareti (Q) taretleri haritanın her yerinde kurulabilir ancak Heimerdinger katledildiğinde...",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Janna",
+    "key": 60040,
+    "name": "Janna",
+    "title": "Fırtınanın Hiddeti",
+    "describe": "- Pupa Yeli (P) herkese hareket hızı kazandırır.",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_JarvanIV",
+    "key": 60059,
+    "name": "Jarvan IV",
+    "title": "Demacia'nın Simgesi",
+    "describe": "- Afet (R) tek hedeflidir.<br>- Demacia Sancağı (E) pasifi zırh sağlar.",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Jax",
+    "key": 60024,
+    "name": "Jax",
+    "title": "Silah Ustası",
+    "describe": "- Büyük Ustanın Kudreti (R) her saldırıda birikecek şekilde saldırı hızı kazandırır.<br>- Ekipman Ustalığı (P) güç karşılığında can sağlar.",
+    "roles": [
+      "fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Karthus",
+    "key": 60030,
+    "name": "Karthus",
+    "title": "Ölümşakıyan",
+    "describe": "- Ölüler asla değişmez.",
+    "roles": [
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Kassadin",
+    "key": 60038,
+    "name": "Kassadin",
+    "title": "Hiçlik Gezgini",
+    "describe": "- Güç Darbesi (E) kullanılabilmesi için etrafında 6 yetenek kullanılması gerekir.<br>- Boşluk Geçişi (R) 10 defa birikebilir.<br>- Hiçlik Taşı (P) engellenen büyü hasarının bir kısmını saldırı hızına dönüştürür.",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Katarina",
+    "key": 60055,
+    "name": "Katarina",
+    "title": "Sinsi Bıçak",
+    "describe": "- Sıçrayan Bıçak (Q) hasar verir ve rakipleri işaretler. Katarina ilave büyü hasarı vermek için yetenekleri veya saldırılarıyla bu işareti tüketebilir.<br>- Açgözlü (W) Katarina'nın etrafına hasar verir ve yetenek bir şampiyona isabet ederse hareket...",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Yok",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Kayle",
+    "key": 60010,
+    "name": "Kayle",
+    "title": "Adaletin Kılıcı",
+    "describe": "- İlahi Lütuf (W) hariç yetenekler tamamen farklı.<br>- Seviye atlamak saldırılarını değiştirmez.<br>- Kutsal Ateş (P) saldırı gücünün bir kısmına eşdeğer miktarda yetenek gücü, yetenek gücünün de bir kısmına eşdeğer miktarda saldırı gücü kazandırır.",
+    "roles": [
+      "mage",
+      "marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_KogMaw",
+    "key": 60096,
+    "name": "Kog'Maw",
+    "title": "Cehennemin Dişleri",
+    "describe": "- Ölümün Salyaları (Q) hedef seçerek kullanılır.",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_LeeSin",
+    "key": 60064,
+    "name": "Lee Sin",
+    "title": "Kör Keşiş",
+    "describe": "- Hiçbir şey onun dengesini bozamaz.",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Enerji",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Leona",
+    "key": 60089,
+    "name": "Leona",
+    "title": "Seher Işığı",
+    "describe": "- Bir insan ömründe ne güneş değişir ne de o.",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Lulu",
+    "key": 60117,
+    "name": "Lulu",
+    "title": "Peri Sihirbaz",
+    "describe": "- Işıltılı Ok (Q) atışları aynı hedefe hasar veremez.",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Lux",
+    "key": 60099,
+    "name": "Lux",
+    "title": "Işık Leydisi",
+    "describe": "- Işık Bağı'nın (Q) ikinci hedefi yarı yarıya etkilidir.",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Malphite",
+    "key": 60054,
+    "name": "Malphite",
+    "title": "Yektaş'tan Kopan Parça",
+    "describe": "- Gaddar Darbe (W) yeteneğinin pasifi hasar verir ve aktifi hasarı arttırır.",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Malzahar",
+    "key": 60090,
+    "name": "Malzahar",
+    "title": "Hiçlik'in Habercisi",
+    "describe": "- Ölü Bölge (W) kısa süreliğine alan etkili hasar verir.<br>- Haşere Çağrısı (P) belirli sayıda yetenek kullanımından sonra bir Hiçlik Haşeresi çağırır.<br>- Ölümün Pençesi (R) hedefin etrafında ölü bölge oluşturmaz.",
+    "roles": [
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_MasterYi",
+    "key": 60011,
+    "name": "Master Yi",
+    "title": "Wuju Üstadı",
+    "describe": "- Wuju Stili (E) yeteneğinin pasifi saldırı gücünü arttırır ve yetenek etkinken bu artış iki katına çıkar.<br>- Çift Saldırı (P) yüzdelik ihtimale bağlıdır.<br>- Alfa Vuruşu (Q) hareketleri tamamladıktan sonra yönlendirilemez.",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_MissFortune",
+    "key": 60021,
+    "name": "Miss Fortune",
+    "title": "Ödül Avcısı",
+    "describe": "- Caka W'dan pasife geçti.<br>- Kirli Mermiler (W) pasifi her saldırıda büyü hasarı verirken, aktifi saldırı hızını arttırır ve Ağır Yara uygular.",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Morgana",
+    "key": 60025,
+    "name": "Morgana",
+    "title": "Düşmüş Melek",
+    "describe": "- Peçeli Hanım değişmez.",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nasus",
+    "key": 60075,
+    "name": "Nasus",
+    "title": "Kumların Efendisi",
+    "describe": "- Kumların Hiddeti (R) yeteneğinin büyü hasarı geçici olarak belli bir oranda saldırı gücüne dönüşür.",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nidalee",
+    "key": 60076,
+    "name": "Nidalee",
+    "title": "Yabani Avcı",
+    "describe": "- Puma Sureti (R) bir seviyeyle başlamaz.<br>- Kolaçan (P) yeteneğinin av pasifi kaldırıldı.<br>- Vahşi Pusu (W) çok yüksek miktarda hasar verir.",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nunu",
+    "key": 60020,
+    "name": "Nunu ve Willump",
+    "title": "Yeti Süvarisi",
+    "describe": "- Kaynar Kan (W) saldırı hızı ve hareket hızı kazandırır.<br>- Buz Patlaması (E) tek bir kartopu fırlatır ve hedef seçerek kullanılır.<br>- Tüket (Q) şampiyonları hedef alamaz ama yenilen şeye bağlı olarak güçlendirmeler kazandırır.<br>- Öngörü (P) her...",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Olaf",
+    "key": 60002,
+    "name": "Olaf",
+    "title": "Başıbozuk",
+    "describe": "- Hırçın Saldırı (W) saldırı gücü, can çalma ve can emme kazandırır.<br>- Pervasız Vuruş (E) can bedelini iade etmez.",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Pantheon",
+    "key": 60080,
+    "name": "Pantheon",
+    "title": "Savaş Üstadı",
+    "describe": "- Kalkan Koruması (P) art arda kullanıldıktan sonra hasar engeller.<br>- Tepeden İnme (R) daire biçimindeki bir alana hasar verir.<br>- Yürek Deşen (E) yeteneğini kullanırken Pantheon olduğu yerde durur ve saldırır.",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Rammus",
+    "key": 60033,
+    "name": "Rammus",
+    "title": "Zırhlı Armadillo",
+    "describe": "- Sarsıntı (R), Rammus'un etrafında tekrarlanan alan etkili hasar verir.<br>- Diğer tüm yetenekler tamam.",
+    "roles": [
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ryze",
+    "key": 60013,
+    "name": "Ryze",
+    "title": "Asi Büyücü",
+    "describe": "- Yetenekler tamamen farklı (5. kez).",
+    "roles": [
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Shaco",
+    "key": 60035,
+    "name": "Shaco",
+    "title": "İblis Soytarı",
+    "describe": "- Halüsinasyon (R) ile oluşturulan kopya patlayarak daha fazla hasar verir ama kutu ortaya çıkarmaz.<br>- Soytarı Kutusu (W) ile oluşturulan kutular birbirine daha yakın yerleştirilebilir.",
+    "roles": [
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Singed",
+    "key": 60027,
+    "name": "Singed",
+    "title": "Deli Kimyager",
+    "describe": "- Güçlendirilmiş Mana Kalkanı (P) manaya bağlı olarak can kazandırır.",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sion",
+    "key": 60014,
+    "name": "Sion",
+    "title": "Ölü Savaşçı",
+    "describe": "- Yetenekler tamamen farklı. Açıklamaları oku.<br>- Sion'un yetenek gücü ve saldırı gücü dizilimleri var.<br>- Hasar odaklı bir şampiyon, ezergeçer değil.",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sivir",
+    "key": 60015,
+    "name": "Sivir",
+    "title": "Savaş Hanımı",
+    "describe": "- Seken Atış (W) açıldığında rasgele seken saldırılar gerçekleştirir.<br>- Büyü Kalkanı (E) tetiklendiğinde can yerine mana kazandırır.",
+    "roles": [
+      "marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Skarner",
+    "key": 60072,
+    "name": "Skarner",
+    "title": "Kristal Öncü",
+    "describe": "- Yetenekler tamamen farklı.<br>- Eli ağır sınıfından ve normal saldırı odaklı.<br>- Mıhla (R) tek hedefe yönelik ve hedef seçerek kullanılır.",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sona",
+    "key": 60037,
+    "name": "Sona",
+    "title": "Müzik Dehası",
+    "describe": "- Temel yeteneklerin hareleri kalıcı.<br>- Baskın Akor (P) ilave hasar verir.<br>- Kreşendo (R) yeteneğinin etki alanı daha geniş.",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Soraka",
+    "key": 60016,
+    "name": "Soraka",
+    "title": "Yıldız Çocuk",
+    "describe": "- Ulti yeteneği Dilek (R) hariç tüm yetenekler tamamen farklı.<br>- Tekli koridorda oynanabilir.<br>- Hedef seçerek kullanılan bir susturması var.",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Taric",
+    "key": 60044,
+    "name": "Taric",
+    "title": "Cevher Şövalyesi",
+    "describe": "- Yetenekler tamamen farklı. Açıklamaları oku.<br>- Tekli koridorda ve hatta belki ormanda oynanabilir.",
+    "roles": [
+      "support",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Teemo",
+    "key": 60017,
+    "name": "Teemo",
+    "title": "Çevik İzci",
+    "describe": "- Tehlikeli Tuzak (R) mantarları sekmez.",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Tristana",
+    "key": 60018,
+    "name": "Tristana",
+    "title": "Megling Topçu",
+    "describe": "- Patlayıcı Atış (E) zamanla hasar verir.",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Tryndamere",
+    "key": 60023,
+    "name": "Tryndamere",
+    "title": "Barbar Kral",
+    "describe": "- Hiddetinden o kadar korktuk ki onu değiştiremedik.",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Öfke",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_TwistedFate",
+    "key": 60004,
+    "name": "Twisted Fate",
+    "title": "İskambil Ustası",
+    "describe": "- Kapı (E) küresel bir ışınlanma yeteneğidir.<br>- Kader (R) küresel bir yavaşlatma ve açığa çıkarma yeteneğidir.<br>- Hileli Zar (P) katletme halinde kendisine ve tüm takım arkadaşlarına altın kazandırır.",
+    "roles": [
+      "mage",
+      "marksman"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Twitch",
+    "key": 60029,
+    "name": "Twitch",
+    "title": "Veba Getiren",
+    "describe": "- Zayıflatan Zehir (W) kendi etrafında alan etkili bir yetenektir.<br>- Pusu (Q) 50 saniyeye kadar sürebilir.<br>- İnfaz (E) rakiplerin üzerindeki zehir yüklerini kaldırır.",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Vayne",
+    "key": 60067,
+    "name": "Vayne",
+    "title": "Gece Avcısı",
+    "describe": "- Son Hazırlık (R) uzatılamaz.",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Veigar",
+    "key": 60045,
+    "name": "Veigar",
+    "title": "Kötülüğün Minik Efendisi",
+    "describe": "- Uğursuz Saldırı (Q) hedef seçerek kullanılır.<br>- Kara Delik (E) anında kullanılır.<br>- Denge (P) eksik manaya bağlı olarak mana yenilenmesi artışı sağlar.",
+    "roles": [
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Warwick",
+    "key": 60019,
+    "name": "Warwick",
+    "title": "Kan Avcısı",
+    "describe": "- Yetenekler tamamen farklıdır.<br>- Sonsuz Şiddet (R) hedef seçerek kullanılan bir sindirme yeteneğidir.",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Wukong",
+    "key": 60062,
+    "name": "Wukong",
+    "title": "",
+    "describe": "",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Zilean",
+    "key": 60026,
+    "name": "Zilean",
+    "title": "Zaman Bekçisi",
+    "describe": "- Saatli Bomba (Q) hedef seçerek kullanılır.<br>- Üst Düzey Öğrenim (P) tüm takıma deneyim kazandırır.",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "Mana",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Janna",
     "key": 40,
     "name": "Janna",

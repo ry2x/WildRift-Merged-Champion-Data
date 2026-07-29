@@ -1087,6 +1087,1197 @@
     "utility": 0
   },
   {
+    "id": "Jade_Ahri",
+    "key": 60103,
+    "name": "Ahri",
+    "title": "จิ้งจอกเก้าหาง",
+    "describe": "- Essence Theft (P) จะสแตคเมื่อสร้างความเสียหายแก่ศัตรู<br>- Spirit Rush (R) จะไม่รีเซ็ต",
+    "roles": [
+      "mage",
+      "assassin"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Alistar",
+    "key": 60012,
+    "name": "Alistar",
+    "title": "มิโนทอร์เดือด",
+    "describe": "- Trample (P) และ Triumphant Roar (E) สลับกันแล้ว<br>- สามารถออกไอเทมพลังเวทได้<br>- สามารถไปโซโล่เลนได้",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Amumu",
+    "key": 60032,
+    "name": "Amumu",
+    "title": "มัมมี่ผู้เศร้าสร้อย",
+    "describe": "- Bandage Toss (Q) ไม่มีชาร์จเพิ่มเติม<br>- Cursed Touch (P) ลดต้านทานเวทเมื่อทำการโจมตีปกติเท่านั้น",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Anivia",
+    "key": 60034,
+    "name": "Anivia",
+    "title": "ฟีนิกซ์น้ำแข็ง",
+    "describe": "- Frostbite (E) ไม่มีเอฟเฟกต์ติดตัว Chill<br>- Glacial Storm (R) จะสโลว์ความเร็วโจมตีด้วย",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Annie",
+    "key": 60001,
+    "name": "Annie",
+    "title": "ธิดาแห่งความมืด",
+    "describe": "- Tibbers (R) ตายเมื่อ Annie ตาย<br>- สแตค Pyromania (P) จะรีเซ็ตเมื่อตาย<br>- Molten Shield (E) ไม่เพิ่มความเร็วเคลื่อนที่",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ashe",
+    "key": 60022,
+    "name": "Ashe",
+    "title": "ศรเยือกแข็ง",
+    "describe": "- Frost Shot (Q) สลับเปิด/ปิดการโจมตีปกติให้ติดสโลว์<br>- Focus (P) สะสมคริติคอลเมื่ออยู่นอกการต่อสู้<br>- Hawkshot (E) มอบโบนัสทองเมื่อสังหารได้",
+    "roles": [
+      "marksman",
+      "support"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Blitzcrank",
+    "key": 60053,
+    "name": "Blitzcrank",
+    "title": "ยอดโกเลมจักรกลไอน้ำ",
+    "describe": "- สกิลติดตัวของ Static Field (R) จะช็อตศัตรูที่อยู่ใกล้ ๆ",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Brand",
+    "key": 60063,
+    "name": "Brand",
+    "title": "เพลิงแห่งความแค้น",
+    "describe": "- การระเบิดของ Ablaze (P) จะไม่เกิดขึ้น",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Chogath",
+    "key": 60031,
+    "name": "Cho'Gath",
+    "title": "มฤตยูแห่งวอยด์",
+    "describe": "- Feast (R) สแตคได้สูงสุด 6 ครั้ง จะหายไปเมื่อสังหารได้ สามารถสแตคกับอะไรก็ได้<br>- Vorpal Spikes (E) สลับเปิด/ปิดหนามที่จะแทงทะลุผู้เล่น",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Corki",
+    "key": 60042,
+    "name": "Corki",
+    "title": "พลระเบิดผู้อาจหาญ",
+    "describe": "- Phosphorus Bomb (Q) จะระเบิดทันที",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_DrMundo",
+    "key": 60036,
+    "name": "Dr. Mundo",
+    "title": "ชายจิตวิปลาสแห่งซอน",
+    "describe": "- Burning Agony (W) สลับเปิด/ปิดการโจมตีวงกว้างรอบตัว<br>- Masochism (E) คือบัฟที่มอบให้ในช่วงเวลาหนึ่ง ไม่ใช่การโจมตี<br>- Adrenaline Rush (P) ฟื้นฟูพลังชีวิตอย่างต่อเนื่อง",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "ไม่มี",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Evelynn",
+    "key": 60028,
+    "name": "Evelynn",
+    "title": "ผู้พรากคู่",
+    "describe": "- สกิลแตกต่างจากเดิมโดยสิ้นเชิง อ่านคำอธิบาย<br>- ไฟเตอร์ไม่ใช่มือสังหาร",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ezreal",
+    "key": 60081,
+    "name": "Ezreal",
+    "title": "นักสำรวจอัจฉริยะ",
+    "describe": "- Essence Flux (W) จะทะลุผ่านยูนิตทั้งหมด สร้างความเสียหายแก่ศัตรูและมอบความเร็วโจมตีให้แก่เพื่อนร่วมทีม<br>- Trueshot Barrage (R) จะสร้างความเสียหายน้อยลงต่อศัตรูแต่ละตัวที่โดน",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Fiddlesticks",
+    "key": 60009,
+    "name": "Fiddlesticks",
+    "title": "ลางแห่งความพินาศ",
+    "describe": "- สกิลต่าง ๆ จะแตกต่างไปโดยสิ้นเชิง ยกเว้นสกิลอัลติเมท Crowstorm (R)<br>- สถานะหวาดกลัวจาก Fiddlesticks ทำให้ศัตรูเดินไปมามั่ว ๆ",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Gangplank",
+    "key": 60041,
+    "name": "Gangplank",
+    "title": "หายนะแห่งท้องทะเล",
+    "describe": "- Cannon Barrage (R) สุ่มยิงกระสุนปืนใหญ่แทนการสร้างความเสียหายวงกว้างอย่างต่อเนื่อง<br>- Raise Morale (E) มอบความเร็วเคลื่อนที่และพลังโจมตีทั้งแบบติดตัวและเมื่อกดใช้<br>- Parrrley (Q) มอบทอง (ไม่มี Silver Serpent อีกต่อไป)",
+    "roles": [
+      "fighter"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Garen",
+    "key": 60086,
+    "name": "Garen",
+    "title": "พลังแห่งเดมาเซีย",
+    "describe": "- Demacian Justice (R) สร้างความเสียหายเวท",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "ไม่มี",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Gragas",
+    "key": 60079,
+    "name": "Gragas",
+    "title": "ขี้เมาจอมหาเรื่อง",
+    "describe": "- Barrel Roll (Q) สร้างความเสียหายเต็มจำนวนไม่ว่าถังจะอยู่บนพื้นนานแค่ไหนก็ตาม<br>- Drunken Rage (W) จะคงอยู่เป็นเวลานาน",
+    "roles": [
+      "fighter",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Heimerdinger",
+    "key": 60074,
+    "name": "Heimerdinger",
+    "title": "นักประดิษฐ์ผู้โด่งดัง",
+    "describe": "- สกิลอาจดูคล้ายกันแต่แตกต่างกันมาก<br>- UPGRADE!! (R) เป็นบัฟที่มีระยะเวลาจำกัด ไม่ใช่สกิลที่ใช้ครั้งเดียว<br>- H-28G Evolution Turret (Q) ทำงานอยู่ทั่วทั้งแผนที่ แต่จะถูกทำลายเมื่อ Heimerdinger ตาย",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Janna",
+    "key": 60040,
+    "name": "Janna",
+    "title": "วายุพิโรธ",
+    "describe": "- Tailwind (P) มอบความเร็วเคลื่อนที่ทั่วทั้งแผนที่",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_JarvanIV",
+    "key": 60059,
+    "name": "Jarvan IV",
+    "title": "วีรชนแห่งเดมาเซีย",
+    "describe": "- Cataclysm (R) เป็นสกิลเป้าหมายเดียว<br>- ความสามารถติดตัวของ Demacian Standard (E) จะมอบเกราะ",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Jax",
+    "key": 60024,
+    "name": "Jax",
+    "title": "เทพศาสตราวุธ",
+    "describe": "- Grandmaster's Might (R) มอบความเร็วโจมตีที่สแตคได้ต่อการโจมตี<br>- Equipment Mastery (P) มอบพลังชีวิตตามพลัง",
+    "roles": [
+      "fighter"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Karthus",
+    "key": 60030,
+    "name": "Karthus",
+    "title": "ผู้ขับขานแห่งความตาย",
+    "describe": "- คนตายไม่เคยเปลี่ยนแปลง",
+    "roles": [
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Kassadin",
+    "key": 60038,
+    "name": "Kassadin",
+    "title": "ผู้ท่องวอยด์",
+    "describe": "- Force Pulse (E) ต้องมีการใช้สกิล 6 ครั้งรอบตัวเขาถึงจะใช้สกิลนี้ได้<br>- Riftwalk (R) สแตคได้ 10 ครั้ง<br>- Void Stone (P) เปลี่ยนความเสียหายเวทที่ป้องกันได้บางส่วนเป็นความเร็วโจมตี",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Katarina",
+    "key": 60055,
+    "name": "Katarina",
+    "title": "คมมีดสังหาร",
+    "describe": "- Bouncing Blades (Q) สร้างความเสียหายและทำเครื่องหมายใส่ศัตรู โดย Katarina สามารถใช้งานเครื่องหมายด้วยการใช้สกิลหรือโจมตีเพื่อสร้างความเสียหายเวทเพิ่มเติม<br>- Sinister Steel (W) สร้างความเสียหายรอบตัว Katarina และเพิ่มความเร็วเคลื่อนที่หากใช้สกิลโดนแช...",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "ไม่มี",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Kayle",
+    "key": 60010,
+    "name": "Kayle",
+    "title": "อัครตุลาการ",
+    "describe": "- สกิลต่าง ๆ แตกต่างไปจากเดิมโดยสิ้นเชิง ยกเว้น Divine Blessing (W)<br>- การเลเวลอัปจะไม่เปลี่ยนการโจมตีของเธอ<br>- Holy Fervor (P) มอบพลังโจมตีตามสัดส่วนของพลังเวท และในทางกลับกันด้วย",
+    "roles": [
+      "mage",
+      "marksman"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_KogMaw",
+    "key": 60096,
+    "name": "Kog'Maw",
+    "title": "ปากเขมือบจากเบื้องลึก",
+    "describe": "- Caustic Spittle (Q) เป็นสกิลแบบชี้เป้าหมายแล้วคลิก",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_LeeSin",
+    "key": 60064,
+    "name": "Lee Sin",
+    "title": "นักบวชตาบอด",
+    "describe": "- ไม่มีสิ่งใดทำลายความสมดุลของเขาได้",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Energy",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Leona",
+    "key": 60089,
+    "name": "Leona",
+    "title": "สุริยันสาดแสง",
+    "describe": "- ในช่วงชีวิตของมนุษย์นั้น ดวงตะวันไม่เคยเปลี่ยนไป เฉกเช่นเธอ",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Lulu",
+    "key": 60117,
+    "name": "Lulu",
+    "title": "แม่มดน้อยขี้เล่น",
+    "describe": "- กระสุนจาก Glitterdance (Q) ไม่สามารถสร้างความเสียหายให้กับเป้าหมายเดิมได้",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Lux",
+    "key": 60099,
+    "name": "Lux",
+    "title": "สตรีแห่งแสงสว่าง",
+    "describe": "- เป้าหมายที่สองของ Light Binding (Q) จะได้รับผลเพียงครึ่งเดียว<br>- ตอนนี้ Final Spark (R) จะกลายเป็นภาษาเยอรมันที่ชื่อว่า Finales Funkeln",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Malphite",
+    "key": 60054,
+    "name": "Malphite",
+    "title": "เศษเสี้ยวผืนพสุธา",
+    "describe": "- การโจมตีกระจายของ Brutal Strikes (W) เป็นแบบติดตัวและเพิ่มความเสียหายตลอดเวลา",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Malzahar",
+    "key": 60090,
+    "name": "Malzahar",
+    "title": "ประกาศกแห่งวอยด์",
+    "describe": "- Null Zone (W) สร้างความเสียหายวงกว้างในช่วงเวลาสั้น ๆ<br>- Summon Voidling (P) จะเรียก Voidling ออกมาหลังจากร่ายครบจำนวนที่กำหนด<br>- Nether Grasp (R) ไม่สร้าง Null Zone รอบตัวเป้าหมาย",
+    "roles": [
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_MasterYi",
+    "key": 60011,
+    "name": "Master Yi",
+    "title": "นักดาบวูจู",
+    "describe": "- สกิลติดตัวของ Wuju Style (E) เพิ่มพลังโจมตีเป็นสองเท่าเมื่อเปิดใช้งาน<br>- Double Strike (P) ขึ้นอยู่กับเปอร์เซ็นต์โอกาส<br>- Alpha Strike (Q) ไม่สามารถกำหนดทิศทางหลังจากจู่โจมเสร็จสิ้น",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_MissFortune",
+    "key": 60021,
+    "name": "Miss Fortune",
+    "title": "นักล่าค่าหัว",
+    "describe": "- Strut (ติดตัว) ย้ายมาจาก W<br>- ความสามารถติดตัว Impure Shots (W) จะสร้างความเสียหายเวทในการโจมตีแต่ละครั้ง และเมื่อกดใช้จะเพิ่มความเร็วโจมตีพร้อมกับติดสถานะ Grievous Wounds",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Morgana",
+    "key": 60025,
+    "name": "Morgana",
+    "title": "ทูตตกสวรรค์",
+    "describe": "- สตรีผู้ซ่อนเร้นไม่เปลี่ยนผันตามกาลเวลา",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nasus",
+    "key": 60075,
+    "name": "Nasus",
+    "title": "ภัณฑารักษ์แห่งผืนทราย",
+    "describe": "- Fury of the Sands (R) จะแปลงความเสียหายเวทส่วนหนึ่งให้กลายเป็นพลังโจมตีชั่วคราว",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nidalee",
+    "key": 60076,
+    "name": "Nidalee",
+    "title": "นักล่าแห่งพงไพร",
+    "describe": "- Aspect of the Cougar (R) จะไม่อัปเลเวลให้ทันทีเมื่อเริ่มต้นเกม<br>- Prowl (P) ไม่มีสกิลติดตัวทำเครื่องหมาย Hunt<br>- Bushwhack (W) สร้างความเสียหายมหาศาล",
+    "roles": [
+      "assassin",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Nunu",
+    "key": 60020,
+    "name": "Nunu & Willump",
+    "title": "อัศวินหลังเยติ",
+    "describe": "- Blood Boil (W) มอบความเร็วโจมตีและความเร็วเคลื่อนที่<br>- Ice Blast (E) ปล่อยลูกหิมะแบบคลิกใส่เป้าหมาย<br>- Consume (Q) ไม่สามารถใช้กับแชมเปี้ยน แต่ได้รับบัฟตามสิ่งที่กินเข้าไป<br>- Visionary (P) เมื่อโจมตีปกติครบ 5 ครั้ง สกิลครั้งถัดไปจะไม่ใช้มานา -...",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Olaf",
+    "key": 60002,
+    "name": "Olaf",
+    "title": "นักรบคลั่ง",
+    "describe": "- Vicious Strikes (W) มอบพลังโจมตี ดูดเลือด และดูดเลือดเวท<br>- Reckless Swing (E) ไม่ฮีลค่าร่ายพลังชีวิตที่ใช้ไป",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Pantheon",
+    "key": 60080,
+    "name": "Pantheon",
+    "title": "หัตถ์สงคราม",
+    "describe": "- Aegis Protection (P) บล็อกความเสียหายหลังจากร่ายสกิลหลาย ๆ ครั้ง<br>- Grand Skyfall (R) เป็นสกิลโจมตีวงกว้างรูปวงกลม<br>- Heartseeker Strike (E) - Pantheon ยืนนิ่งและจู่โจมศัตรู",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Rammus",
+    "key": 60033,
+    "name": "Rammus",
+    "title": "อาร์มาดิลโลหุ้มเกราะ",
+    "describe": "- Tremors (R) สร้างความเสียหายวงกว้างต่อเนื่องรอบตัว<br>- สกิลอื่น ๆ ถือว่า \"โอเค''",
+    "roles": [
+      "tank"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Ryze",
+    "key": 60013,
+    "name": "Ryze",
+    "title": "จอมเวทพเนจร",
+    "describe": "- สกิลแตกต่างไปโดยสิ้นเชิง (นับเป็นครั้งที่ 5 แล้ว)",
+    "roles": [
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Shaco",
+    "key": 60035,
+    "name": "Shaco",
+    "title": "ตัวตลกปีศาจ",
+    "describe": "- ร่างโคลนของ Hallucinate (R) ระเบิดสร้างความเสียหายมากขึ้น แต่ไม่สร้างกล่อง Jack in the box<br>- Jack in the box (W) สามารถวางใกล้กันได้มากขึ้น",
+    "roles": [
+      "assassin"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Singed",
+    "key": 60027,
+    "name": "Singed",
+    "title": "นักเคมีคลั่ง",
+    "describe": "- Empowered Bulwark (P) ได้รับพลังชีวิตตามค่ามานา",
+    "roles": [
+      "tank",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sion",
+    "key": 60014,
+    "name": "Sion",
+    "title": "นักรบอมตะ",
+    "describe": "- สกิลแตกต่างไปโดยสิ้นเชิง อย่าลืมอ่านคำอธิบาย<br>- Sion สามารถออกได้ทั้งบิลด์พลังเวทและพลังโจมตี<br>- เป็นตัวสร้างความเสียหาย ไม่ใช่ Juggernaut",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sivir",
+    "key": 60015,
+    "name": "Sivir",
+    "title": "นายหญิงนักรบ",
+    "describe": "- Ricochet (W) เป็นสกิลเปิด/ปิดทำให้การโจมตีชิ่งใส่ศัตรูแบบสุ่ม <br>- Spell Shield (E) ได้รับมานาแทนพลังชีวิตเมื่อป้องกันสกิล",
+    "roles": [
+      "marksman"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Skarner",
+    "key": 60072,
+    "name": "Skarner",
+    "title": "ขุนพลพลังคริสตัล",
+    "describe": "- สกิลแตกต่างไปโดยสิ้นเชิง<br>- เป็นไฟเตอร์เน้นโจมตีปกติ<br>- Impale (R) เป็นสกิลล็อกเป้าหมายเดี่ยว",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Sona",
+    "key": 60037,
+    "name": "Sona",
+    "title": "เทพธิดาเครื่องสาย",
+    "describe": "- ออร่าของสกิลพื้นฐานคงอยู่ตลอดเวลา<br>- Power Chord (P) สร้างโบนัสความเสียหาย<br>- Crescendo (R) ระยะกว้างขึ้น",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Soraka",
+    "key": 60016,
+    "name": "Soraka",
+    "title": "ธิดาแห่งดวงดาว",
+    "describe": "- สกิลต่าง ๆ แตกต่างกันโดยสิ้นเชิง ยกเว้นสกิลอัลติเมท Wish (R)<br>- สามารถยืนเลนคนเดียวได้<br>- มีสกิลใบ้แบบชี้เมาส์และคลิก",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Taric",
+    "key": 60044,
+    "name": "Taric",
+    "title": "อัศวินแห่งมณี",
+    "describe": "- สกิลจะแตกต่างจากเดิมโดยสิ้นเชิง อ่านคำอธิบาย<br>- สามารถยืนเลนคนเดียวหรือเล่นตำแหน่งป่าได้",
+    "roles": [
+      "support",
+      "tank"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Teemo",
+    "key": 60017,
+    "name": "Teemo",
+    "title": "หน่วยสอดแนมผู้ว่องไว",
+    "describe": "- Noxious Trap (R) ไม่สามารถเด้งต่อกันได้",
+    "roles": [
+      "marksman",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Tristana",
+    "key": 60018,
+    "name": "Tristana",
+    "title": "พลปืนแห่งเมกลิง",
+    "describe": "- Explosive Shot (E) เป็นสกิลสร้างความเสียหายต่อเนื่อง",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Tryndamere",
+    "key": 60023,
+    "name": "Tryndamere",
+    "title": "ราชาคนเถื่อน",
+    "describe": "- พวกเรากลัวไฟโทสะของเขามากเกินกว่าที่จะเปลี่ยนแปลงเขา",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "type": "Fury",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_TwistedFate",
+    "key": 60004,
+    "name": "Twisted Fate",
+    "title": "จ้าวแห่งไพ่",
+    "describe": "- Gate (E) คือการเทเลพอร์ตแบบทั่วแผนที่<br>- Destiny (R) คือการสโลว์และเปิดเผยตำแหน่งแบบทั่วแผนที่<br>- Loaded Dice (ติดตัว) จะมอบทองให้กับเพื่อนร่วมทีมทุกคนและตัวเขาเองเมื่อสังหารยูนิต",
+    "roles": [
+      "mage",
+      "marksman"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Twitch",
+    "key": 60029,
+    "name": "Twitch",
+    "title": "หนูกาฬโรค",
+    "describe": "- Deliberating Poison (W) เป็นสกิลพื้นที่รอบตัวเขา<br>- Ambush (Q) สามารถคงอยู่ได้นานสูงสุด 50 วินาที<br>- Expunge (E) จะลบสแตคพิษบนตัวศัตรู",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Vayne",
+    "key": 60067,
+    "name": "Vayne",
+    "title": "นักล่ารัตติกาล",
+    "describe": "- Final Hour (R) ไม่สามารถเพิ่มระยะเวลาได้",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Veigar",
+    "key": 60045,
+    "name": "Veigar",
+    "title": "ยอดวายร้ายตัวจิ๋ว",
+    "describe": "- Baleful Strike (Q) เป็นสกิลแบบชี้เมาส์และคลิก<br>- Event Horizon (E) จะร่ายทันที<br>- Equilibrium (ติดตัว) จะเพิ่มการฟื้นฟูมานาตามมานาที่หายไป",
+    "roles": [
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Warwick",
+    "key": 60019,
+    "name": "Warwick",
+    "title": "นักล่าโลหิต",
+    "describe": "- สกิลจะแตกต่างกันโดยสิ้นเชิง<br>- Infinite Duress (R) เป็นสกิลหยุดยั้งแบบชี้เมาส์และคลิก",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Wukong",
+    "key": 60062,
+    "name": "Wukong",
+    "title": "",
+    "describe": "",
+    "roles": [
+      "fighter",
+      "tank"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
+    "id": "Jade_Zilean",
+    "key": 60026,
+    "name": "Zilean",
+    "title": "จอมเวทผู้คุมกาลเวลา",
+    "describe": "- Time Bomb (Q) เป็นสกิลแบบชี้เมาส์และคลิก<br>- Heightened Learning (ติดตัว) จะมอบค่าประสบการณ์ให้กับทั้งทีมของเขา",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "type": "มานา",
+    "hero_id": 0,
+    "is_wr": false,
+    "lanes": [],
+    "is_free": false,
+    "difficult": 0,
+    "damage": 0,
+    "survive": 0,
+    "utility": 0
+  },
+  {
     "id": "Janna",
     "key": 40,
     "name": "Janna",
