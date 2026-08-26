@@ -1358,8 +1358,8 @@
     "title": "the Righteous",
     "describe": "Born to a Targonian Aspect at the height of the Rune Wars, Kayle honored her mother's legacy by fighting for justice on wings of divine flame. She and her twin sister Morgana were the protectors of Demacia for many years—until Kayle became disillusioned...",
     "roles": [
-      "mage",
-      "marksman"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10041,
@@ -3671,8 +3671,7 @@
     "title": "The Unsundered",
     "describe": "A fallen god wielding both divine and profane power, Zaahen hunts his fellow Darkin while defying the corruption that threatens to consume him. Once willingly sealed within his glaive to stave off madness, he now walks free, noble in heart and vicious...",
     "roles": [
-      "fighter",
-      "assassin"
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 0,

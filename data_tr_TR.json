@@ -1358,8 +1358,8 @@
     "title": "Adaletin Kılıcı",
     "describe": "Rün Savaşlarının en şiddetli döneminde doğan ve Adaletin Sureti'nin kızı olan Kayle, ilahi ışıktan kanatlarıyla adaleti sağlayarak annesinin mirasını yaşattı. Kayle, ikiz kardeşi Morgana ile birlikte uzun yıllar boyunca Demacia'nın muhafızı oldu; fakat...",
     "roles": [
-      "mage",
-      "marksman"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10041,
@@ -3671,8 +3671,7 @@
     "title": "Daimi",
     "describe": "Hem ulvi hem de melun bir güç taşıyan düşmüş ilah Zaahen, darkin kardeşlerini avlayarak kendisini tüketmeye ant içmiş bir yozlaşmaya karşı savaşıyor. Bir zamanlar deliliği önlemek için kendi isteğiyle mızrağına hapsolan Zaahen, asil ve kararlı yüreğiyle...",
     "roles": [
-      "fighter",
-      "assassin"
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 0,

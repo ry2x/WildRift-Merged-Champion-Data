@@ -1358,8 +1358,8 @@
     "title": "la Virtuosa",
     "describe": "Figlia di un'Incarnazione targoniana durante la Guerra delle Rune, Kayle onora il ricordo della madre lottando per la giustizia, mossa da ali di fiamme divine. Lei e la sorella gemella Morgana sono state le protettrici di Demacia per molti anni, finché...",
     "roles": [
-      "mage",
-      "marksman"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10041,
@@ -3671,8 +3671,7 @@
     "title": "L'interminabile",
     "describe": "Un dio caduto che possiede poteri divini e profani, Zaahen dà la caccia ad altri Darkin mentre resiste alla corruzione che potrebbe distruggerlo. In passato si fece imprigionare volontariamente nel suo falcione per sfuggire alla follia, ma ora è a piede...",
     "roles": [
-      "fighter",
-      "assassin"
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 0,

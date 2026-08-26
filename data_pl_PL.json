@@ -1358,8 +1358,8 @@
     "title": "Sprawiedliwa",
     "describe": "Kayle, córka targońskiego Aspektu urodzona w punkcie kulminacyjnym Wojen Runicznych, uhonorowała dziedzictwo swojej matki, wznosząc się na skrzydłach gorejących boskim ogniem, by walczyć o sprawiedliwość. Wraz ze swoją bliźniaczką Morganą latami były...",
     "roles": [
-      "mage",
-      "marksman"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10041,
@@ -3671,8 +3671,7 @@
     "title": "Nierozdarty",
     "describe": "Zaahen, upadły bóg władający mocą tak boską, jak i bluźnierczą, ściga swych braci Darkinów, zmagając się jednocześnie ze spaczeniem, które pragnie go pochłonąć. Niegdyś dobrowolnie zapieczętowany w glewii, by powstrzymać szaleństwo, teraz jest wolną...",
     "roles": [
-      "fighter",
-      "assassin"
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 0,

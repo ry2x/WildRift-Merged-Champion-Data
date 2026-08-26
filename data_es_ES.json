@@ -1358,8 +1358,8 @@
     "title": "la Justa",
     "describe": "Kayle, nacida de un Aspecto de Targon en el punto álgido de las Guerras Rúnicas, honró el legado de su madre al continuar la lucha por la justicia con sus alas de llamas divinas. Durante muchos años, ella y su hermana gemela Morgana fueron las...",
     "roles": [
-      "mage",
-      "marksman"
+      "marksman",
+      "mage"
     ],
     "type": "Maná",
     "hero_id": 10041,
@@ -3671,8 +3671,7 @@
     "title": "El Impertérrito",
     "describe": "Zaahen es un dios caído que esgrime un poder divino y profano. Da caza a sus hermanos Oscuros mientras se enfrenta a la corrupción que amenaza con consumirlo. Antaño, accedió voluntariamente a que lo sellaran en el interior de su guja para frenar el...",
     "roles": [
-      "fighter",
-      "assassin"
+      "fighter"
     ],
     "type": "Maná",
     "hero_id": 0,

@@ -1358,8 +1358,8 @@
     "title": "die Rechtschaffene",
     "describe": "Kayle wurde von einem targonischen Aspekt zur Welt gebracht, während die Runenkriege tobten, und ehrte das Vermächtnis ihrer Mutter, indem sie auf den Schwingen der göttlichen Flammen für Gerechtigkeit kämpfte. Sie und ihre Zwillingsschwester Morgana...",
     "roles": [
-      "mage",
-      "marksman"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10041,
@@ -3671,8 +3671,7 @@
     "title": "Der Ungespaltene",
     "describe": "Zaahen ist ein gefallener Gott, der sowohl über göttliche als auch weltliche Kräfte verfügt. Er jagt andere Düstere und kämpft gegen die Verderbnis, die ihn zu verschlingen droht. Früher hat er sich freiwillig in seiner Gleve eingeschlossen, um den...",
     "roles": [
-      "fighter",
-      "assassin"
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 0,

@@ -1358,8 +1358,8 @@
     "title": "a Justa",
     "describe": "Nascida de um Aspecto targonense no auge das Guerras Rúnicas, Kayle honrava o legado de sua mãe lutando por justiça com asas de chamas divinas. Ela e sua irmã gêmea, Morgana, foram as protetoras de Demacia por muitos anos, até Kayle se desiludir com as...",
     "roles": [
-      "mage",
-      "marksman"
+      "marksman",
+      "mage"
     ],
     "type": "Mana",
     "hero_id": 10041,
@@ -3671,8 +3671,7 @@
     "title": "O Indissociável",
     "describe": "Um deus caído com poder divino e profano, Zaahen caça os outros Darkin em constante desafio à corrupção que ameaça consumi-lo. Outrora selado por livre vontade em sua glaive para evitar o jugo da loucura, ele agora se vê liberto, de coração nobre e...",
     "roles": [
-      "fighter",
-      "assassin"
+      "fighter"
     ],
     "type": "Mana",
     "hero_id": 0,

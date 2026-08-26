@@ -1358,8 +1358,8 @@
     "title": "Thiên Thần Phán Quyết",
     "describe": "Là đứa con của một Thượng Nhân Targon trong thời kì Chiến Tranh Cổ Ngữ, Kayle tôn vinh những di sản của mẹ mình bằng cách chiến đấu vì công lý, trên đôi cánh rực cháy ngọn lửa thần thánh. Cô cùng người em gái song sinh Morgana bảo hộ vương quốc Demacia...",
     "roles": [
-      "mage",
-      "marksman"
+      "marksman",
+      "mage"
     ],
     "type": "Năng Lượng",
     "hero_id": 10041,
@@ -3671,8 +3671,7 @@
     "title": "Bất Diệt Thần Quân",
     "describe": "Một vị thần sa ngã sở hữu cả quyền năng thiêng liêng lẫn sức mạnh hắc ám, Zaahen săn lùng những Darkin đồng loại trong khi chống lại sự tha hóa đang đe dọa nuốt chửng mình. Từng tự nguyện phong ấn bản thân trong thanh đại đao để giữ mình khỏi cơn điên...",
     "roles": [
-      "fighter",
-      "assassin"
+      "fighter"
     ],
     "type": "Năng Lượng",
     "hero_id": 0,
